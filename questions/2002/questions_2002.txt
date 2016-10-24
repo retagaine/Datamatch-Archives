@@ -1,0 +1,340 @@
+(
+# HCS Datamatch
+# 
+# master questions file
+#
+#
+#
+
+# NEW QUESTIONS 
+
+(1) What could make you miss a 9am exam?
+(A) breakfast in bed with your long-term soulmate
+(B) $2000
+(C) studying for your 2pm exam
+(D) a message from God
+(E) breakfast in bed with last night's hookup
+DE:NERDINESS:-2 3 6 0 -6
+DE:ROMANTIC:7 0 3 1 6
+DE:TRADITIONAL:0 0 0 7 0
+
+(2) If you had a million dollars, you'd...
+(A) wave your finger in front of your face and say, "one meeelion dollars."
+(B) invest in a judicious mix of non-Enron stocks, bonds, and mutual funds.
+(C) buy yourself a chair in a Harvard Department
+(D) blow it all in Vegas
+(E) blow it all on that special someone
+DE:HUMOR: 4 0 1 0 0
+DE:ROMANTIC: 0 0 0 1 5
+DE:CHEAP: -4 4 0 -7 -5
+DE:AMBITION: -4 0 5 -2 0
+
+(3) In your pocket(s), you carry:
+(A) pockets?  I only wear tight-fitting clothing.
+(B) a PalmPilot
+(C) a pen
+(D) a condom
+(E) a tight wad of bills
+DE:TRADITIONAL: -1 0 2 -4 1
+DE:KINKINESS: 3 0 0 4 1
+DE:CHEAP: 0 0 0 0 -2
+DE:NERDINESS: -3 5 1 0 0
+
+(4) You spent last summer...
+(A) don't remember/on the beach
+(B) training for the Peace Corps
+(C) if I told you, I'd have to kill you.
+(D) earning money 
+(E) prepping for the MCAT 
+DE:SOCIAL: 5 4 -2 -2 -5
+DE:NERDINESS: -5 -1 3 0 7
+DE:CHEAP: 0 -4 0 -7 0
+DE:AMBITION: -2 -5 5 4 6
+
+(5) If you were a Simpson's character, who would you be?
+(A) Lisa
+(B) Ned Flanders
+(C) Mayor Quimby
+(D) Krusty the Clown
+(E) Homer
+DE:HUMOR:0 -2 0 5 3
+DE:AMBITION:5 -2 6 3 -2
+DE:NERDINESS:5 4 0 -2 -3
+DE:TRADITIONAL:1 5 -1 -3 -2
+DE:SOCIAL:-4 3 2 5 3
+
+(6) What makes a party?
+(A) multiple kegs
+(B) two turntables and a microphone
+(C) your date
+(D) free Pinocchio's
+(E) me
+DE:SOCIAL:4 5 6 3 7
+DE:ROMANTIC:-3 0 7 0 -1
+
+#Kept '02
+(7) At the end of a successful first date ...
+(A) when I get one, I'll let you know.
+(B) you give a firm handshake.
+(C) you receive a friendly peck on the cheek.
+(D) you begin to disgust your onlooking roommates with displays of affection.
+(E) you wake up and go home.
+DE:NERDINESS:3 0 0 0 0  
+DE:KINKINESS:0 0 0 2 4
+DE:TRADITIONAL:2 2 2 0 0
+DE:ROMANTIC:0 0 3 1 0
+DE:SOCIAL:-4 -2 0 0 0 
+
+(8) What's your favorite fruit?
+(A) cherries (unpopped)
+(B) bananas (at least 10 inches)
+(C) peaches and cream
+(D) any forbidden fruit
+(E) Ricky Martin
+DE:KINKINESS:2 7 0 4 3
+DE:VALUES:4 -5 2 -1 -2
+
+(9) How close to your parents do you want to settle?
+(A) Mommy's house
+(B) same city
+(C) just out of their driving distance but close enough to fly over
+(D) don't care
+(E) is another planet possible?
+DE:VALUES:7 4 2 0 -7
+DE:NERDINESS:7 2 -1 0 -4
+
+(10) If you weren't at Harvard, what would you be doing?
+(A) 10-20 in Sing Sing
+(B) backpacking through Europe
+(C) starting your own business
+(D) going to Yale
+(E) working
+DE:AMBITION:-5 -3 6 -2 4
+DE:CYNICISM:6 -3 0 4 0
+DE:VALUES:-5 2 3 -7 5
+DE:SOCIAL:-4 4 2 -7 2
+
+(11) You never leave home without your:
+(A) VISA card
+(B) chastity belt
+(C) cell phone
+(D) comb
+(E) underwear... usually
+DE:KINKINESS:1 7 -1 -3 6
+DE:NERDINESS:1 -7 3 -1 0 
+DE:AMBITION:5 -2 5 3 -1
+
+(12) Do you kick puppies?
+(A) yes, unless they're really, really cute!
+(B) ONLY if they're really, really CUTE!!
+(C) I'm exempt from Moral Reasoning
+(D) if it bites your patent leather shoes
+(E) only if my girlfriend's not watching
+DE:TRADITIONAL:-3 -6 0 2 3
+DE:CYNICISM:4 6 7 2 5
+DE:ROMANTIC:2 -5 0 -2 5
+
+(13) If I could have one magical power, it would be:
+(A) making $100,000 disappear
+(B) making freshmen's pants disappear
+(C) making the keg disappear
+(D) making problem sets disappear
+(D) making a capella groups disappear
+DE:KINKINESS:1 5 2 -2 0
+DE:VALUES:-3 -2 1 3 5
+DE:SOCIAL:1 2 3 -5 4
+DE:NERDINESS:2 -3 -5 6 0
+
+(14) You are an honorary:
+(A) Jew
+(B) PhD
+(C) member of The Tiddlywinks Society
+(D) member of your significant other's house
+(E) student
+DE:SEMITIC:5 0 0 0 0
+DE:NERDINESS:0 6 7 -2 -4
+DE:ROMANTIC:0 0 -2 5 0
+
+(15) By the third date I'm:   
+(A) looking through the facebook for someone new
+(B) thinking about baby names 
+(C) I'll let you know when I find out
+(D) on a plane to the Bahamas 
+(E) thinking about a fourth 
+DE:ROMANTIC:-6 3 -3 4 6 
+DE:VALUES:-6 5 3 2 6 
+
+(16) Favorite position:
+(A) pg. 44 of the Kama Sutra--the Thundering Lotus
+(B) under the keg
+(C) fifth position
+(D) quarterback
+(E) I don't know yet...
+DE:KINKINESS:7 2 -2 0 -3
+DE:ATHLETIC:4 -2 1 5 0
+DE:TRADITIONAL:-5 1 2 5 4 
+
+(17) How desperate for a date are you?
+(A) it's gotta be breathing
+(B) I'll even date an HCS member
+(C) I only date FM's hottest TFs
+(D) I'm taking this survey, aren't I?
+(E) not at all--my minifridge is full of beer
+DE:SOCIAL:-6 -3 -4 -2 -1
+DE:KINKINESS:5 3 4 -1 -3
+DE:ROMANTIC:-7 3 1 -2 -2
+DE:TRADITIONAL:-4 -1 -5 -1 0
+
+(18) Who should pay when you're out on a date?
+(A) the person who asked.
+(B) the boy.
+(C) the girl.
+(D) split the cost.
+(E) your parents.
+DE:TRADITIONAL:0 5 -2 0 -1 
+DE:CHEAP:-1 0 0 1 3 
+
+(19) I'm as funny as
+(A) the Lampoon
+(B) FM
+(C) Harvey Mansfield (get it? get it?)
+(D) George Bush's State of the Union
+(E) Flare 
+DE:HUMOR:2 4 -3 6 -7
+DE:SATIRE:4 6 -3 5 7
+DE:AMBITION:6 5 1 5 -4
+
+#UPDATED '02
+(20) When something physical happens in a relationship, it's 
+(A) ice skating at Frog Pond
+(B) something you've been building towards for a while 
+(C) a mutual decision 
+(D) the other person's idea 
+(E) exactly two hours since you met each other
+DE:ATHLETIC:3 0 0 0 0
+DE:ROMANTIC:0 2 1 0 1
+DE:KINKINESS:0 -1 0 -1 4
+DE:TRADITIONAL:0 0 1 0 -4
+
+(21) D&D means:
+(A) Diversity & Distinction
+(B) Dungeons & Dragons
+(C) Drink & Drive
+(D) my fall semester grades
+(E) the keystrokes required to delete a line (or block-level copy)
+DE:NERDINESS:2 5 -2 -4 7
+DE:SOCIAL:-1 -5 4 5 -3
+DE:AMBITION:4 -1 -3 -5 0
+
+(22) What operating system are you running?
+(A) Microsoft Windows
+(B) MacOS < 10
+(C) MacOS X
+(D) Linux or BSD
+(E) OS/161
+DE:NERDINESS: -4 0 2 7 10
+
+#NEEDS UPDATING
+(23) Favorite Argument Topic
+(A) Vi vs. Emacs 
+(B) Strict Vs. Loose Constitutional Interpretation 
+(C) N'Sync Vs. Backstreet Boys 
+(D) Ribbed Vs. Lubricated 
+(E) XFL Vs. NFL
+DE:NERDINESS:5 4 2 -2 -3
+DE:AMBITION:2 5 -1 0 0
+DE:KINKINESS:-4 -3 0 6 1 
+DE:ATHLETIC:-3 0 0 2 7
+
+#UPDATED '02
+(24) Where will you take your perfect match found through Datamatch?
+(A) Chez Henri 
+(B) Tommy's Value
+(C) Cafe Pamplona
+(D) the Quincy Grille  
+(E) who needs food when you've got a single?
+DE:ROMANTIC: 5 -2 3 0 -2 
+DE:CHEAP: -7 2 5 3 4 
+DE:KINKINESS: 0 -1 1 0 5
+
+(25) Favorite TV Show 
+(A) I don't watch TV 
+(B) Temptation Island
+(C) Buffy the Vampire Slayer
+(D) The O'Reilly Factor
+(E) Fear Factor
+DE:HUMOR:0 2 2 -2 0 
+DE:SATIRE:0 0 5 -2 -2 
+DE:AMBITION:3 0 -2 6 6
+DE:NERDINESS:3 0 4 -5 -5
+
+
+# Updated '02
+(26) Which site best characteristizes your web browsing habits?
+(A) <A HREF="http://www.flingthecow.com/">Fling the Cow</A>
+(B) <A HREF="http://www.drudgereport.com/">The Drudge Report</A>
+(C) <A HREF="http://www.espn.com/">ESPN.com</A>
+(D) <A HREF="http://www.xxx.com/">XXX</A> (Browse at your own risk, and only if you're of age, or something like that.)
+(E) <A HREF="http://www.thinkgeek.com/">64.28.67.61</A>
+DE:NERDINESS:2 1 -3 0 5
+DE:KINKINESS:1 0 0 3 -1
+DE:CYNICISM:3 5 -1 0 1 
+DE:AMBITION:-3 2 0 -4 3
+DE:HUMOR:4 0 0 0 0
+DE:SATIRE:5 3 0 0 0
+
+# UPDATED '02
+(27) What movie do you go to on a date?
+(A) <I>Lord of the Rings</I>
+(B) <I>Legally Blond</I>
+(C) <I>Occupation</I> (The PSLM Film)
+(D) <I>Casablanca</I>
+(E) <I>Black Hawk Down</I>
+DE:NERDINESS:5 0 0 2 0
+DE:KINKINESS:0 0 1 0 0 
+DE:HUMOR:0 3 0 0 -2
+DE:ROMANTIC:1 0 0 5 -2
+DE:TRADITIONAL:2 0 -2 5 0
+
+#Updated '02
+(28) Your favorite book as a child was:
+(A) Anne of Green Gables
+(B) Where the Wild Things Are
+(C) Go Dog, Go 
+(D) "How to Get into Harvard: The 12-year Plan" 
+(E) The Bible 
+DE:NERDINESS:0 0 3 3 0
+#DE:STRAIGHTEDGE:0 1 0 0 -3
+DE:TRADITIONAL:0 2 0 0 -3
+DE:AMBITION:0 0 0 3 0
+
+#NEEDS UPDATING
+(29) What is the highest level of substance abuse you would tolerate in a partner?
+(A) none at all 
+(B) social drinking 
+(C) binge drinking 
+(D) use of soft drugs (pot, ecstasy) 
+(E) there's a limit? 
+DE:NERDINESS:3 2 0 0 0
+DE:TRADITIONAL:5 2 -1 -2 -5
+DE:SOCIAL:0 3 2 0 0
+#DE:STRAIGHTEDGE:5 2 -1 -2 -5
+
+
+# Bryan's "traditional" closing questions
+(30) How serious of a relationship are you looking for?
+(A) relationship? 
+(B) someone to take notes for me when I sleep through Ec 10 lecture
+(C) a date to the formal
+(D) one night of wild kinky sex
+(E) a ring
+DE:ROMANTIC:0 0 1 0 4
+#DE:STRAIGHTEDGE:0 0 0 0 3
+DE:TRADITIONAL:0 0 0 0 3
+DE:KINKINESS:0 0 0 3 0
+DE:HUMOR:1 2 0 0 0
+DE:NERDINESS:1 2 0 0 0
+
+
+
+

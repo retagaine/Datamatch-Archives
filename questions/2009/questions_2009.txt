@@ -1,0 +1,351 @@
+(1) Your ideal first date is:
+(A) Dinner and a movie.
+(B) Long walks on the beach.
+(C) Shopping "Literature and Arts A-90. Forbidden Romance in Modern China".
+(D) Over IRC.
+(E) Pitted and stuffed with marzipan.
+DE:NERDY:0 0 2 3 0
+DE:TECHY:0 0 0 4 0
+DE:SOCIALLYINEPT:-2 -3 2 4 0
+DE:ROMANTIC:2 4 1 -3 0
+DE:HUMOROUS:0 0 3 2 4
+DE:ARTSY:-1 1 2 -2 1
+DE:PREPPY:3 2 0 -2 -2
+DE:PRACTICAL:0 0 2 0 0
+
+(2) What building on campus describes your past relationships?
+(A) Science Center: It seemed like a good idea at the time.
+(B) UHS: Always paranoid about you getting pregnant.
+(C) Byerly Hall: 9 times out of 10, it ended prematurely.
+(D) Wigglesworth: Long and intermittent.
+(E) SOCH: Don't go there.
+DE:NERDY:1 0 0 1 2
+DE:HUMOROUS:1 1 2 1 2
+DE:PREPPY:0 1 -2 1 0
+DE:EROTIC:1 0 2 0 0
+DE:PRACTICAL:0 0 0 0 1
+
+(3) What place on campus describes your desired relationship?
+(A) Tunnels: Hot, steamy, and unclear where it's going to go next.
+(B) Mass Hall: The woman is on top and in charge.
+(C) Cambridge Common: Strangers in the night.
+(D) The Fogg: Plays hard to get.
+(E) Widener.
+DE:SOCIALLYINEPT:-2 0 1 0 3
+DE:ROMANTIC:1 0 0 0 0
+DE:HUMOROUS:0 0 0 0 2
+DE:ARTSY:2 1 2 1 -1
+DE:EROTIC:4 2 0 0 1
+DE:LEFTIST:1 4 2 0 1
+
+(4) Where is your significant other?
+(A) In a galaxy far, far away.
+(B) Across the street in the shower... according to my camera in the tree.
+(C) Right here.
+(D) Only in my dreams.
+(E) Russia. Mail-order bride.
+DE:NERDY:3 0 0 0 0
+DE:TECHY:1 2 0 0 0
+DE:SOCIALLYINEPT:0 3 -1 1 2
+DE:ROMANTIC:0 -2 1 2 -2
+DE:HUMOROUS:1 2 0 0 4
+
+(5) What is your favorite color?
+(A) I'm blue. Da ba dee...
+(B) And it was all yellow.
+(C) What can brown do for you?
+(D) It's not easy being green.
+(E) I thought we'd moved beyond color.
+DE:NERDY:0 -2 -1 1 0
+DE:HUMOROUS:0 0 1 0 2
+DE:ARTSY:1 2 -3 2 3
+DE:PREPPY:0 2 0 0 0
+DE:POLITICAL:0 0 0 0 3
+DE:LEFTIST:0 0 0 0 3
+
+(6) How about your favorite TV show?
+(A) CSI: Antarctica
+(B) Desperate I-Bankers
+(C) Canadian Idol
+(D) Hannity's Germany
+(E) Found
+DE:NERDY:1 -1 -2 0 2
+DE:TECHY:2 0 0 0 0
+DE:PREPPY:0 1 2 0 0
+DE:POLITICAL:0 0 0 4 0
+DE:LEFTIST:0 0 0 4 0
+
+(7) Core : Gen Ed ::
+(A) CUE : Q
+(B) Loker : CQH
+(C) Bok : Faust
+(D) Hilles : SOCH
+(E) VD : STI
+DE:NERDY:1 0 0 1 0
+DE:PRACTICAL:2 2 2 0 0
+
+(8) What is love?
+(A) A wonderful and mysterious feeling.
+(B) A biochemical reaction.
+(C) Your score when you play Rafael Nadal.
+(D) Widener : couples
+(E) Baby don't hurt me, don't hurt me, no more.
+DE:SOCIALLYINEPT:0 1 0 2 -1
+DE:ROMANTIC:3 -1 0 3 2
+DE:ARTSY:3 -2 0 0 1
+DE:EROTIC:0 0 0 2 0
+
+(9) 2008 Summer Olympics associations:
+(A) Display of Great Power and Majesty of Rising China Overtaking Capitalist Nations in Wonders of Economy and Culture.
+(B) Misty May-Treanor and Kerri Walsh in bikinis.
+(C) The beautiful weather.
+(D) Michael Phelps in a speedo.
+(E) I'm still protesting.
+DE:HUMOROUS:2 0 4 0 0
+DE:EROTIC:0 3 0 3 0
+DE:POLITICAL:1 0 2 0 3
+DE:LEFTIST:1 0 2 0 3
+
+(10) Which of these is your favorite philosophical quote?
+(A) "Today you are You, that is truer than true. There is no one alive who is Youer than You." -- Dr. Seuss
+(B) "The noble person is not a tool." -- Confucius
+(C) "Keep it Simple, Stupid." -- Gene Simmons
+(D) "You can't always get what you want." -- Dr. Jagger
+(E) "We shall grapple with the ineffable, and see if we may not eff it after all." -- Douglas Adams
+DE:HUMOROUS:0 3 3 3 4
+DE:ARTSY:1 2 -1 1 1
+
+(11) Your Harvard email address is:
+(A) jharvard@fas.harvard.edu
+(B) john.harvard39@college.harvard.edu
+(C) john.harvard_2.june.15.1639.domini.anno@mail.old.yard.college.fas.harvard.edu
+(D) johnnie@hcs.harvard.edu
+(E) john.harvard@gmail.com
+DE:NERDY:0 0 2 2 1
+DE:TECHY:0 1 3 3 3
+DE:HUMOROUS:0 0 3 0 2
+DE:PREPPY:0 1 0 0 0
+DE:PRACTICAL:2 0 0 0 1
+
+(12) Your most prominent feature is your __________ .
+(A) Eyes
+(B) Hair
+(C) Glasses
+(D) Acne
+(E) Touchscreen
+DE:NERDY:0 0 2 2 3
+DE:TECHY:0 0 0 0 3
+DE:SOCIALLYINEPT:0 0 0 0 1
+DE:ROMANTIC:2 0 -1 -3 -4
+DE:HUMOROUS:0 0 1 2 3
+DE:PREPPY:1 1 -1 -5 0
+
+(13) __________ Ranger
+(A) Power
+(B) Forest
+(C) Level 12
+(D) Lone
+(E) HUDS Cookie
+DE:NERDY:2 0 3 0 1
+DE:SOCIALLYINEPT: 1 0 2 0 0
+DE:HUMOROUS:0 0 0 0 3
+DE:PREPPY:0 0 -2 0 -1
+DE:PRACTICAL:1 1 0 0 0
+
+(14) I'm never going to __________ .
+(A) Sleep
+(B) Finish my thesis
+(C) Give you up
+(D) The Quad
+(E) Contact my Datamatches
+DE:NERDY:2 2 3 0 0
+DE:SOCIALLYINEPT: 0 0 -1 1 2
+DE:ROMANTIC:0 0 1 0 -4
+DE:HUMOROUS:0 0 3 2 0
+DE:PREPPY:-2 0 -1 0 0
+
+(15) You and your significant other get into a fight. What do you do?
+(A) Sleep on the couch.
+(B) Talk through it. On gchat.
+(C) Reverse roundhouse.
+(D) fdisk.
+(E) Significant what?
+DE:NERDY:0 1 0 4 0
+DE:TECHY:0 1 0 4 0
+DE:SOCIALLYINEPT:0 1 2 3 4
+DE:ROMANTIC:0 0 1 -3 -5
+DE:HUMOROUS:0 1 3 2 0
+DE:PRACTICAL:0 1 0 0 0
+
+(16) What happens after the fight?
+(A) Both sleep on the couch.
+(B) Remove "It's Complicated" from facebook status.
+(C) UHS.
+(D) fsck.
+(E) I guess ESPN shows something else.
+DE:NERDY:0 1 0 4 0
+DE:TECHY:0 1 0 4 0
+DE:ROMANTIC:4 0 0 0 0
+DE:HUMOROUS:0 1 1 2 3
+
+(17) President Obama's first scandal:
+(A) Watergate: after stringent environmental regulations, the nation is inundated with excess clean water.
+(B) Irangate: President Obama correctly pronounces 'Ahmadinejad' twice consecutively.
+(C) Pearlygate: when the world ends in 2012 as foreseen by the Maya, and Our Lord Barack Obama delivers the faithful to heaven, only superdelegates get harps.
+(D) Nandgate: President Obama is a cyborg sent from the future.
+(E) Billgates: new Secretary of State, Attorney General, and VP are actually all Bill Clinton.
+DE:NERDY:1 0 0 2 0
+DE:TECHY:0 0 0 2 0
+DE:LEFTIST:3 4 1 0 2
+
+(18) A class is scheduled for 3pm. You show up:
+(A) at least 10 minutes before 3.
+(B) 3:07 sharp.
+(C) by 4 or so.
+(D) I don't. Lecture videos.
+(E) on the surveillance footage at 15:25. Please explain this anomaly.
+DE:NERDY:0 0 0 0 2
+DE:TECHY:0 0 0 1 2
+DE:SOCIALLYINEPT:1 0 0 2 1
+DE:HUMOROUS:0 0 0 1 2
+DE:PREPPY:0 1 0 0 0
+DE:PRACTICAL:2 1 0 2 0
+
+(19) Free __________
+(A) Lunch
+(B) Software
+(C) Love
+(D) Tibet
+(E) Willy
+DE:NERDY:0 2 0 1 0
+DE:TECHY:0 3 0 0 0
+DE:SOCIALLYINEPT:1 0 -2 0 0
+DE:ROMANTIC:0 0 0 0 1
+DE:HUMOROUS:0 0 0 0 1
+DE:ARTSY:1 0 3 2 1
+DE:PREPPY:2 -3 0 -1 0
+DE:POLITICAL:0 2 0 0 0
+DE:PRACTICAL:2 0 0 0 0
+
+(20) How would you fix the economic crisis?
+(A) Government spending, obviously.
+(B) Tax cuts, obviously.
+(C) My long-lost Kenyan uncle will wire me $700 billion.
+(D) No need. There's still free food at the weekly seminars.
+(E) Step one: FIX. Step two: IT. Step three: FIX IT!
+DE:HUMOROUS:0 0 3 2 3
+DE:POLITICAL:0 0 3 0 0
+DE:LEFTIST:3 -3 0 1 -1
+DE:PRACTICAL:2 2 0 3 0
+
+(21) Chuck Norris?
+(A) There is no answer to Chuck Norris.
+(B) There is no answer to Chuck Norris.
+(C) There is no answer to Chuck Norris.
+(D) There is no answer to Chuck Norris.
+(E) There is no answer to Chuck Norris.
+DE:NERDY:0 0 0 0 0
+
+(22) How did your last relationship end?
+(A) Amicably.
+(B) We don't speak anymore.
+(C) Restraining order.
+(D) Think "Mr. and Mrs. Smith".
+(E) (node*)0
+DE:NERDY:0 0 0 0 3
+DE:TECHY:0 0 0 0 5
+DE:SOCIALLYINEPT:-2 1 2 1 1
+DE:ROMANTIC:1 0 0 0 0
+DE:HUMOROUS:0 0 3 2 3
+DE:PREPPY:0 0 0 0 -3
+
+(23) You would take your date to see which of these hot new releases?
+(A) Bourne Again
+(B) <image> of Solace
+(C) River Tam Beats Up Everyone
+(D) Frost/Blagojevich
+(E) Gone With the Wind
+DE:NERDY:0 2 2 0 0
+DE:ARTSY:-3 -2 -1 1 4
+DE:PRACTICAL:1 0 0 0 0
+
+(24) Your sex life is most like which of the following Harvard classrooms?
+(A) Sever 113: Old and run-down, but still tight.
+(B) Harvard Hall 104: Only lets you enter from the front.
+(C) Geological Lecture Hall: You'll probably get splinters.
+(D) Adams House Pool: It no longer exists.
+(E) Sanders Theatre: No wifi.
+DE:NERDY:0 0 0 1 2
+DE:TECHY:0 0 0 0 3
+DE:SOCIALLYINEPT:0 1 0 2 3
+DE:ROMANTIC:1 -4 -3 0 0
+DE:ARTSY:1 -1 0 1 -2
+DE:EROTIC:2 2 -2 0 0
+
+(25) i is __________
+(A) in ur baskit // foldin ur clothes
+(B) in ur internets // spreadin ur memes
+(C) in ur field // rotatin ur numburz
+(D) for igloo! (J is for jam)
+(E) the ninth letter of the Latin alphabet. WTF is with the first four choices?
+DE:NERDY:1 1 5 1 -1
+DE:TECHY:1 3 1 0 0
+DE:HUMOROUS:2 3 5 0 0
+DE:PREPPY:0 0 0 0 2
+
+(26) Your favorite book is:
+(A) Nineteen Eighty-Four
+(B) Pride and Prejudice
+(C) The Audacity of Hope
+(D) Battlefield Earth
+(E) Wicked Cool PHP
+DE:NERDY:0 0 0 0 2
+DE:TECHY:0 0 0 0 4
+DE:HUMOROUS:0 0 0 2 2
+DE:ARTSY:2 3 1 -2 -4
+DE:POLITICAL:3 0 3 0 0
+DE:LEFTIST:2 0 4 0 0
+
+(27) Green is the new Crimson:
+(A) Because we ran out of red tape.
+(B) Because it raises our US News score.
+(C) Just to mess with the newspaper at 14 Plympton St.
+(D) Frog affirmative action.
+(E) To promote color-blind admissions.
+DE:HUMOROUS:3 1 0 2 3
+DE:LEFTIST:0 0 1 3 3
+
+(28) Shell is:
+(A) What you find on long walks on the beach.
+(B) The game Bernard Madoff plays.
+(C) Cheaper than an apartment, and lower-maintenance.
+(D) Kind of like Exxon.
+(E) /bin/false
+DE:NERDY:0 0 0 0 3
+DE:TECHY:0 0 0 0 4
+DE:ROMANTIC:3 0 0 0 0
+DE:HUMOROUS:0 1 3 2 2
+DE:POLITICAL:0 2 0 2 0
+DE:PRACTICAL:0 0 3 0 0
+
+(29) The only thing we have to fear is __________ .
+(A) fear itself
+(B) raptors
+(C) the One Ring
+(D) Math 55
+(E) furries
+DE:NERDY:0 3 3 1 1
+DE:SOCIALLYINEPT:-1 1 1 3 2
+DE:HUMOROUS:0 2 0 1 1
+DE:PRACTICAL:2 1 0 0 0
+DE:LEFTIST:2 0 0 0 0
+
+(30) Metaquestion?
+(A) Metameta?
+(B) I agree with the guy from the next choice.
+(C) Previous choice is stupid. (TODO: rewrite)
+(D) (You peer hesitantly over the fourth wall.)
+(E) I never metaquestion I didn't like.
+DE:NERDY:3 2 2 0 2
+DE:HUMOROUS:0 0 0 1 3
+DE:ARTSY:1 0 0 3 1

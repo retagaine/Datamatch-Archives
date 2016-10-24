@@ -1,0 +1,43 @@
+Datamatch Attracts Students with Jokes, Free Food, and (Maybe) a Little Something Else
+By DEREK G. XIAO, CRIMSON STAFF WRITER February 12, 2016
+Having missed the start to cuffing season and looking for alternatives to Tinder, 3,300 of Harvard’s lovelorn students are taking their quest for a Valentine digital this year by enrolling in Datamatch.
+
+The survey has already attracted roughly half of the undergraduate student body, with 500 more female than male students signing up thus far. Quincy House leads the registrations as of publication with 258 potential matches, and Pforzheimer is in last with 185, according to Raynor J. Kuang ’17, the leader of the development team.
+
+Now in its 21st year, the most recent rendition of the Harvard Computer Society’s annual online matchmaking service features a number of changes from previous editions.
+
+Most noticeably, this year’s survey was developed in collaboration with campus humor magazine Satire V and included consulting from Psychology professor Steven A. Pinker.
+
+Satire V. said they prioritized humor above the search for true love.
+
+“I think we upped the ante,” Daniel J. Kenny ’18, an editor of Satire V, said. “We didn’t write the questions with personality traits in mind, we just wrote whatever questions that we thought were funny.”
+
+One question, for example, asked potential matches which class they identified with in bed. Risqué responses included Harvard’s mandatory freshman writing class; “everyone’s been in me at some point,” the large introductory economics course; “700 people are involved,” and the notoriously difficult CS50; “stay up until 4AM and end up leaving with a new t-shirt.”
+
+Another question prompted students to fill in the blank: “If I had to have a romantic tryst with an author I would pick…,” to which respondents were offered options such as “Leo Tolstoy–length matters,” “Dr. Seuss–I would do it here, I would do it there, I would do it anywhere,” “George R.R. Martin–I just hope I don’t get killed off,” and “Gabriel Garcia Marquez–One Hundred Years of Solitude.”
+
+In improving the survey’s sense of humor, however, the HCS development team did not forget to also keep in mind an ultimate goal of the service: to match compatible people with one another. To this end, the team consulted Pinker, a noted behavioral scientist, on the psychology of human attraction.
+
+Kuang said HCS tried to use their conversation with Pinker to inform this year’s matching process.
+
+“We tried to use that to help the algorithm,” he said, “but the basic principle remains: obviously, the more similar you are, the more likely we are to match you.”
+
+And Datamatch has so far proven itself a capable matcher, if not cupid. Kuang recalled anecdotal evidence of numerous couples who emailed him and said Datamatch had paired them together years earlier.
+
+Still, Kuang emphasized that real romance was not the purpose of the service.
+
+“Datamatch is completely casual,” he said. “If you’re not looking for a relationship, if you’re in a relationship already and you’re just looking to do it for fun, it’s not something where you feel like you have to reach out to people.”
+
+“And it doesn’t hurt that there’s free food,” Kuang added.
+
+Indeed, for many students, perhaps the most enticing aspect is the promise of a potential date with free food. With some funding from the Undergraduate Council, this year the computer society is partnering with local eateries Zinneken’s, El Jefe’s, Clover, and Pinkberry to pay for the meals of matched couples on their first “date.”
+
+So far, the promise of free food has swayed at least one student to participate.
+
+“At first, I was waffling between doing it or not,” said Ryan K. Sim ‘19. “But then I decided—hey, I’ll do it for Zinneken’s.”
+
+The survey doesn’t close until just before Valentine’s day, so students still have plenty of time to register.
+
+–Staff writer Jamila M. Coleman contributed reporting to this story.
+
+–Staff Writer Derek G. Xiao can be reached at derek.xiao@thecrimson.com. Follow him on Twitter @derekgxiao.

@@ -1,0 +1,505 @@
+From jerosenb Fri Jan 31 17:37:41 1997
+X-From-Line: owner-hcs-datamatch  Thu Jan 30 09:16:29 1997
+Received: (from major@localhost) by hcs.harvard.edu (8.8.5/8.8.3) id JAA20244 for hcs-datamatch-outgoing; Thu, 30 Jan 1997 09:16:23 -0500 (EST)
+From: Janet Rosenbaum <jerosenb>
+Message-Id: <199701301416.JAA18438@hcs.harvard.edu>
+Subject: [HCS-Datamatch] final copy, really
+To: hcs-datamatch
+Date: Thu, 30 Jan 1997 09:16:21 -0500 (EST)
+Organization:  i'll get to it
+X-Mailer: ELM [version 2.4 PL25]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Sender: owner-hcs-datamatch@hcs.harvard.edu
+Precedence: bulk
+Reply-To: hcs-datamatch@hcs.harvard.edu
+Lines: 452
+Xref: hcs.harvard.edu datamatch:101
+
+
+(1)
+Which statement best applies to you?
+	A.  I always get the same grades, no matter how hard I work.
+	B.  My grades are good enough with minimal effort -- why bother?
+	C.  I have to get perfect grades! Sleep is for the weak!
+	D.  I put in lots of work, but only some of the time, so I get all
+sorts of grades.
+
+* ambition
+
+(2)
+You're driving alone, in an unfamiliar place, and flipping through the 
+radio channels.  You come to the following types of music.  Which are you 
+most likely to leave on:  
+a) jazz
+b) classical
+c) country
+d) "classic" rock
+e)  mainstream contemporary (e.g., "alternative")
+f)  indy-type music (i.e., really alternative)
+g)  rap, or modern R&B  
+
+* match with like
+
+(3)
+Your friend and you are in the same concentration-related class.  He/she
+does much better than you on one of the tests.  
+	A.  even though you know he/she studied more than you, you are 
+	secretly jealous, and a little angry
+	B.  because you studied more than him/her, you are jealous of
+	his/her innate talent
+	C.  you are happy for him/her since he/she deserves it.
+	D.  try to be happy for him/her, but confess your jealousy.
+	E.  this would never happen.  I try to hang out with people out of 
+	my concentration for this reason.
+
+* ambition
+  date's ambition
+  ? nastiness
+
+(11)
+You are in high school, and you get one of those Presidential Scholars
+applications, an honor which awards no money, but you get to fly out
+and meet the president if you win.  There is also a lengthy application
+which requires at least one specially written essay.  You
+	A.  fill it out right away, honored to have been picked
+	B.  are disappointed that there is no money involved and think
+	    the prize sort of dubious, but fill it out and send it in at
+	    the last minute
+	C.  set it aside, and never get around to filling it out
+	D.  throw it away
+
+* ambition
+  anality
+
+(6)
+If your SO had an intellectual epiphany during an intimate moment, you would
+	A.  find it understandable.  you experience "aha" moments during
+	inopportune moments as well.  
+	B.  be offended.  after all, there is a time 
+	for schoolwork, and this is definitely not one of them!  
+	C.  understand how important ideas are to him/her and that they
+	are beyond your SO's control, but would feel hurt that he/she
+	was so easily distracted from you.
+	D.  think it's cool that you're dating someone who is so
+	inspired and creative
+
+* mellowness towards date's qualities
+
+(20)
+What is your overriding concern in shopping for classes?  
+	A.  Classes w/good chairs to sleep in
+	B.  I don't -- my classes are planned out years in advance
+	C.  an intellectual challenge
+	D.  fun subject matter 
+	E.  All my friends say it's a gut
+	F.  all my friends are taking it
+
+* ambition
+  anality
+  extroversion (for F)
+
+(21)
+@ How much work do you have?
+	A.  A lot
+	B.  A whole hell of a lot.
+	C.  Oh, I'm screwed.
+	D.  The Ad Board is stalking me.
+
+(22)
+Do you ever clean up after your roommate?
+	A. Yes.
+        B. I would if it were necessary, but it isn't.
+        C. No, I don't.
+        D. No, I couldn't live with anyone messy.
+
+* anality
+  tolerance of mellowness
+
+(27)
+When I find out something bad/good, I...
+	A.  Think about it
+	B.  tell a close friend
+	C.  Tell everyone *all* the details
+	D.  Tell everyone the condensed version
+
+* introversion/extroversion
+
+(7)
+You are on an airplane.  
+Which statement best describes your interactions with your seatmates?
+	A.  I strike up conversation with friendly-looking strangers
+	when I'm bored.  If personal topics are raised, I don't mind 
+	revealing much about myself --- I'll probably never see them again, 
+	anyhow.
+	B.  I sometimes converse with seatmates, when I get enough nerve
+	to, anyhow.  If a conversation happens, I'm relieved to have
+	someone to talk with, since long plane rides can get boring.  
+	C.  I strike up conversation with seatmates.  I enjoy using this
+	chance to try-out new personae --- it's exhilarating to pretend
+	to be someone I'm not.
+	D.  I never talk with strangers.  It seems risky.
+	E.  I can never get up enough nerve to initiate a conversation
+	with strangers, but I'm glad to talk with them.
+	F.  I enjoy the solitude and anonymity of a plane ride;  I
+	dislike having my thoughts interrupted by conversation.  
+
+* I/E:  F, E, B, A, C (D functions as a slightly introverted "none of the 
+above")
+
+(12)
+When you were a kid you played on:
+	A.  swings
+	B.  slide
+	C.  sandbox
+	D.  jungle gym
+	E.  in the trees/bushes
+
+* I/E:  E gets you freak points, and a middle rating for I/E
+C, A, B, D
+
+(16)
+You've had a hectic week.  It's finally Friday afternoon and you have
+nothing scheduled.  You are more likely to:
+	A.  go lie down and rest, letting your adrenaline and stress levels
+	subside a bit before you proceed with your weekend.
+	B.  go for a walk by yourself.  it's been awhile since you've
+	had time to enjoy the fresh air and the privacy of your
+	thoughts.
+	C.  go for a run or long bikeride to work off your stress
+	D.  go to the MAC or your house weight room to work off the stress
+	E.  go to the office of your extracurricular club to check up on
+	things, and hang out.
+	F.  find some friends and hang out with them
+	G.  play videogames or watch TV
+
+* I/E and anality
+
+(17)
+You live in a single off a common room shared by three other roommates.
+Your door is usually
+	A.  ajar
+	B.  wide open
+	C.  closed
+	D.  closed and locked
+
+* I/E
+
+(18)
+Why would you wear black clothing?
+	A.  Someone died
+	B.  When it's on top in my drawer
+	C.  "I wear black on the outside because black is how I feel on
+	the inside."
+	D.  It doesn't show stains
+
+* freak, mellow
+
+(19)
+You are invited to a national conference about one of your interests.
+You go, but to your disappointment, it is unbelievably dull.  You:
+	A.  stay to be polite to the speakers/organizers
+	B.  stay, hoping it improves, and not wanting to miss anything
+	C.  strike up conversation with other bored-looking people in
+	    the back of the room
+	D.  fall asleep/ read books/ write a letter
+	E.  throw paper airplanes/get up on stage and start a discussion
+	about something interesting
+
+* system, I/E
+
+(24)
+You are eating dinner at a professor's house, and find a
+cockroach in the salad.  You:
+	A. tell him/her in private 
+	B.  start a conversation about it at the table
+	C. take it out of your salad and hide it in your napkin so their
+	feelings won't be hurt, but don't eat any of your salad.
+	D.  extract it, and eat the minimum amount of salad necessary to
+	be polite 
+	E.  do not touch your salad
+	F.  eat all of your salad, leaving the roach behind
+	G.  eat *all* of your salad
+
+* formality, system
+
+Which Scooby-Doo character do you most identify with?
+	Scooby
+	Shaggy
+	Velma
+	Daphne
+	Fred
+	the Mystery Machine
+
+* own axis:  match Daphne and Fred.  Velma and Velma.  Velma and
+Shaggy/Scooby.  Shaggy and Shaggy.  Scooby and Scooby.  Mystery Machine
+gets freak points.  plus matched with self.  
+
+HUPD
+	Stop us from occupying Univ Hall
+	Stop us from riding bikes in the Yard
+	Gets me into my room when I'm locked out
+	protect us from the Pit People
+	break up parties just when things start to get fun
+	Bail us out of jail
+
+* system
+
+Your favorite procrastination method:
+	A.  E-mail/net
+	B.  Basketball
+	C.  sex
+	D.  pretending to work
+	E.  reading
+	F.  distracting your friends
+	G.  videogames/foosball
+
+* I/E, mellowness
+
+========= Social Life / Interests =====================
+
+You're up three hours later than normal.  Why?  
+      A.  schoolwork
+      B.  you've gotten into a conversation with your roommates
+      C.  you're at Tommy's or a similar hang-out.
+      D.  you had a lot to do for your extracurric
+
+* ambition, anality
+
+My favourite drink is
+	beer
+	wine
+	"sex on the beach"/"slippery nipple"
+	"Anything.  Make it a double, no a triple"
+	root beer
+	water
+
+* anality,  drinking
+
+My favourite drink is
+	alcoholic
+	caffeinated
+	none of the above
+
+* coffee vs. alcohol 
+	
+You're in a room with many other sweaty people at night.  Pick the
+answer which best describes where you are, or what you are doing:  
+	MAC
+	Review session
+	Drinking
+	Sex
+	Dancing
+
+* I/E.  ambititon
+
+============= Other ==============
+
+(25)
+Your roommate comes out to you.  What do you do?
+	A. tell him/her that you are uncomfortable with homosexuality because
+	   of your moral convictions and switch out
+	B. switch out without notification due to discomfort with the idea
+	C. You find yourself unconsciously distancing self from him/her,
+	   but you try not to let it show because you value your friendship 
+	   more than that.
+	D. no biggie.  though I don't know many gays/lesbians, I'm already 
+	   comfortable with my roommate, regardless of his/her sexuality.
+	E. no biggie.  a large chunk of my friends are gay/lesbian
+
+* liberal
+
+(13)
+@ Favourite authoritarian:
+	A.  Henry Ford
+	B.  Walt Disney
+	C.  Richard Nixon
+	D.  Harry Lewis
+	E.  Draco
+
+(14)
+You buy a package of cookies.  What do you think?
+	A.  "156 calories per cookie."
+	B.  "No real girl scouts?"
+	C.  "It's been too long since my last chocolate hit."
+	D.  "Num num.  Cookies."
+
+* anality 
+
+(15)
+@ Favorite Harvard superhero:
+	A.  Harry Lewis
+	B.  Menu Man
+	C.  Domna
+	D.  Action Man
+	E.  Rudd Coffey
+
+(26)
+What shape are you most like:
+	A.  circle
+	B.  rectangle
+	C.  triangle
+	D.  square
+	E.  squiggly line
+
+* own axis.  match circles with anyone.
+match others with like.
+
+(8)
+Which of the following comic strips do you most relate to?
+	A.  Dilbert
+	B.  Sylvia
+	C.  Cathy
+	D.  For Better or For Worse
+	E.  Doonesbury
+	F.  The Far Side
+	G.  Calvin and Hobbes
+
+* match with like ?
+
+(9)
+@ Favorite same-sex lover pair:
+ 	the Tick and Arthur
+	Batman and Robin
+	Marcy and Peppermint Patty, Peanuts
+	George Stephanopolous (SP?) and Ralph Reed
+	Wooster and Jeeves
+	Ernie and Bert
+
+=========== The Relationship / Sex ================
+
+(10)
+Where would you want your date to take you?
+	A.  dinner
+	B.  Grille
+	C.  play/movie
+	D.  new heights of ecstasy
+
+* match with like
+
+(28)
+Where would your Dream Date go clothes shopping?
+	A.  Brooks Brothers/ Ann Taylor
+	B.  Gap
+	C.  Oonas - Salvation Army
+	D.  I'm not sure I'd notice --- I don't see a huge difference
+	between the above choices
+	E.  I understand the difference, but I don't care --- it's
+	what's underneath the clothes that matters.
+
+* sophis.  formality
+
+(29)
+@ When you go on a date you want to:
+	A.  Walk on the wild side
+	B.  Find the Yin for your Yang
+	C.  Find someone just like me
+	D.  Lead innocent sheep astray
+
+* determines how to match other questions
+
+Beyond which point does your sexual comfort level stop?  
+	A.  Physical contact
+	B.  Nudity
+	C.  Intercourse
+	D.  Bondage
+	E.  Limits?
+
+* match with like
+
+(4)
+When you see an attractive person in the dining hall, you
+	A.  plan your approach
+	B.  walk over and say hi.
+	C.  Just look and fanticize
+	D.  Banish these sinful thoughts
+
+* I/E.  sexual repression for D.  
+
+(5)
+"Prepared for sex" = 
+	A.  married
+	B.  condom
+	C.  lubrication and equipment
+	D.  feeling frisky
+	E.  breathing/organic
+
+* match with like
+
+(23)
+@ Favorite pick-up line:
+	A.  Vi or emacs?
+	B.  There's a Wal-mart in my pocket and it's closing soon
+	C.  Is that <insert name of textbook here> you're reading?
+	D.  I have thesis, you have antithesis, and together we can make
+	synthesis.
+	E.  The word of the day is "marsupial".  Let's go back to my
+	place and spread the word.  
+
+(30)
+Sex in Widener:
+	A.  would be horribly romantic --- all those books from floor to
+	ceiling.  
+	B.  repulses me:  it's too stuffy and dusty
+	C.  is something I plan to do because it's one of those three things
+
+* match with like
+
+(31)
+You take a year off.  Which of the following describes your most likely reason?
+	A.  I wanted to wander the mountains and find myself
+	B.  I got a wonderful internship at the Smithsonian.  
+	C.  I wanted to see the Andes.
+	D.  The Ad Board made me.
+
+* anality.  ambition
+
+(32)
+Which Peanuts character do you most identify with?  
+	A.  Linus
+	B.  Charlie Brown
+	C.  Sally
+	D.  Lucy
+	E.  Marcy
+	F.  Schroeder
+	G.  Peppermint Patty
+	H.  Snoopy
+
+* match all with self.  also:  Schroeder/Marcy.  PP/Marcy.  PP/Snoopy.  
+Sally/CB, Linus/Schroeder, Linus/Snoopy, 
+
+
+What do you think of the "Ban Boredom:  Get Married in Store 24!"
+campaign?
+	A.  stupid.  why would anyone get married in store 24?
+	B.  brilliant in its tackiness!  store 24 took its campiness and
+	ran with it.  
+
+* match with like 
+
+Which dead president do you most identify with?
+	A.  Thomas Jefferson
+	B.  Millard Fillmore
+	C.  James K Polk
+	D.  Andrew Jackson
+	E.  Richard Nixon
+
+* match with like.  
+would be good to correlate with Peanuts question.  (give more points if
+it does correlate):
+CB should have picked Fillmore.  
+TJ --- Schroeder, Marcy 
+AJ:  Snoopy
+
+Which dead poet would you most like to date?
+	A.  Gertrude Stein
+	B.  Sylvia Plath
+	C.  Lord Byron
+	D.  Langston Hughes
+	E.  Nikki Giovanni 
+	F.  Edgar Allan Poe
+
+*  match with self.  also, SP/EAP.  SP/GS.  NG/LH.  
+
+

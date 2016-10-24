@@ -1,0 +1,316 @@
+(1) Your favorite Boston activity is:
+(A) Shopping at the Pru
+(B) Strolling through the Common
+(C) Dining at the Federalist
+(D) Visiting the MFA
+(E) Taking a cab to the airport
+DE:CLASSY:1 1 2 2 -1
+DE:AMBITIOUS: 2 -1 2 0 1
+DE:ARTSY:-1 1 0 3 0
+
+(2) Where do you sleep on a tough weekday night?
+(A) Your room
+(B) Lamont
+(C) Science Center computer lab
+(D) My gf's/bf's room
+(E) My common room, because my roommate's "busy".
+DE:EXTROVERTED:0 3 -3 2 0
+DE:EROTIC:0 2 -2 5 0
+DE:NERDY:0 0 4 -2 0
+
+(3) My favorite book is:
+(A) War and Peace
+(B) The Joy of Cooking
+(C) Linear Algebra Done Right
+(D) The CUE Guide
+(E) The No Spin Zone by Bill O'Reilly
+DE:AMBITIOUS:5 -1 3 0 0
+DE:CLASSY:0 0 0 4 -1
+DE:ARROGANT:0 0 2 0 4
+
+(4) When I think of a ring, I think of: 
+(A) The scary movie
+(B) A field that just wasn't meant to be
+(C) Engagement
+(D) One Ring: Rule them all and in the darkness bind them
+(E) One Ring: Harvard's Newest Tradition
+DE:NERDY:0 5 0 5 0
+DE:ROMANTIC:0 0 5 0 0
+DE:HUMOROUS:-1 0 0 0 0
+DE:CLASSY:0 0 2 0 -2
+DE:ARROGANT:0 0 0 0 2
+
+(5) My favorite Facebook feature is:
+(A) Photos of Me
+(B) News Feed
+(C) It's complicated
+(D) Savage poking
+(E) Groups
+DE:ARTSY:4 0 0 0 0
+DE:EXTROVERTED:0 3 0 4 1
+DE:ROMANTIC:0 0 -3 -2 -2
+DE:ARROGANT:4 0 0 0 1
+
+(6) My favorite dining hall is:
+(A) Adams
+(B) Annenberg
+(C) Currier
+(D) Hillel
+(E) Felipe's
+DE:EXTROVERTED:4 4 -4 0 0
+DE:CLASSY:2 0 0 0 -2
+DE:ARROGANT:2 0 0 0 0
+
+(7) Do you think the structurality of structure?
+(A)
+(B)
+(C)
+(D)
+(E)
+DE:AMBITIOUS:1 0 -1 0 1
+DE:HUMOROUS:0 1 -1 1 0
+DE:ARROGANT:1 0 0 0 -1
+
+(8) A romantic date in a field:
+(A) Perfect place to give her the ring
+(B) No ideals to worry about
+(C) Better than a group date
+(D) Sounds like an pleasant commute
+(E) Better not have characteristic 2
+DE:NERDY:1 2 3 4 5
+DE:ROMANTIC:4 3 2 1 -2
+DE:EROTIC:0 3 -2 0 0
+
+(9) U + ME = ?
+(A) It's complicated.
+(B) US
+(C) $60 down the drain
+(D) ME + U
+(E) Debauchery - U - U
+DE:ROMANTIC:-1 1 -2 0 -1
+DE:EROTIC:1 0 2 0 2
+DE:NERDY:0 0 0 4 2
+
+(10) What do you use to read your email? 
+(A) GMail (I'm hip and modern)
+(B) pine (everybody's doing it)
+(C) mailx (real men don't need ncurses)
+(D) Thunderbird (it doesn't crash so much anymore)
+(E) FAS webmail (I'm in no rush)
+DE:NERDY:0 1 5 0 -3
+DE:AMBITIOUS:1 1 4 0 -2
+DE:EXTROVERTED:2 0 -3 0 0
+
+(11) Your ideal occupation is:
+(A) Hedge Fund I-Banking Consultant
+(B) Environmental Poverty Social Worker
+(C) Doctor Lawyer Indian Chief
+(D) Priest Rabbi Minister Nunmonk
+(E) Guitar-Painting Poetry Dancer
+DE:AMBITIOUS:5 -3 5 -3 -3
+DE:EXTROVERTED:2 -1 2 2 1
+DE:ARTSY:-2 0 0 0 2
+
+(12) If you could have one meal with any historical figure, it would be:
+(A) Caesar Salad
+(B) Eggs Benedict (XVI)
+(C) Cherry Garcia Ice Cream
+(D) Baby Ruth
+(E) General Gao's Chicken
+DE:AMBITIOUS:2 1 -1 1 -1
+DE:ARROGANT:2 2 1 1 0
+DE:ARTSY:-1 0 2 0 0
+
+(13) In 2008, you're voting for:
+(A) Obama
+(B) McCain
+(C) Summers
+(D) The next American Idol
+(E) LaRouche
+DE:AMBITIOUS:1 1 2 -1 -2
+DE:ARROGANT:0 0 3 0 4
+DE:ARTSY:0 0 0 2 0
+DE:HUMOROUS:0 0 1 1 3
+
+(14)
+(A) 42
+(B) 666
+(C) 1066
+(D) 1/137.036
+(E) 1729
+DE:NERDY:2 0 1 4 3
+DE:AMBITIOUS:0 3 2 0 0
+DE:HUMOROUS:2 1 0 0 1
+
+(15) Your favorite monster is?
+(A) Shrek
+(B) BFG
+(C) Balrog
+(D) Paul McLoughlin
+(E) The one of order 808017424794512875886459904961710757005754368000000000
+DE:AMBITIOUS:1 0 0 5 0
+DE:NERDY:0 1 3 0 5
+DE:ARROGANT:-2 -4 1 5 2
+
+(16) You'd like your kid to grow up to be:
+(A) Derek Bok
+(B) Larry Summers
+(C) Howard Georgi
+(D) Alan Dershowitz
+(E) Natalie Portman
+DE:ARROGANT:0 3 2 3 0
+DE:AMBITIOUS:1 3 1 4 1
+DE:ARTSY:0 -1 -2 0 3
+
+(17) Your favorite school is:
+(A) Business (Make money)
+(B) Medical (Make money by saving lives)
+(C) Divinity (Lose money by saving souls)
+(D) Law (Make money by selling your soul)
+(E) Engineering (Free ice cream at CS colloquia)
+DE:NERDY:-2 1 0 0 4
+DE:AMBITIOUS:3 2 0 2 1
+
+(18) How do you find out what's happening on campus?
+(A) Table tents (so you don't have to talk to people)
+(B) House lists (so you don't have to leave your room)
+(C) Crimson Calendar (because you live at 14 Plympton)
+(D) There are campus events? (you read the Crimson Calendar)
+(E) The New York Times
+DE:EXTROVERTED:-1 -2 1 -1 0
+DE:HUMOROUS:0 0 2 2 3
+
+(19) Your daily reading habit is:
+(A) The New York Times
+(B) boredatlamont.com
+(C) The Crimson
+(D) Slashdot
+(E) Your Core sourcebook
+DE:NERDY:1 -1 1 4 3
+DE:EROTIC:-1 2 -1 -2 1
+
+(20) What would you like most in the Allston plan?
+(A) Solar powered buildings (so you can afford your kids' tuition)
+(B) Another pub
+(C) A student center
+(D) "Arts"
+(E) "Science"
+DE:NERDY:1 0 0 -2 2
+DE:ARTSY:0 0 0 2 -2
+DE:EXTROVERTED:0 2 2 0 0
+
+(21) Your dream date is:
+(A) Annenberg
+(B) North End
+(C) Top of the Great Dome above Building 10
+(D) Dick Cheney's Undisclosed Location
+(E) Sunday November 9th, 4004 BC
+DE:CLASSY:-2 3 0 0 1
+DE:NERDY:0 -1 5 1 3
+DE:AMBITIOUS:-3 1 4 4 3
+
+(22) Your idea of a power couple is:
+(A) Bill and Hillary Clinton
+(B) Bill and Melinda Gates
+(C) Brad Pitt and Angelina Jolie
+(D) James Carville and Mary Matalin
+(E) Noam Elkies and Lisa Randall
+DE:NERDY:0 2 -1 2 3
+DE:AMBITIOUS:3 2 2 3 2
+DE:EROTIC:-1 -2 3 0 -2
+
+(23) Place to spend a cold winter night:
+(A) Loker pub (I'm a construction worker. Time and a half, baby.)
+(B) Steam tunnels (no need to wait for the shuttle)
+(C) Science Center observatory (best view around)
+(D) The Student Organization Center at Hilles (I like my privacy)
+(E) Lamont reading room (I like your company...but keep it anonymous!)
+DE:NERDY:-2 0 2 1 0
+DE:EROTIC:1 0 1 0 2
+
+(24) Your dream job is:
+(A) President of Harvard
+(B) President of Goldman Sachs
+(C) Astronaut-Firefighter, MD
+(D) The Chess Mister
+(E) Paul Erdos
+DE:AMBITIOUS:3 4 4 0 2
+DE:HUMOROUS:2 0 0 3 4
+DE:NERDY:0 0 0 0 5
+
+(25) Your favorite philosopher is:
+(A) John Rawls
+(B) Laozi
+(C) Jack Kerouac
+(D) Jack Bauer
+(E) Jacques Derrida
+DE:EROTIC:0 0 0 4 -1
+DE:ARTSY:0 2 2 -1 1
+DE:CLASSY:2 2 0 0 1
+
+(26) Before you die, you'd like to get to:
+(A) Paris
+(B) Tokyo kekekeke!
+(C) Antarctica
+(D) Carnegie Hall
+(E) Minas Tirith
+DE:ROMANTIC:4 0 -4 1 0
+DE:NERDY:-1 3 0 0 4
+DE:ARTSY:0 1 0 4 0
+DE:HUMOROUS:0 0 2 0 3
+DE:CLASSY:3 0 -3 3 0
+
+(27) HCS is:
+(A) Harvard Computer Society
+(B) Harvard College Society
+(C) Harvard Collage Society
+(D) Harvard Canadian Society
+(E) Human Chorionic Somatomammotropin
+DE:NERDY:3 0 0 -1 4
+DE:ARTSY:0 0 3 0 0
+DE:ARROGANT:0 3 0 0 0
+
+(28) Who wins the race?
+(A) Achilles
+(B) Tortoise
+(C) Godel
+(D) Escher
+(E) Bach
+DE:NERDY:-2 0 5 4 2
+DE:JOCK:5 -3 0 0 0
+DE:ARTSY:0 0 0 5 5
+DE:AMBITIOUS:0 -5 0 0 0
+DE:CLASSY:0 0 2 4 5
+
+(29) How was your intersession?
+(A) I went skiing in Aspen, then visited my dad in the Bahamas.  What did you do?
+(B) I read the course catalog.
+(C) I was hanging out with your girlfriend.
+(D) I built a house for AIDS victims in Darfur.
+(E) I went home and slept and ate.
+DE:AMBITIOUS:2 1 2 0 -2
+DE:CLASSY:3 0 -1 0 -1
+DE:EXTROVERTED:1 -3 3 1 -2
+DE:ARROGANT:3 0 1 -1 -1
+DE:EROTIC:0 0 2 0 0
+
+(30) The last time I went to MIT it was for:
+(A) Pre-frosh weekend
+(B) A frat party
+(C) To take the shuttle to the mall, because I don't know how to look up the MBTA bus routes
+(D) I'm dating somebody there
+(E) I wish I went to MIT.
+DE:NERDY:-2 0 1 2 5
+DE:EXTROVERTED:0 3 0 2 -3
+DE:ROMANTIC:0 -1 0 2 0
+
+(31) If I saw a $20 bill on the floor of Sanders Theater I would:
+(A) Ask around if anybody dropped it, then leave it there.
+(B) Give it to the guy in front of CVS.
+(C) Show Mankiw there is such a thing as a free lunch by inviting him to Felipe's.
+(D) Buy something nice for a person I'm interested in.
+(E) Buy some deodorant.
+DE:NERDY:0 0 3 0 0
+DE:ROMANTIC:0 2 0 3 -1
+DE:EXTROVERTED:3 2 1 2 -2
+DE:HUMOROUS:0 0 3 0 1

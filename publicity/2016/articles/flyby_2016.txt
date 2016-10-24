@@ -1,0 +1,47 @@
+The Scoop on the New Datamatch
+By Hyemi Park
+Share
+ <3
+
+ FEB
+ 10
+ 2016
+ 
+Love is in the air COURTESY OF DATAMATCH
+Love is in the air in the days leading up to Valentine's Day, or at least in the form of filling out 31 questions in a survey and praying that you get matched with that cute guy you always lock eyes with at Greenhouse Cafe–that’s right, Datamatch is back!
+
+For the newbie freshmen as well as the upperclassmen who have been living under a rock, Datamatch is a matchmaking service the Harvard Computer Society provides every year in time for Valentine’s Day. All you have to do is fill out an online survey that supposedly probes into your soul, and you’ll be emailed a list of compatible matches (and their contact info, score) on Valentine’s Day. It is an indisputable fact that Flyby loves Datamatch, and word on the street is that Datamatch is back and better than ever this year, so of course we had to find out for ourselves what exactly was going on. We sat down with Raynor J. Kuang ‘17, the “Fearless Leader” of Datamatch’s development team, to get the scoop on this (read: feel every so slightly more hopeful that we will not be binge-watching low-quality rom coms alone in our room with a sippy cup of Franzia come Sunday night).
+
+Flyby: What are some new changes to Datamatch this year?
+
+RJK: One of our big initiatives was to partner up with Satire V, because in the past, I ended up writing most of the survey questions myself and we thought it would make more sense to reach out to a humor publication. Satire V agreed to write a bunch of questions in exchange for pubbing them and their new book. We also have new partnerships this year– [in addition to] our partnership with Zinnekens, we’re also partnering with Clover, El Jefe’s, and Pinkberry. We’ll have a system where you can pick what restaurant you want to go to [once you and your match both agree to go on a date]. We’re also paying for people to go on two dates this year, one with their topmost match and the other with their bottom match.
+
+Flyby: So how does the algorithm actually work?
+
+RJK: Obviously I can’t tell you everything, but in years past, it became a joke that it was just random. We realized that this joke was actually harming Datamatch and people didn’t take it seriously. This year, we really worked to make it so that the algorithm compares and contrasts people. We reached out to Professor Steven Pinker to learn about the psychology of affection and the way people communicate and match up with each other. I hope people trust that it’s really something that takes into account how you fill out the survey.
+
+Flyby: Have you heard of personal success stories from Datamatch?
+
+RJK: Yes! One of my blockmates got his current girlfriend as a match last year. Seeing their relationship develop, Datamatch probably wasn’t the obvious cause, but maybe Datamatch knew something about each other that they didn’t. Our hashtag is #trustthesystem.
+
+Flyby: Does the Datamatch team also participate in Datamatch?
+
+RJK: Of course. Look out for me, I will click the waffle button for everyone that gets matched with me.
+
+Flyby: Have you read our Flyby Datamatch series?
+
+RJK: Yes, I love it. It really shows how easy it is to meet up with people through Datamatch. I only hope that everyone on Flyby gets waffle button-ed back.
+
+Flyby: So can you rig the system for us to get the best dates, obviously only for high-quality journalism purposes?
+
+RJK: My on-the-record response is, I’m sure the people of Flyby are so great that you’ll get great matches. (Thanks for the compliment, Raynor, but does that mean you’re rigging the system or not for us?)
+
+Flyby: Any tips for those filling out the Datamatch survey?
+
+RJK: [When choosing answers], pick the one that first catches your eye–it’s the one you should pick, don’t really debate over whether it’s the “right” one or not. Also, fill out our new profile feature. Put a picture. Add a description. It’s nothing too probing and it creates a sense of humor. Don’t use the private setting so that friends can find you in the search bar. The hope in the search function is that you can find your compatibility with people you want to be matched with even if you don’t end up getting them.
+
+Flyby: Any last words you want to tell people about Datamatch?
+
+RJK: Around 2,300 people have signed up so far already, so be a part of the number and give into FOMO. The more people that do it, the more fun it is.
+
+Finally, Kuang encourages love-seeking folks to reach out to hcsdatamatch@gmail.com with any questions. May the Datamatch odds be ever in your favor, Harvard.

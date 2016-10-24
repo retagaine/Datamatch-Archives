@@ -1,0 +1,371 @@
+# # HCS Datamatch # # master questions file # # Changes:
+# -----------
+# 2001-02-01  Change log started, axes added to all questions - SAG
+#
+#
+#
+#
+#
+
+(1) Where will you take your perfect match found through Datamatch?
+(A) Dom's in the North End
+(B) Johnny's Luncheonette 
+(C) Pamplona
+(D) The Grille  
+(E) Tommy's
+DE:ROMANTIC: 5 2 3 0 -2 
+DE:CHEAP: -7 2 3 3 4 
+
+(2) Valentine's Day! You give...
+(A) Cookies made in your significant other's kitchenette. 
+(B) "Love Cuffs" 
+(C) Flowers
+(D) AA Batteries. 
+(E) Dinner. 
+DE:KINKINESS: 0 5 0 0 0 
+DE:CHEAP: 0 0 -1 4 -3 
+DE:ROMANTIC: 3 2 4 -3 4 
+DE:NERDINESS: 0 0 0 4 0 
+DE:TRADITIONAL: 2 -2 4 -1 4 
+# STRAIGHTEDGE ?
+
+(3) It's shopping period, and you have the choice of any course you can imagine.  What do you choose to take?
+#(A) Earn your bartending license in a weekend
+#(B) American TV Culture: An Analytical View
+#(C) Macaroni Art: You and your starches
+#(D) World Domination in a Nutshell
+#(E) Med School in a Month: A Quick-Start Guide
+(A) HSA Bartending Course (<a href="http://www.hsa.net">http://www.hsa.net</a>)
+(B) Social Analysis 10
+(C) Chem 17: Organic Chemistry
+(D) SEX
+(E) Some poli-sci world domination course
+DE:AMBITION:2 4 7 1 7
+DE:NERDINESS:0 1 4 -1 1
+DE:KINKINESS:0 0 0 3 0
+DE:SOCIAL:4 0 0 4 0
+DE:CYNICISM:0 0 0 0 3
+DE:TRADITIONAL:0 3 3 0 0
+
+(4) Which site best characteristizes your web browsing habits?
+(A) <A HREF="http://www.theonion.com/">The Onion</A>
+(B) <A HREF="http://www.cnnfn.com/">www.cnnfn.com</A>
+#(C) <A HREF="http://cgi.hcs.harvard.edu/~lotze/">The Hamster Dance</A>
+(C) <A HREF="http://www.hampsterdance2.com/hampsterdance.html">The Hamster Dance</A>
+(D) <A HREF="http://www.xxx.com/">www.xxx.com</A>
+(E) <A HREF="http://www.slashdot.org/">64.28.67.48</A>
+DE:NERDINESS:2 4 2 0 5
+DE:KINKINESS:0 0 0 3 0
+DE:CYNICISM:3 1 -1 -2 0 
+DE:HUMOR:4 0 4 0 0
+DE:SATIRE:5 0 0 0 0
+
+(5) Who should pay when you're out on a date?
+(A) The person who asked.
+(B) The boy.
+(C) The girl.
+(D) Split the cost.
+(E) Your parents.
+DE:TRADITIONAL:0 5 -2 0 -1 
+DE:CHEAP:-1 0 0 1 3 
+
+(6) What is the highest level of substance abuse you would tolerate in a
+partner? 
+(A) None at all 
+(B) Social drinking 
+(C) Heavy drinking 
+(D) Use of soft drugs (pot, ecstasy) 
+(E) Use of hard drugs (heroin, cocaine, LSD) 
+DE:NERDINESS:3 2 0 0 0
+DE:TRADITIONAL:5 2 -1 -2 -5
+DE:SOCIAL:0 3 2 0 0
+#DE:STRAIGHTEDGE:5 2 -1 -2 -5
+
+(7) What movie do you go to on a date?
+(A) "Star Wars: Episode I"
+(B) "Schindler's List"
+(C) "What Women Want"
+(D) "The Matrix"
+(E) "American Pie"
+DE:NERDINESS:3 0 0 2 0
+DE:KINKINESS:0 0 1 0 3 
+DE:HUMOR:1 0 1 0 3
+# Jinger was traumatized, you see...
+DE:ROMANTIC:0 0 3 0 -1
+
+(8) At the end of a successful first date ...  
+(A) when I get one, I'll let you know.  
+(B) you give a firm handshake.  
+(C) you receive a friendly peck on the cheek.  
+(D) you begin to disgust your onlooking roommates with displays of affection. 
+(E) you wake up and go home.
+DE:NERDINESS:3 0 0 0 0
+DE:KINKINESS:0 0 0 2 4
+#DE:STAIGHTEDGE:2 2 2 0 0
+DE:TRADITIONAL:2 2 2 0 0
+DE:ROMANTIC:0 0 3 1 0
+DE:SOCIAL:-4 -2 0 0 0
+
+(9) You appear naked...
+(A) in the shower.
+(B) in the dining hall.
+(C) through your window.
+(D) in Justice.
+(E) on the last day of reading period.
+# CHANGE QUESTION
+DE:KINKINESS:0 2 1 4 3
+#DE:STRAIGHTEDGE:3 -2 0 -3 -3
+DE:TRADITIONAL:3 -2 0 -3 -3
+
+(10) Turn-ONs 
+(A) <A HREF="http://www.shuttlegirl.com/">Shuttlegirl</A>
+(B) $100 bill.
+(C) Pregnant Chads
+(D) One Dozen Red Roses.
+(E) Pheromones.
+DE:AMBITION:1 3 2 1 0
+DE:ROMANTIC:0 -1 -2 4 1
+DE:TRADITIONAL:0 1 0 4 2
+DE:NERDINESS:2 0 1 0 0 
+DE:CYNICISM:0 2 2 0 1
+DE:HUMOR:1 0 2 0 0
+
+(11) When you're wandering around Cambridge, you can most likely be found...
+(A) Cambridge? I only wander around Newbury St.
+(B) upstairs at the Kong.
+(C) the Pit.
+(D) I could tell you, but then I'd have to kill you.
+(E) Cambridge?  What's Cambridge?  Is that outside the Terminal Room?
+DE:AMBITION:2 -2 -4 1 2
+# why Kinky?
+DE:KINKINESS:1 3 4 1 -2
+DE:NERDINESS:0 -1 -3 2 4
+DE:CHEAP:-4 0 0 0 0
+
+(12) Love is :
+(A) a social construct
+(B) lust by a more romantic name.
+(C) the score at the beginning of a tennis match. 
+(D) special and rare but real.
+(E) a lot easier than most people think. 
+DE:ROMANTIC:-2 -1 -1 4 0
+DE:KINKINESS:0 2 0 0 1
+DE:ATHLETIC:0 0 3 0 0 
+DE:CYNICISM:4 3 2 -3 -1
+
+(13) You know all the names of...
+(A) the members of the House of Representatives
+(B) the members of the Ad Board
+(C) the 1969 Mets
+(D) the Muses
+(E) the naturally occurring amino acids
+DE:NERDINESS:1 2 0 2 5
+#DE:STRAIGHTEDGE:0 -3 0 4 0
+DE:TRADITIONAL:0 -3 0 4 0
+DE:ATHLETIC:0 0 3 0 0
+DE:AMBITION:4 0 0 0 4
+
+# we have one already....
+(14) After an evening of drinking you are...
+(A) praying to the porcelain god. 
+(B) not moving much.
+(C) got a good buzzzzzzzzzzzzzz
+(D) feeling guilty. 
+(E) I don't drink. 
+DE:AMBITION:-4 -3 -2 -2 3
+DE:TRADITIONAL:-2 -2 0 2 4
+DE:SOCIAL:3 2 1 0 -1
+
+(15) Your idea of a good workout 
+(A) Crew Triathalon.
+(B) Two hours at the MAC.
+(C) A tumble in bed.
+(D) Not using keyboard shortcuts, like tab-completes. 
+(E) I live in the Quad. That's exercise enough.
+DE:ATHLETIC:6 3 1 -1 0
+DE:NERDINESS:0 0 0 4 0
+DE:KINKINESS:0 0 3 0 0
+DE:HUMOR:0 0 1 0 3
+DE:CYNICISM:0 0 0 0 3
+
+(16) The Guiding Power of the Universe is...
+(A) GOD
+(B) The Invisible Hand
+(C) Non-existent.
+(D) Jon Stewart (from the <a href="http://www.comedycentral.com/dailyshow">Daily Show</a>)
+(E) Me. Yes. Me. 
+DE:HUMOR:0 0 0 3 3
+DE:SATIRE:0 0 0 2 2
+DE:AMBITION:0 3 0 0 4
+#DE:STRAIGHTEDGE:3 2 0 0 0
+DE:TRADITIONAL:3 2 0 0 0
+DE:NERDINESS:0 1 0 0 1
+
+(17) What you value most in another person is: 
+(A) Sense of humor 
+(B) Sexy body
+(C) Compassion 
+(D) Intelligence 
+(E) Wealth 
+DE:HUMOR:3 0 0 0 0
+DE:KINKINESS:0 1 0 0 0
+#DE:STRAIGTEDGE:0 0 2 2 1
+DE:TRADITIONAL:0 0 2 2 1
+DE:AMBITION:0 2 0 2 3
+DE:ATHLETIC:0 1 0 0 0
+#I'm goin to space this question out a bit:
+DE:VALUES:0 4 -2 -4 2
+
+(18) What is your favorite sex toy? 
+(A) Dildo 
+(B) Whips  
+(C) Chocolate body paint
+(D) Electrodes 
+(E) Whats a sex toy? 
+DE:KINKINESS:3 4 1 4 0
+#DE:STRAIGHTEDGE:-3 -3 0 -3 3
+DE:TRADITIONAL:-3 -3 0 -3 3
+DE:NERDINESS:0 0 0 2 3
+
+(19) Best Method of Procrastination
+(A) Repeatedly check for new email. 
+(B) <A HREF="http://www.amihotornot.com">Isn't Datamatch Hot (or Not)?</A>
+(C) Sextris
+(D) See Tommy. See Tommy run.  See Tommy make pizza.  Yummy.
+(E) Audit a sixth class at the business school. 
+DE:NERDINESS:3 1 0 0 4
+DE:AMBITION:2 0 0 0 4
+DE:KINKINESS:0 3 3 0 0
+DE:CHEAP:0 0 0 -2 0
+
+(20) Favorite Campus Publication
+(A) Satire V/Demon
+(B) Salient
+(C) Perspective 
+(D) The Crimson / FM 
+(E) Journal of Undergraduate Sciences / International Review
+DE:HUMOR:5 2 0 0 0
+DE:SATIRE:5 0 0 0 0
+#DE:STRAIGTEDGE:0 3 0 3 0
+DE:TRADITIONAL:0 3 0 3 0
+DE:NERDINESS:0 0 0 0 5
+DE:AMBITION:0 1 1 1 4
+
+(21) Favorite TV Show 
+(A) I don't watch TV 
+# Sex in the City?
+(B) Temptation Island
+(C) The Simpsons
+(D) CSPAN and CSPAN2
+(E) Who Wants to be a Millionaire
+DE:HUMOR:0 2 5 0 0
+DE:SATIRE:0 0 5 0 0
+DE:AMBITION:3 0 0 4 1
+DE:NERDINESS:3 0 2 5 1
+
+(22) Favorite Argument Topic
+(A) The transgressive hermeneutics of quantum gravity. 
+(B) Psychoanalysing your friends
+(C) Whether what you did last night technically counts as "hooking up." 
+(D) Pop vs. Soda
+(E) Election results
+DE:NERDINESS:4 2 -1 1 1
+DE:AMBITION:1 2 0 0 1
+DE:KINKINESS:0 1 3 0 0
+DE:CYNICISM:0 2 2 0 1
+
+(23) What do you do when you can't get a date?
+(A) Hang out with friends and not worry about it. 
+(B) Import fruit from Israel. 
+(C) Drink heavily.  
+(D) Announce you have the answers to the Chem 20 problem set. 
+# Just b/c we're underclassmen and don't even know where Pamplona is
+#(E) Haunt Pamplona and snarl at all the incoming customers. 
+(E) "Accidentally" rip your pants
+#DE:STRAIGTEDGE:1 0 -3 1 0
+DE:NERDINESS:4 2 0 4 0
+DE:TRADITIONAL:1 0 -3 1 0
+DE:KINKINESS:0 0 0 0 3
+DE:AMBITION:0 3 0 0 0
+DE:HUMOR:0 3 0 0 2
+DE:SEMITIC:0 5 0 0 0
+
+(24) What book do you reach for when you go back to your room?
+(A) <i>The New Joy of Sex</i>
+(B) The Bible
+(C) <i>Atlas Shrugged</i>
+(D) The Princeton Review MCAT Study Guide
+(E) The User's Guide to the Ad Board
+DE:NERDINESS:0 0 3 3 0
+#DE:STRAIGHTEDGE:0 1 0 0 -3
+DE:TRADITIONAL:0 2 0 0 -3
+DE:AMBITION:0 0 0 3 0
+
+(25) You would cheat 
+(A) Never
+(B) If no one else would ever find out
+(C) Under the influence
+(D) If you suspected your partner of cheating
+(E) If she (he) were really cute
+DE:TRADITIONAL:3 0 0 -1 0
+DE:KINKINESS:0 0 0 0 2
+DE:ROMANTIC:4 0 0 0 0
+#DE:STRAIGHTEDGE: 3 0 -2 0 0
+
+(26) Your favorite class is the one with: 
+(A) the really cool Wittgenstein book you've always wanted to read 
+(B) the gorgeous guy/girl in the second row 
+(C) less work than Rocks for Jocks
+(D) comfortable, slouchy, sleepy seats 
+(E) the most potential for networking 
+DE:NERDINESS:3 0 0 0 3
+DE:AMBITION:0 0 0 0 4
+#DE:STRAIGHTEDGE:2 0 0 0 1
+DE:TRADITIONAL:2 0 0 0 1
+DE:ROMANTIC:0 2 0 0 0
+DE:ATHLETIC:0 0 3 0 0
+
+(27) Which book title best describes your life? 
+(A) The Sound and the Fury 
+(B) Tender is the Night 
+(C) Stranger in a Strange Land
+(D) Harry Potter, The Sorcerer's Stone
+(E) Crime and Punishment
+DE:CYNICISM:2 0 2 0 4
+DE:ROMANTIC:0 3 1 0 0
+DE:NERDINESS:0 0 3 3 3
+
+(28) You admire someone who uses the 10-minute break between Ec lecture and section to: 
+(A) Score a few brownie points with the professor 
+(B) Walk over and introduce themselves to you 
+(C) Make a run to Store 24 
+(D) Call mom on cell phone
+(E) Update his/her PalmPilot schedule for next week 
+DE:AMBITION:4 3 0 0 0
+DE:TRADITIONAL:0 0 0 2 0
+DE:NERDINESS:0 -1 0 2 4
+
+(29) When something physical happens in a relationship, it's 
+(A) Skiing
+(B) Something you've been hinting at for a while 
+(C) A mutual decision 
+(D) The other person's idea 
+(E) About time. You've been too embarrassed to bring it up. 
+DE:ATHLETIC:3 0 0 0 0
+DE:NERDINESS:0 0 0 2 3
+DE:ROMANTIC:0 2 1 0 0
+#DE:STRAIGHTEDGE:0 0 1 0 0
+DE:TRADITIONAL:0 0 1 0 0
+
+(30) How serious of a relationship are you looking for?
+(A) Relationship? 
+(B) Someone to take notes for me when I sleep through Ec 10 lecture
+(C) A date to the formal
+(D) One night of Wild kinky sex
+(E) A ring
+DE:ROMANTIC:0 0 1 0 4
+#DE:STRAIGHTEDGE:0 0 0 0 3
+DE:TRADITIONAL:0 0 0 0 3
+DE:KINKINESS:0 0 0 3 0
+DE:HUMOR:1 2 0 0 0
+DE:NERDINESS:1 2 0 0 0

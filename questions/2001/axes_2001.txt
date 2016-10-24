@@ -1,0 +1,338 @@
+/*
+ * variable.h
+ * 
+ * AUTO-GENERATED, DO NOT MODIFY DIRECTLY UNLESS YOU KNOW WHAT YOU'RE DOING
+ *
+ * Contains info that changes from year to year:
+ *    
+ *    - Two vectors specifying which e and d axis each question counts
+ *          towards[1]
+ *    - A matrix specifying which
+ *
+ *  d(), the distance between two people in trait space, is in distance.c
+ *  NUM_AXES is in match.h because everything including the kitchen
+ *     sink needs it.
+ *
+ * [1] "e" and "d" are separate matrices for what a person is like
+ *     (expressed) and what they desire (desired);  they're kept
+ *      separate to make it easy for one question to count for both.
+ */
+
+#ifndef VARIABLE_H_
+#define VARIABLE_H_
+
+#include "match.h"
+
+/* There are NUM_AXES e axes and NUM_AXES d axes, not NUM_AXES
+   together */
+/* Note also that axes are numbered 0 to (NUM_AXES-1), CS-style. */
+#define MAX_ANSWERS_PER_QUESTION 5
+#define NUM_QUESTIONS 123
+
+enum { 
+	AMBITION,
+	ATHLETIC,
+	CHEAP,
+	CYNICISM,
+	HUMOR,
+	KINKINESS,
+	NERDINESS,
+	ROMANTIC,
+	SATIRE,
+	SEMITIC,
+	SOCIAL,
+	TRADITIONAL,
+	VALUES,
+	NUM_AXES }; 
+
+static int traitmin[NUM_AXES] = { -7, -1, -17, -5, 0, -2, -6, -10, 0, 0, -5, -27, -4, };
+static int traitmax[NUM_AXES] = { 54, 19, 11, 21, 33, 50, 81, 38, 17, 5, 10, 59, 4, };
+
+static int e_contrib[NUM_QUESTIONS][MAX_ANSWERS_PER_QUESTION] = {
+{5, 2, 3, 0, -2}, 	// question 1
+{-7, 2, 3, 3, 4}, 	
+{0, 5, 0, 0, 0}, 	// question 2
+{0, 0, -1, 4, -3}, 	
+{3, 2, 4, -3, 4}, 	
+{0, 0, 0, 4, 0}, 	
+{2, -2, 4, -1, 4}, 	
+{2, 4, 7, 1, 7}, 	// question 3
+{0, 1, 4, -1, 1}, 	
+{0, 0, 0, 3, 0}, 	
+{4, 0, 0, 4, 0}, 	
+{0, 0, 0, 0, 3}, 	
+{0, 3, 3, 0, 0}, 	
+{2, 4, 2, 0, 5}, 	// question 4
+{0, 0, 0, 3, 0}, 	
+{3, 1, -1, -2, 0}, 	
+{4, 0, 4, 0, 0}, 	
+{5, 0, 0, 0, 0}, 	
+{0, 5, -2, 0, -1}, 	// question 5
+{-1, 0, 0, 1, 3}, 	
+{3, 2, 0, 0, 0}, 	// question 6
+{5, 2, -1, -2, -5}, 	
+{0, 3, 2, 0, 0}, 	
+{3, 0, 0, 2, 0}, 	// question 7
+{0, 0, 1, 0, 3}, 	
+{1, 0, 1, 0, 3}, 	
+{0, 0, 3, 0, -1}, 	
+{3, 0, 0, 0, 0}, 	// question 8
+{0, 0, 0, 2, 4}, 	
+{2, 2, 2, 0, 0}, 	
+{0, 0, 3, 1, 0}, 	
+{-4, -2, 0, 0, 0}, 	
+{0, 2, 1, 4, 3}, 	// question 9
+{3, -2, 0, -3, -3}, 	
+{1, 3, 2, 1, 0}, 	// question 10
+{0, -1, -2, 4, 1}, 	
+{0, 1, 0, 4, 2}, 	
+{2, 0, 1, 0, 0}, 	
+{0, 2, 2, 0, 1}, 	
+{1, 0, 2, 0, 0}, 	
+{2, -2, -4, 1, 2}, 	// question 11
+{1, 3, 4, 1, -2}, 	
+{0, -1, -3, 2, 4}, 	
+{-4, 0, 0, 0, 0}, 	
+{-2, -1, -1, 4, 0}, 	// question 12
+{0, 2, 0, 0, 1}, 	
+{0, 0, 3, 0, 0}, 	
+{4, 3, 2, -3, -1}, 	
+{1, 2, 0, 2, 5}, 	// question 13
+{0, -3, 0, 4, 0}, 	
+{0, 0, 3, 0, 0}, 	
+{4, 0, 0, 0, 4}, 	
+{-4, -3, -2, -2, 3}, 	// question 14
+{-2, -2, 0, 2, 4}, 	
+{3, 2, 1, 0, -1}, 	
+{6, 3, 1, -1, 0}, 	// question 15
+{0, 0, 0, 4, 0}, 	
+{0, 0, 3, 0, 0}, 	
+{0, 0, 1, 0, 3}, 	
+{0, 0, 0, 0, 3}, 	
+{0, 0, 0, 3, 3}, 	// question 16
+{0, 0, 0, 2, 2}, 	
+{0, 3, 0, 0, 4}, 	
+{3, 2, 0, 0, 0}, 	
+{0, 1, 0, 0, 1}, 	
+{3, 0, 0, 0, 0}, 	// question 17
+{0, 1, 0, 0, 0}, 	
+{0, 0, 2, 2, 1}, 	
+{0, 2, 0, 2, 3}, 	
+{0, 1, 0, 0, 0}, 	
+{0, 4, -2, -4, 2}, 	
+{3, 4, 1, 4, 0}, 	// question 18
+{-3, -3, 0, -3, 3}, 	
+{0, 0, 0, 2, 3}, 	
+{3, 1, 0, 0, 4}, 	// question 19
+{2, 0, 0, 0, 4}, 	
+{0, 3, 3, 0, 0}, 	
+{0, 0, 0, -2, 0}, 	
+{5, 2, 0, 0, 0}, 	// question 20
+{5, 0, 0, 0, 0}, 	
+{0, 3, 0, 3, 0}, 	
+{0, 0, 0, 0, 5}, 	
+{0, 1, 1, 1, 4}, 	
+{0, 2, 5, 0, 0}, 	// question 21
+{0, 0, 5, 0, 0}, 	
+{3, 0, 0, 4, 1}, 	
+{3, 0, 2, 5, 1}, 	
+{4, 2, -1, 1, 1}, 	// question 22
+{1, 2, 0, 0, 1}, 	
+{0, 1, 3, 0, 0}, 	
+{0, 2, 2, 0, 1}, 	
+{4, 2, 0, 4, 0}, 	// question 23
+{1, 0, -3, 1, 0}, 	
+{0, 0, 0, 0, 3}, 	
+{0, 3, 0, 0, 0}, 	
+{0, 3, 0, 0, 2}, 	
+{0, 5, 0, 0, 0}, 	
+{0, 0, 3, 3, 0}, 	// question 24
+{0, 2, 0, 0, -3}, 	
+{0, 0, 0, 3, 0}, 	
+{3, 0, 0, -1, 0}, 	// question 25
+{0, 0, 0, 0, 2}, 	
+{4, 0, 0, 0, 0}, 	
+{3, 0, 0, 0, 3}, 	// question 26
+{0, 0, 0, 0, 4}, 	
+{2, 0, 0, 0, 1}, 	
+{0, 2, 0, 0, 0}, 	
+{0, 0, 3, 0, 0}, 	
+{2, 0, 2, 0, 4}, 	// question 27
+{0, 3, 1, 0, 0}, 	
+{0, 0, 3, 3, 3}, 	
+{4, 3, 0, 0, 0}, 	// question 28
+{0, 0, 0, 2, 0}, 	
+{0, -1, 0, 2, 4}, 	
+{3, 0, 0, 0, 0}, 	// question 29
+{0, 0, 0, 2, 3}, 	
+{0, 2, 1, 0, 0}, 	
+{0, 0, 1, 0, 0}, 	
+{0, 0, 1, 0, 4}, 	// question 30
+{0, 0, 0, 0, 3}, 	
+{0, 0, 0, 3, 0}, 	
+{1, 2, 0, 0, 0}, 	
+{1, 2, 0, 0, 0}, 	
+
+};
+
+static int d_contrib[NUM_QUESTIONS][MAX_ANSWERS_PER_QUESTION] = {
+{5, 2, 3, 0, -2}, 	// question 1
+{-7, 2, 3, 3, 4}, 	
+{0, 5, 0, 0, 0}, 	// question 2
+{0, 0, -1, 4, -3}, 	
+{3, 2, 4, -3, 4}, 	
+{0, 0, 0, 4, 0}, 	
+{2, -2, 4, -1, 4}, 	
+{2, 4, 7, 1, 7}, 	// question 3
+{0, 1, 4, -1, 1}, 	
+{0, 0, 0, 3, 0}, 	
+{4, 0, 0, 4, 0}, 	
+{0, 0, 0, 0, 3}, 	
+{0, 3, 3, 0, 0}, 	
+{2, 4, 2, 0, 5}, 	// question 4
+{0, 0, 0, 3, 0}, 	
+{3, 1, -1, -2, 0}, 	
+{4, 0, 4, 0, 0}, 	
+{5, 0, 0, 0, 0}, 	
+{0, 5, -2, 0, -1}, 	// question 5
+{-1, 0, 0, 1, 3}, 	
+{3, 2, 0, 0, 0}, 	// question 6
+{5, 2, -1, -2, -5}, 	
+{0, 3, 2, 0, 0}, 	
+{3, 0, 0, 2, 0}, 	// question 7
+{0, 0, 1, 0, 3}, 	
+{1, 0, 1, 0, 3}, 	
+{0, 0, 3, 0, -1}, 	
+{3, 0, 0, 0, 0}, 	// question 8
+{0, 0, 0, 2, 4}, 	
+{2, 2, 2, 0, 0}, 	
+{0, 0, 3, 1, 0}, 	
+{-4, -2, 0, 0, 0}, 	
+{0, 2, 1, 4, 3}, 	// question 9
+{3, -2, 0, -3, -3}, 	
+{1, 3, 2, 1, 0}, 	// question 10
+{0, -1, -2, 4, 1}, 	
+{0, 1, 0, 4, 2}, 	
+{2, 0, 1, 0, 0}, 	
+{0, 2, 2, 0, 1}, 	
+{1, 0, 2, 0, 0}, 	
+{2, -2, -4, 1, 2}, 	// question 11
+{1, 3, 4, 1, -2}, 	
+{0, -1, -3, 2, 4}, 	
+{-4, 0, 0, 0, 0}, 	
+{-2, -1, -1, 4, 0}, 	// question 12
+{0, 2, 0, 0, 1}, 	
+{0, 0, 3, 0, 0}, 	
+{4, 3, 2, -3, -1}, 	
+{1, 2, 0, 2, 5}, 	// question 13
+{0, -3, 0, 4, 0}, 	
+{0, 0, 3, 0, 0}, 	
+{4, 0, 0, 0, 4}, 	
+{-4, -3, -2, -2, 3}, 	// question 14
+{-2, -2, 0, 2, 4}, 	
+{3, 2, 1, 0, -1}, 	
+{6, 3, 1, -1, 0}, 	// question 15
+{0, 0, 0, 4, 0}, 	
+{0, 0, 3, 0, 0}, 	
+{0, 0, 1, 0, 3}, 	
+{0, 0, 0, 0, 3}, 	
+{0, 0, 0, 3, 3}, 	// question 16
+{0, 0, 0, 2, 2}, 	
+{0, 3, 0, 0, 4}, 	
+{3, 2, 0, 0, 0}, 	
+{0, 1, 0, 0, 1}, 	
+{3, 0, 0, 0, 0}, 	// question 17
+{0, 1, 0, 0, 0}, 	
+{0, 0, 2, 2, 1}, 	
+{0, 2, 0, 2, 3}, 	
+{0, 1, 0, 0, 0}, 	
+{0, 4, -2, -4, 2}, 	
+{3, 4, 1, 4, 0}, 	// question 18
+{-3, -3, 0, -3, 3}, 	
+{0, 0, 0, 2, 3}, 	
+{3, 1, 0, 0, 4}, 	// question 19
+{2, 0, 0, 0, 4}, 	
+{0, 3, 3, 0, 0}, 	
+{0, 0, 0, -2, 0}, 	
+{5, 2, 0, 0, 0}, 	// question 20
+{5, 0, 0, 0, 0}, 	
+{0, 3, 0, 3, 0}, 	
+{0, 0, 0, 0, 5}, 	
+{0, 1, 1, 1, 4}, 	
+{0, 2, 5, 0, 0}, 	// question 21
+{0, 0, 5, 0, 0}, 	
+{3, 0, 0, 4, 1}, 	
+{3, 0, 2, 5, 1}, 	
+{4, 2, -1, 1, 1}, 	// question 22
+{1, 2, 0, 0, 1}, 	
+{0, 1, 3, 0, 0}, 	
+{0, 2, 2, 0, 1}, 	
+{4, 2, 0, 4, 0}, 	// question 23
+{1, 0, -3, 1, 0}, 	
+{0, 0, 0, 0, 3}, 	
+{0, 3, 0, 0, 0}, 	
+{0, 3, 0, 0, 2}, 	
+{0, 5, 0, 0, 0}, 	
+{0, 0, 3, 3, 0}, 	// question 24
+{0, 2, 0, 0, -3}, 	
+{0, 0, 0, 3, 0}, 	
+{3, 0, 0, -1, 0}, 	// question 25
+{0, 0, 0, 0, 2}, 	
+{4, 0, 0, 0, 0}, 	
+{3, 0, 0, 0, 3}, 	// question 26
+{0, 0, 0, 0, 4}, 	
+{2, 0, 0, 0, 1}, 	
+{0, 2, 0, 0, 0}, 	
+{0, 0, 3, 0, 0}, 	
+{2, 0, 2, 0, 4}, 	// question 27
+{0, 3, 1, 0, 0}, 	
+{0, 0, 3, 3, 3}, 	
+{4, 3, 0, 0, 0}, 	// question 28
+{0, 0, 0, 2, 0}, 	
+{0, -1, 0, 2, 4}, 	
+{3, 0, 0, 0, 0}, 	// question 29
+{0, 0, 0, 2, 3}, 	
+{0, 2, 1, 0, 0}, 	
+{0, 0, 1, 0, 0}, 	
+{0, 0, 1, 0, 4}, 	// question 30
+{0, 0, 0, 0, 3}, 	
+{0, 0, 0, 3, 0}, 	
+{1, 2, 0, 0, 0}, 	
+{1, 2, 0, 0, 0}, 	
+
+};
+
+static int which_axis[NUM_QUESTIONS] = {
+
+  /* Q 1: */ 	ROMANTIC, CHEAP, 
+  /* Q 2: */ 	KINKINESS, CHEAP, ROMANTIC, NERDINESS, TRADITIONAL, 
+  /* Q 3: */ 	AMBITION, NERDINESS, KINKINESS, SOCIAL, CYNICISM, TRADITIONAL, 
+  /* Q 4: */ 	NERDINESS, KINKINESS, CYNICISM, HUMOR, SATIRE, 
+  /* Q 5: */ 	TRADITIONAL, CHEAP, 
+  /* Q 6: */ 	NERDINESS, TRADITIONAL, SOCIAL, 
+  /* Q 7: */ 	NERDINESS, KINKINESS, HUMOR, ROMANTIC, 
+  /* Q 8: */ 	NERDINESS, KINKINESS, TRADITIONAL, ROMANTIC, SOCIAL, 
+  /* Q 9: */ 	KINKINESS, TRADITIONAL, 
+  /* Q 10: */ 	AMBITION, ROMANTIC, TRADITIONAL, NERDINESS, CYNICISM, HUMOR, 
+  /* Q 11: */ 	AMBITION, KINKINESS, NERDINESS, CHEAP, 
+  /* Q 12: */ 	ROMANTIC, KINKINESS, ATHLETIC, CYNICISM, 
+  /* Q 13: */ 	NERDINESS, TRADITIONAL, ATHLETIC, AMBITION, 
+  /* Q 14: */ 	AMBITION, TRADITIONAL, SOCIAL, 
+  /* Q 15: */ 	ATHLETIC, NERDINESS, KINKINESS, HUMOR, CYNICISM, 
+  /* Q 16: */ 	HUMOR, SATIRE, AMBITION, TRADITIONAL, NERDINESS, 
+  /* Q 17: */ 	HUMOR, KINKINESS, TRADITIONAL, AMBITION, ATHLETIC, VALUES, 
+  /* Q 18: */ 	KINKINESS, TRADITIONAL, NERDINESS, 
+  /* Q 19: */ 	NERDINESS, AMBITION, KINKINESS, CHEAP, 
+  /* Q 20: */ 	HUMOR, SATIRE, TRADITIONAL, NERDINESS, AMBITION, 
+  /* Q 21: */ 	HUMOR, SATIRE, AMBITION, NERDINESS, 
+  /* Q 22: */ 	NERDINESS, AMBITION, KINKINESS, CYNICISM, 
+  /* Q 23: */ 	NERDINESS, TRADITIONAL, KINKINESS, AMBITION, HUMOR, SEMITIC, 
+  /* Q 24: */ 	NERDINESS, TRADITIONAL, AMBITION, 
+  /* Q 25: */ 	TRADITIONAL, KINKINESS, ROMANTIC, 
+  /* Q 26: */ 	NERDINESS, AMBITION, TRADITIONAL, ROMANTIC, ATHLETIC, 
+  /* Q 27: */ 	CYNICISM, ROMANTIC, NERDINESS, 
+  /* Q 28: */ 	AMBITION, TRADITIONAL, NERDINESS, 
+  /* Q 29: */ 	ATHLETIC, NERDINESS, ROMANTIC, TRADITIONAL, 
+  /* Q 30: */ 	ROMANTIC, TRADITIONAL, KINKINESS, HUMOR, NERDINESS, 
+};
+#endif /* VARIABLE_H_ */

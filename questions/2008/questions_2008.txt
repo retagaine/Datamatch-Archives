@@ -1,0 +1,341 @@
+(1) My roommates:
+(A) Are my best friends
+(B) Are my only friends
+(C) Are allergic to daylight
+(D) Roommates?
+(E) Must die
+DE:SOCIAL:-1 4 0 5 3
+DE:NERDY:0 2 3 2 3
+DE:PRACTICAL:2 -2 1 0 -1
+
+
+(2) Your favorite comic:
+(A) Calvin and Hobbes
+(B) Dilbert
+(C) Garfield
+(D) xkcd
+(E) The UC
+DE:HUMOROUS: 3 3 -2 4 4
+DE:NERDY:1 2 -2 5 0
+DE:PREPPY:-1 1 0 0 3
+
+
+(3) What are robots for?
+(A) Love
+(B) Labor
+(C) Lost
+(D) Lost (the TV show)
+(E) What aren't robots for?
+DE:ROMANTIC:3 -2 0 1 0
+DE:EROTIC:4 3 0 1 4
+DE:HUMOROUS:0 0 1 2 3
+DE:NERDY:0 0 0 2 3
+
+
+(4) Your startup leverages:
+(A) Web 2.0
+(B) Web 3.0
+(C) Bugs. Lots of them.
+(D) A series of tubes
+(E) The Pony Express
+DE:NERDY:1 2 2 3 1
+DE:SOCIAL:-2 -3 1 0 2
+DE:PRACTICAL:3 1 5 1 1
+DE:PREPPY:1 2 1 0 0
+DE:HUMOROUS:0 1 2 3 3
+
+
+(5) Your favorite item at the Apple Store.
+(A) iPhone
+(B) iPod
+(C) iThinkThere4iAm
+(D) iDunno
+(E) iCBM
+DE:NERDY:2 0 3 -2 5
+DE:PRACTICAL:3 2 1 -1 0
+DE:ARTSY:-2 2 3 0 0
+DE:PREPPY:5 3 2 1 0
+DE:SPORTSY:3 2 0 -2 -1
+
+
+(6) Most desirable trait in a partner:
+(A) Envy
+(B) Wrath
+(C) Pride
+(D) Prejudice
+(E) iBanking
+DE:ROMANTIC: 3 -2 1 2 -4
+DE:PREPPY: 2 1 3 1 5
+DE:ARTSY: 2 1 1 1 -3
+
+
+(7) Which protist would you give your date?
+(A) Radiolaria
+(B) Amoeba
+(C) Trichomonas vaginalis
+(D) Giardia lamblia
+(E) Chrysophyceae
+DE:NERDY:4 -2 -3 0 4
+DE:SOCIAL:0 3 1 5 0
+DE:ARTSY:5 -2 0 0 4
+DE:ROMANTIC:2 -2 -2 0 2
+DE:EROTIC:0 -2 5 -3 0
+DE:SPORTSY:0 0 0 3 0
+
+
+(8) And hast thou slain the Jabberwock?
+(A) Yes!  Call me Ishmael.
+(B) It is a truth universally acknowledged...
+(C) And that has made all the difference.
+(D) Yes I said Yes I will Yes.
+(E) I strove, I sought, I found, and I did not yield.
+DE:ARTSY:3 1 2 0 2
+DE:ROMANTIC:0 3 2 3 0
+DE:NERDY:4 0 3 -2 2
+DE:PREPPY:2 4 1 1 4
+
+
+(9) Yahoo-Microsoft:
+(A) Long live the Evil Empire
+(B) Google, here we come!
+(C) Yahoo is SO 1994
+(D) Yahooooooooooooo!
+(E) Having trouble with your micro-yahoo? Our concoction will grow your empty set in one week, guaranteed.
+NERDY: 4 1 3 -4 -5 
+HUMOROUS: 2 4 -3 1 5
+
+
+(10) My iTunes library has:
+(A) Lotsa fi'ty
+(B) Sooo much illegally downloaded music
+(C) The entire contents of http://pornotube.com
+(D) Celine Dion's Greatest Hits
+(E) "Mike's Hot Mixes"
+SOCIALLY INEPT: 0 0 4 4 5
+PRACTICAL: 1 3 -5 2 1
+
+
+(11) On Valentines Day, I will be...
+(A) Taking my clothes off
+(B) At the senior class First Chance Dance
+(C) Naked at the senior class First Chance Dance
+(D) Studying for orgo (in the nude)
+(E) It's so cold, I haven't seen my skin since August
+SOCIALLY INEPT:0 -4 4 -5 0
+ROMANTIC:3 3 -1 -2 0
+EROTIC:4 0 4 2 0
+
+
+(12) I just interviewed with:
+(A) Morgan-Stanley
+(B) McKinsey
+(C) Harvard Medical School
+(D) Revolution Books
+(E) HUPD
+PREPPY:4 5 3 -1 -2
+NERDY:3 3 5 4 -5
+HUMOROUS: 0 0 0 4 5
+
+
+(13) DRM stands for:
+(A) Don't Restrict Me
+(B) Darling, Ravish Me!
+(C) Dearest Rigor Mortis
+(D) Damn Rooster Melanomas
+(E) Deutsche Rennsport Meisterschaft
+HUMOROUS:-3 4 4 5 3
+ARTSY:3 1 2 0 -3
+ROMANTIC:0 4 0 0 0
+
+
+(14) A guy walks into a bar...
+(A) Ouch!
+(B) and hits on the ladies.
+(C) Why does it always have to be about the men?
+(D) mitzvah.
+(E) Only after returning from a foo.
+DE:NERDY:2 -2 0 2 5
+DE:SOCIAL:2 -4 0 0 0
+DE:ROMANTIC:0 -4 1 0 0
+DE:HUMOROUS:5 -3 2 3 5
+
+(15) My favorite cycle is:
+(A) unicycle
+(B) motorcycle
+(C) Krebs cycle
+(D) icicle
+(E) see 15(E)
+DE:NERDY:1 -1 3 0 5
+DE:ARTSY:3 0 0 4 0
+DE:PRACTICAL:-3 4 -2 2 0
+DE:HUMOROUS:0 -2 3 2 5
+
+(16) My favorite Wagner opera is:
+(A) The Ring of the Niebelungen
+(B) Tristan and Isolde
+(C) The Valkyrie
+(D) Twilight of the Gods
+(E) The Return of the King
+DE:NERDY:2 3 -2 1 5
+DE:SOCIAL:5 -3 0 0 1
+DE:ARTSY:2 3 0 4 -3
+DE:ROMANTIC:-2 3 -2 -3 1
+DE:HUMOROUS:2 -2 1 -1 3
+
+(17) _____ let the dogs out?
+(A) Hu
+(B) whomever
+(C) what
+(D) we
+(E) Paul J. McLoughlin, II.
+DE:NERDY:4 2 0 -2 4
+DE:SPORTSY:-2 -2 0 5 -2
+DE:HUMOROUS:4 2 0 -2 5
+
+(18) The HUB?
+(A) Boston, Massachusetts
+(B) My dorm on a Saturday night
+(C) Harvard University Band
+(D) Happy Unitard Bathers
+(E) The center of all that is the ethernet
+DE:NERDY:0 -2 2 2 5
+DE:SOCIAL:0 -5 1 0 2
+DE:ARTSY:3 0 4 2 0
+DE:PRACTICAL:4 2 1 -2 0
+DE:EROTIC:0 1 0 4 0
+
+(19) My favorite Faust is:
+(A) the German band "Faust"
+(B) President Faust
+(C) Goethe's Faust
+(D) Saint Faustus
+(E) FAUST, the programming language
+DE:NERDY:-2 0 2 0 5
+DE:ARTSY:2 -1 4 2 0
+DE:PREPPY:2 5 0 0 -2
+DE:HUMOROUS:0 0 0 1 3
+
+(20) Dishes : dirty ::
+(A) information : free
+(B) apples : apples
+(C) FAS IT : downtime
+(D) P : NP
+(E) widener : couples
+DE:NERDY:3 2 4 5 -3
+DE:EROTIC:0 0 0 0 5
+DE:ARTSY:0 2 -1 1 0
+
+(21) Free as in:
+(A) Beer
+(B) Slaves
+(C) Speech
+(D) Sparta
+(E) BSD
+DE:NERDY:0 0 2 3 5
+DE:PREPPY:4 3 0 1 -3
+DE:SPORTSY:3 1 0 0 0
+
+(22) What is subprime?
+(A) Why I won't be getting a job next year
+(B) Your pickup lines
+(C) A buy-one-get-one-free special at Subway
+(D) 1
+(E) sub'
+DE:PREPPY:2 1 0 0 0
+DE:PRACTICAL:3 0 4 0 0
+DE:NERDY:-2 0 -2 5 5
+DE:HUMOROUS:-2 0 1 5 3
+
+(23) My ideal first date:
+(A) Dinner and a movie
+(B) An afternoon picnic
+(C) Poisoning pigeons in the park
+(D) widener : couples
+(E) Jan. 1, 1970
+DE:NERDY:-2 -2 3 -3 5
+DE:SOCIAL:-3 -3 0 -1 2
+DE:ARTSY:-1 3 5 -2 0
+DE:ROMANTIC:2 3 -2 -2 0
+DE:EROTIC:0 2 0 5 0
+DE:HUMOROUS:-2 -2 5 4 5
+
+(24) Favorite facebook application?
+(A) Pirates
+(B) Ninjas
+(C) SuperSpank
+(D) BeMyBitches
+(E) TouchMyWillie
+DE:EROTIC:-1 -1 1 1 5
+DE:NERDY:2 2 0 -1 -4
+DE:PREPPY:0 0 1 2 3
+
+(25) I procrastinate by:
+(A) Facebooking.
+(B) Mimeographing.
+(C) Verbing.
+(D) Answering these questions.
+(E) Writing these questions.
+DE:NERDY:1 1 3 4 5
+DE:SOCIAL:0 1 0 2 3
+DE:HUMOROUS:-2 1 2 3 4
+DE:PREPPY:3 -1 -3 -3 -3
+
+(26) My favorite nerdy pick-up line:
+(A) I wish I were DNA helicase so I could unzip your genes.
+(B) I wish I were your derivative so I could lie tangent to your curves.
+(C) I wish I were your second derivative so I could fill your concavities.
+(D) I wish I were your problem set, because then I'd be hard, and you'd be doing me on your desk.
+(E) Um, hey.
+DE:SOCIAL:2 3 3 4 -3
+
+(27) Why?
+(A) D
+(B) C
+(C) A
+(D) Why not?
+(E) B
+DE:HUMOROUS:0 0 0 3 0
+DE:PRACTICAL:1 2 3 -2 4
+
+(28) One of these things is not like the others.
+(A) point guards
+(B) the origin
+(C) prickly pears
+(D) what you didn't get on your final
+(E) int *(*a[16])(char*)
+DE:NERDY:0 4 0 0 5
+DE:ARTSY:1 -2 3 5 -4
+DE:PREPPY:2 0 3 -2 -3
+DE:HUMOROUS:0 1 2 4 4
+
+(29) God...
+(A) Is my guiding light.
+(B) Is dead.
+(C) Is tied with Dr. House.
+(D) Disappears in a puff of logic.
+(E) Bless Us, Every One!
+DE:NERDY:-3 3 5 5 2
+DE:PRACTICAL:3 3 0 0 0
+DE:ARTSY:3 4 2 4 2
+DE:HUMOROUS:-2 0 5 5 5
+
+(30) Your favorite reality show from next season:
+(A) Cheney Knows Best
+(B) Hell's Floral Shoppe
+(C) America's Next Top Dentist
+(D) So You Think You Can Knit?
+(E) American Blasphemous Statue
+DE:PREPPY:2 4 -2 0 0
+DE:EROTIC:-3 5 0 -5 2
+DE:NERDY:-2 0 2 5 -1
+DE:SOCIAL:-2 0 -4 3 0
+
+(31)
+(A) pears
+(B) pears
+(C) pears
+(D) apples
+(E) pears
+DE:NERDY:0 0 0 2 0
+DE:PRACTICAL:0 0 0 4 0
+DE:ARTSY:2 2 2 0 2

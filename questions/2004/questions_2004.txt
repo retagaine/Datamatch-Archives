@@ -1,0 +1,388 @@
+(1) Where will you live after graduation?
+(A) Silicon Valley
+(B) Harvard Square Pit
+(C) Nepal
+(D) The Hamptons
+(E) My parents' basement
+DE:AMBITION:5 -5 -1 5 -5 
+DE:TRADITIONAL:0 0 -1 2 0
+DE:NERDINESS:4 0 0 0 2
+DE:CYNICISM:0 0 -3 1 0
+
+(2) What is your favorite pizza topping?
+(A) Marshmallows
+(B) None - pizza has too many calories.
+(C) "Sausage"
+(D) Cheese, because it's cheaper.
+(E) Broccoflower.
+DE:CHEAP:0 2 0 10 0
+DE:KINKINESS:2 -10 10 0 -4
+DE:ATHLETICS:-4 10 0 0 4
+DE:TRADITIONAL:-10 0 0 4 -2
+DE:VALUES:0 0 -6 0 0
+
+(3) What is your favorite mixed drink?
+(A) Sex on the Beach
+(B) Strawberry Daquiri 
+(C) Mickey Finn
+(D) Manhattan
+(E) Chocolate milk
+DE:VALUES:-3 2 -6 -1 2
+DE:AMBITION:0 0 0 3 -1
+DE:KINKINESS:2 0 5 1 -5
+DE:CHEAP:0 -1 0 -2 2
+DE:SOCIAL:1 3 0 2 0
+
+(4) You find a quarter. An old woman needs 25 cents for bus fare. What do you do?
+(A) Give it to her, because she needs it more than me.
+(B) Buy her cane off her for 25 cents.
+(C) It depends - is it a Georgia quarter? I need a Georgia.
+(D) Keep it and run away laughing.
+(E) Keep the quarter and give her a twenty.
+DE:CYNICISM:-3 1 0 2 -5
+DE:VALUES:3 -3 -1 -5 5
+DE:CHEAP:-1 2 0 3 -5
+
+(5) Where do you go to scope out guys / girls?
+(A) The Internet.
+(B) The MAC.
+(C) Harvard Computing Society.
+(D) Church.
+(E) Leverett 80's Dance.
+DE:DESPERATE:2 0 0 0 2
+DE:NERDINESS:2 -1 5 0 2
+DE:TRADITIONAL:-1 1 0 3 1
+DE:ATHLETIC:-1 5 0 0 1
+DE:VALUES:0 0 0 3 0
+DE:KINKINESS:1 0 0 -4 0
+DE:SOCIAL:-2 1 1 1 2
+
+(6) How do you plead?
+(A) Guilty
+(B) Not guilty
+(C) Anyway you like, baby!
+(D) The Twinkies made me do it.
+(E) Let me introduce my defense team:George Washington, Abe Lincoln and Alexander Hamilton (wink wink nudge nudge)
+DE:VALUES:-2 2 0 -2 -1
+DE:CHEAP:0 0 0 0 5
+DE:KINKINESS:0 0 2 0 0
+DE:CYNICISM:0 0 0 1 5
+DE:HUMOR:-2 -2 2 3 5
+
+(7) What would it take for you to sell out?
+(A) I already have. We ALL have.
+(B) A corner office in Redmond, WA.
+(C) An A in tutorial.
+(D) A bus ticket. No, um, 2 bus tickets.
+(E) Sell out? Never! I'm a Harvard student; I'm going to change the world!
+DE:CYNICISM:5 2 2 1 -5
+DE:CHEAP:0 1 1 5 0
+DE:VALUES:-2 -2 -2 -1 3
+DE:AMBITION:0 5 2 0 0
+DE:ROMANTIC:0 0 0 1 0
+
+(8) On your date, which song will have you dancing?
+(A) Sir Mix-a-lot, "Baby Got Back"
+(B) Chris DeBurgh, "Lady in Red"
+(C) <a href="www.hamsterdance.com">www.hamsterdance.com</a>, "The Hamster Dance"
+(D) Strauss, "Blue Danube"
+(E) The Beatles, "Money - That's What I Want"
+DE:NERDINESS:-1 0 5 0 0
+DE:AMBITION:0 0 0 0 2
+DE:ROMANTIC:0 4 0 1 0
+DE:TRADITIONAL:-1 1 -1 4 0
+DE:HUMOR:2 0 2 0 1
+
+(9) Who is your role model?
+(A) Jesus
+(B) Janet Jackson
+(C) Jessica Lynch
+(D) Casanova
+(E) The Spare Change Guy  
+DE:TRADITIONAL:3 -3 2 0 -1
+DE:KINKINESS:-3 2 0 3 0
+DE:ROMANTIC:1 0 1 2 0
+DE:AMBITION:1 2 0 0 -1
+DE:VALUES:5 -3 2 -2 0
+DE:HUMOR:0 0 0 0 3
+
+(10) What should we do with Allston?
+(A) Add more classroom space - no more section in the Quad!
+(B) Build Harvard's own nuclear reactor -- why should MIT have more toys than us?
+(C) Three indoor astroturf football fields.
+(D) A student union!
+(E) HarvardWorld!  The magic of Disney with the convenience of Boston.
+DE:HUMOR:-2 2 0 0 3
+DE:ATHLETIC:0 0 3 0 0 
+DE:SOCIAL:-1 -2 1 3 2
+DE:AMBITION:0 3 1 0 0
+DE:CYNICISM:0 1 0 -5 -2
+
+(11) What weather do you want on your first date?
+(A) Rainy (so we can huddle beneath one umbrella)
+(B) Snowy (so we can hit the slopes)
+(C) Chilly (so we can stay indoors)
+(D) Foggy (so they can't see my face)
+(E) Sunny (so I can show off to all my friends)
+DE:ROMANTIC:5 2 2 -2 0
+DE:KINKINESS:-3 0 5 0 0
+DE:AMBITION:0 2 0 0 5
+DE:ATHLETIC:0 3 0 0 0
+DE:CYNICISM:0 0 0 3 0
+DE:SOCIAL:1 0 0 0 2
+
+(12) How do you like to waste your time?
+(A) Playing Solitaire
+(B) Sleeping
+(C) Reading. 
+(D) Driving up my cellphone bill
+(E) "Researching" on the Internet
+DE:SOCIAL:-5 -3 2 7 0
+DE:NERDINESS:3 0 6 -5 3
+DE:KINKY:0 -4 -3 0 9
+DE:TRADITIONAL:2 4 2 5 -4
+
+(13) Primary graduation requirement:
+(A) My thesis
+(B) Getting a job
+(C) Sex in Widener
+(D) Finding my soulmate
+(E) Graduate???
+DE:VALUES:6 4 -5 9 -4
+DE:AMBITIOUS:5 5 -3 -5 -10 
+DE:KINKY:0 0 10 -5 0
+DE:HUMOR:-1 -2 4 0 6
+
+(14) What do you like to watch?
+(A) The Super Bowl
+(B) The Super Bowl halftime show
+(C) Chick flicks
+(D) The suffering of others
+(E) Lecture Videos
+DE:ATHLETIC:10 3 -5 0 -6
+DE:CYNICISM:0 -2 -5 10 0
+DE:SOCIAL:5 0 3 -7 -2
+
+(15) What's the hottest thing in your life?
+(A) The sun
+(B) My CPU
+(C) My body
+(D) My significant other 
+(E) My new form of fusion
+DE:DESPERATE:0 2 8 -8 -2
+DE:NERDY:0 6 -4 0 10
+DE:HUMOR:-2 -3 0 0 4 
+DE:ROMANTIC:0 0 -2 10 -2
+DE:TRADITIONAL:0 0 0 5 0
+
+(16) You chose your concentration by:
+(A) Fewest requirements
+(B) Highest average income after graduation
+(C) Number of hot guys/girls in intro meeting
+(D) Dartboard
+(E) Give me one more week to decide!!!
+DE:AMBITIOUS:-1 5 0 -1 -1
+DE:DESPERATE:2 -5 8 -5 10
+DE:HUMOR:2 -3 3 4 6
+DE:CYNICISM:3 0 4 7 -5
+
+(17) Best dining spot for a date:
+(A) Annenberg
+(B) My bedroom (hubba hubba!)
+(C) Picnic on the Commons
+(D) North End
+(E) My parents' house
+DE:CHEAP:10 6 3 -8 4
+DE:ROMANTIC:-6 -8 4 6 2
+DE:TRADITIONAL:2 -3 2 4 6
+DE:KINKY:0 10 -2 2 -1
+
+(18) Your first Valentine's Day gift:
+(A) Chocolates
+(B) Chocolate body paint 
+(C) Life-size teddy bear
+(D) Life-size cardboard cut-out of me
+(E) Tickets to Europe
+DE:HUMOR:0 2 0 3 0
+DE:CHEAP:0 0 -2 0 -10
+DE:DESPERATE:0 0 0 4 0
+DE:ROMANTIC:5 0 7 0 10
+DE:AMBITIOUS:0 0 0 6 3
+
+(19) Your favorite city:
+(A) Paris - City of Lights
+(B) Atlantis - City of the gods
+(C) Las Vegas - City of FREE MONEY!!!
+(D) Bangkok - City of "cheap labor"
+(E) Boston - City of the Patriots
+DE:ROMANTIC:7 2 -5 -6 -1
+DE:ATHLETIC:0 0 2 0 8
+DE:KINKY:3 0 5 10 -3
+DE:CHEAP:-4 0 -4 5 3
+
+(20) Favorite thing to listen to:
+(A) Myself talking
+(B) My Chem professor at 9AM
+(C) Beyonce
+(D) Beethoven's Fur Elise
+(E) Beethoven's Fur Elise's techno remix
+DE:AMBITIOUS:10 5 0 3 0
+DE:NERDY:-3 8 0 4 7
+DE:ROMANTIC:-5 -3 4 5 -7
+DE:TRADITIONAL:0 2 4 5 -5
+
+(21) Favorite Quote:
+(A) "Love means never having to say you're sorry."
+(B) "Workers must control the means of production."
+(C) "The truth is out there."
+(D) "GOAAAAAALLLLLLLLLLLLLLLLLLLLLLLL!!!!!!!!!"
+(E) "All right, brain:I don't like you, and you don't like me.  But let's just do this and I can get back to killing you with beer."  "All right, it's a deal."
+DE:ATHLETIC:0 0 0 10 0
+DE:CYNICISM:-8 -3 -4 0 10
+DE:NERDY:-3 5 8 -5 0
+
+(22) What kind of poster is on your wall?
+(A) "Hang in there, Kitty"
+(B) Infinitely Repeating Staircases
+(C) Scantily Clad Hotties
+(D) Band of the Week
+(E) That thing you drew for VES 126
+DE:CYNICISM:-5 0 0 0 0
+DE:VALUES:5 0 -5 0 0
+DE:TRADITIONAL:3 0 0 4 -3
+DE:ROMANTIC:2 0 -5 0 0
+DE:NERDINESS:0 5 0 0 0
+DE:SOCIAL:0 -3 0 4 -2
+DE:ATHLETICS:0 -5 0 4 0
+DE:KINKINESS:0 0 5 0 0
+DE:CHEAP:0 0 0 0 4
+DE:DESPERATE:0 0 6 0 0
+DE:AMBITION:0 0 0 -4 5
+
+(23) Most Evil Dictator
+(A) Bill Parcels
+(B) George W. Bush
+(C) Dr. Doom
+(D) Harvey Mansfield
+(E) Stalin - still the all time high scorer
+DE:CYNICISM:0 7 0 0 3
+DE:VALUES:0 -4 0 5 0
+DE:TRADITIONAL:3 0 -5 4 0
+DE:NERDINESS:-5 0 7 0 2
+DE:SOCIAL:2 0 -3 0 4
+DE:ATHLETICS:8 0 0 0 0
+DE:KINKINESS:0 0 0 -4 0
+DE:DESPERATE:0 0 2 0 0
+DE:HUMOR:0 3 3 2 0
+
+(24) You believe Hell is:
+(A) CS problem set due Monday. Last monday.
+(B) Parties. Next door. During finals week.
+(C) Bush 4eva
+(D) Absence of God 
+(E) Other people
+DE:CYNICISM:0 0 6 -3 6
+DE:VALUES:0 0 0 6 0
+DE:TRADITIONAL:0 5 2 2 0
+DE:NERDINESS:4 0 0 0 3
+DE:SOCIAL:-2 -4 0 0 -7
+DE:DESPERATE:3 0 0 0 0
+DE:HUMOR:0 0 3 -3 2
+DE:AMBITION:4 4 -2 0 0
+ 
+(25) Why didn't you call your parents last night?
+(A) I told you, my CS problem set was due LAST MONDAY
+(B) What? I call them everyday! 
+(C) They changed the number. And the locks.
+(D) I'm almost out of cell phone minutes
+(E) They wouldn't have heard me over the football game, anyway
+DE:CYNICISM:0 -2 2 0 0 
+DE:VALUES:0 6 -4 -3 0
+DE:TRADITIONAL:0 3 0 -3 -4
+DE:NERDINESS:6 0 0 0 0
+DE:SOCIAL:-3 -2 0 4 5
+DE:ATHLETICS:-2 0 0 0 8
+DE:CHEAP:0 0 0 2 0
+DE:DESPERATE:3 0 4 0 0
+DE:HUMOR:0 0 5 0 0
+DE:AMBITION:3 0 0 4 -4
+ 
+(26) In a slasher flick, who would you be?
+(A) Nancy Drew
+(B) The crazy old Janitor
+(C) I don't care as long as I'm in one of the sex scenes before I die.
+(D) The director
+(E) The guy with the chainsaw
+DE:VALUES:4 0 -4 0 -6
+DE:TRADITIONAL:2 0 0 1 0
+DE:ROMANTIC:0 0 -3 1 0
+DE:NERDINESS:5 0 0 0 0
+DE:SOCIAL:0 -3 3 0 -8
+DE:ATHLETICS:0 0 0 0 3
+DE:KINKINESS:0 2 8 0 5
+DE:DESPERATE:2 2 7 0 0
+DE:HUMOR:0 3 0 0 0
+DE:AMBITION:3 0 0 7 0
+ 
+(27) What are your plans for spring break?
+(A) Romantic getaway
+(B) Staying in my dorm and eating Ramen
+(C) Going home to see my parents
+(D) Internship and resume building
+(E) They say you can't drive to China.  Well, I'm going to find out.
+DE:CYNICISM:0 0 0 -2 0
+DE:VALUES:0 0 6 0 0
+DE:TRADITIONAL:3 1 3 0 -4
+DE:ROMANTIC:10 0 0 -2 0
+DE:SOCIAL:2 -4 0 0 0
+DE:KINKINESS:0 0 -3 0 0
+DE:CHEAP:-5 10 1 0 2
+DE:DESPERATE:-6 4 0 3 4
+DE:HUMOR:0 0 0 0 5
+DE:AMBITION:0 -4 -2 10 0
+ 
+(28) Which of the following could be your screen name?
+(A) luvrGRRL2988
+(B) bloodravenshadow
+(C) YourNameHere
+(D) ChibiKitsune^_^
+(E) bigsoxfan1918
+DE:CYNICISM:0 7 0 0 0
+DE:VALUES:-3 0 0 0 0
+DE:TRADITIONAL:0 -5 8 -2 2
+DE:ROMANTIC:-4 0 0 0 0
+DE:NERDINESS:0 2 0 5 -4
+DE:SOCIAL:4 -4 0 2 2
+DE:ATHLETICS:0 0 0 -2 9
+DE:KINKINESS:5 4 -5 3 0
+DE:DESPERATE:4 0 0 4 0
+
+(29) 10AM Sunday morning, where are you?
+(A) In bed
+(B) In someone else's bed
+(C) Oh look, it's time for bed
+(D) Worshipping at church
+(E) Worshipping at the porcelain altar
+DE:CYNICISM:0 0 0 -6 0
+DE:VALUES:3 -5 0 7 -5
+DE:TRADITIONAL:3 0 -2 7 3
+DE:ROMANTIC:0 3 0 0 -2
+DE:NERDINESS:0 0 3 0 0
+DE:SOCIAL:0 6 6 0 6
+DE:ATHLETICS:0 0 0 0 4
+DE:KINKINESS:-4 5 0 -6 0
+DE:DESPERATE:4 -3 0 0 0
+DE:AMBITION:-4 0 4 3 0
+
+(30) How serious a commitment are you looking for?
+(A) Please don't ever leave my sight again.
+(B) One night - two if you're good (wink wink).
+(C) I need a collaborator on my next problem set.
+(D) Romantic spring break honeymoon.
+(E) I give it a week before we start to hate each other.
+DE:DESPERATE:5 0 1 0 0
+DE:CYNICISM:0 0 0 -2 4
+DE:NERDINESS:0 0 4 0 0
+DE:TRADITIONAL:0 -2 0 4 0
+DE:VALUES:0 -3 0 4 0
+DE:KINKINESS:0 3 0 -1 0

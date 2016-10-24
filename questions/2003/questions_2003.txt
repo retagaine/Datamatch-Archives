@@ -1,0 +1,387 @@
+(1) What was your nickname during freshman week?
+
+(A) Snookums
+(B) The Keg Commander
+(C) XXX
+(D) The Beast
+(E) Encyclopedia Brown
+
+DE:NERDINESS: 0 -2 -3 -3 8
+DE:ROMANTIC: 4 0 -1 0 -2
+DE:KINKINESS: 0 3 0 10 -2
+DE:VALUES: 0 0 -2 -5 1
+DE:ATHLETIC: 0 3 0 0 0
+DE:SOCIAL: 2 0 5 0 -2
+
+
+(2) Your ideal core class: 
+
+(A) Moral Reasoning - If I Am Talking, All is Permitted
+(B) Science B - Sex.  No, really.
+(C) Lit and Arts B - Oooh, pretty!
+(D) QR - Maximizing Beers on a Dorm Crew Wage
+(E) Foreign Cultures - New Haven, CT
+
+DE:AMBITION: 4 0 0 0 0
+DE:KINKINESS: 0 6 0 0 0
+DE:CHEAP: 0 0 0 3 4
+DE:NERDINESS: 3 -2 -1 -3 0
+
+
+(3) Your favorite thing about the 80s:
+
+(A) Voltron!!
+(B) My Little Pony
+(C) Guns 'n Roses
+(D) Zack, from Saved By The Bell
+(E) David Bowie's pants
+
+DE:KINKINESS: 0 -1 3 0 4
+DE:NERDINESS: 4 1 -2 3 0
+DE:ROMANTIC: 0 3 0 0 0
+DE:TRADITIONAL: 1 4 -2 5 0
+
+
+(4) Favorite Pizza Place:
+
+(A) Pinochio's
+(B) Tommy's
+(C) Bertucci's 
+(D) An obscure, artsy place in Jamaica Plain that you only
+*claim* exists in order to get more indie cred.
+(E) HUDS
+
+DE:CHEAP: 4 7 -2 -2 8
+DE:ROMANTIC: 0 0 0 2 -2
+DE:SOCIAL: 3 4 1 -3 -5
+  
+
+# Kept from '02
+(5) Who should pay when you're out on a date?
+(A) the person who asked.
+(B) the boy.
+(C) the girl.
+(D) split the cost.
+(E) VISA 
+DE:TRADITIONAL:0 5 -2 0 -1
+DE:CHEAP:-1 0 0 1 3
+
+
+(6) Which one person has influenced your life the most?
+
+(A) The ex
+(B) Mommy
+(C) Michael Sandel
+(D) Yoda
+(E) Joe Millionaire
+
+DE:NERDINESS: 0 7 4 6 -2
+DE:AMBITION: 0 0 5 0 2
+DE:CYNICISM: 5 0 1 0 4
+
+(7) Which of the following persons has most influenced the general development
+of post-Augustine political philosophy insofar as it bears upon
+moral law in the Western world?
+
+(A) Yo mama!
+(B) Jesse Ventura
+(C) Dilbert
+(D) John Rawls 
+(E) I am so over the whole PoMo thing
+
+DE:KINKINESS: 0 3 0 0 2
+DE:CYNICISM: 0 4 5 -3 2
+DE:SATIRE: 3 0 2 0 0
+DE:VALUES: -2 -4 1 5 2
+
+
+(8) What's your favorite type of soda?
+
+(A) It's pop, you jagoff!!!
+(B) Rum and coke
+(C) Red Bull
+(D) Coke
+(E) Orangina, 1998 vintage.
+
+DE:SOCIAL: 0 2 -1 0 0
+DE:NERDINESS: 0 0 3 0 5
+DE:TRADITIONAL: 3 0 -2 2 0
+DE:CHEAP: 0 -3 -1 2 -2
+
+(9) I buy books at:
+
+(A) Books?  I don't need no stinking books!
+(B) Pandemonium
+(C) The Coop. Everyone is supposed to go to the Coop.
+(D) Curious George Visits Wordsworth
+(E) The Internet has everything!
+
+DE:NERDINESS: -3 8 4 0 5
+DE:CHEAP: 3 0 -2 0 3
+DE:AMBITION: 2 0 0 0 0
+DE:CYNICISM: 3 0 0 -4 0
+
+
+(10) Favorite part of Boston:
+
+(A) Cambridge
+(B) North End
+(C) Lansdowne Street
+(D) Chinatown
+(E) South Station - getting the hell out of here!
+
+DE:NERDINESS: 2 0 0 0 0
+DE:SOCIAL: 1 2 7 2 -5
+DE:ROMANTIC: 0 5 3 0 0
+DE:VALUES: 0 0 -2 0 0
+
+
+(11) Your favorite Movie from last year:
+
+(A) Adaptation
+(B) Two Towers
+(C) Harry Potter - Chamber of Secrets
+(D) Spiderman
+(E) My Big Fat Greek Wedding
+
+DE:NERDINESS: 3 6 5 3 0
+DE:VALUES: -4 1 4 3 5
+DE:ROMANTIC: -2 2 0 4 7
+DE:TRADITIONAL: -5 3 3 1 4
+
+(12) Movie you're most looking forward to:
+
+(A) The Matrix II
+(B) Legally Blonde II
+(C) Dumb and Dumberer
+(D) Return of the King
+(E) Bugs Bunny Marathon at the Brattle 
+
+DE:NERDINESS: 5 -3 1 6 3 
+DE:SATIRE: 0 4 3 0 0 
+DE:KINKINESS: 3 1 0 2 0
+DE:HUMOR: 0 4 6 0 4
+DE:CYNICISM: 0 0 0 0 -4 
+
+(13) Your favorite form of exercise:
+
+(A) Dance Dance Revolution
+(B) Wink ... nudge, nudge ... giggle, giggle
+(C) Foosball
+(D) Boston Marathon
+(E) Coding Marathon
+
+DE:NERDINESS: 8 -2 2 -5 10
+DE:ATHLETIC: 1 3 2 8 -2
+KINKNESS 2 5 0 0 -1
+
+
+(14) In ten years, you see yourself:
+
+(A) Richer than the rest of us
+(B) Learning about welfare reform first-hand
+(C) Still using Datamatch
+(D) Writing my Nobel Prize acceptance speech
+(E) Fighting the good fight with Greenpeace
+
+DE:AMBITION: 7 -4 -2 5 0
+DE:CYNICISM: 7 4 2 0 -5
+DE:ROMANTIC: 0 0 -2 0 0
+DE:SOCIAL: 0 0 -2 0 2
+DE:VALUES: -4 0 0 2 4
+
+# Kept from '02
+(15) What makes a party?
+(A) multiple kegs
+(B) two turntables and a microphone
+(C) your date
+(D) free Pinocchio's
+(E) me
+DE:SOCIAL::4 5 6 3 7
+DE:ROMANTIC::-3 0 7 0 -1
+
+(16) Which website best characterizes your surfing habits?
+
+(A) <a href="http://arstechnica.com">Ars Technica</a>
+(B) <a href="http://www.etrade.com">E-trade</a>
+(C) <a href="http://registrar.fas.harvard.edu">Harvard Registrar</a>
+(D) <a href="http://espn.com">Espn.com</a>
+(E) <a href="http://theonion.com">The Onion</a>
+
+DE:AMBITION: 0 5 6 0 0
+DE:NERDINESS: 4 1 5 -2 0
+DE:SATIRE: 0 0 0 0 5
+
+(17) What's your sign?
+
+(A) Do Not Enter
+(B) No Stopping
+(C) Slippery When Wet
+(D) Men at Work
+(E) Private Property
+
+DE:KINKINESS: -3 2 10 5 -2
+DE:AMBITION: 0 3 0 0 0
+DE:TRADITIONAL: 5 -2 -5 -2 5
+DE:CYNICISM: 3 2 0 1 3
+DE:SOCIAL: -2 0 0 0 -3
+DE:ATHLETIC: 0 2 0 2 0
+
+
+(18) Favorite mind-altering substance?
+a. Is this being recorded?
+b. Coffee
+c. Alcohol
+d. Wittgenstein
+e. Haskell
+
+DE:NERDINESS: 0 3 -3 7 9
+DE:CYNICISM: 4 0 2 0 0
+DE:TRADITIONAL: 0 2 3 0 -3
+
+
+(19) Would you go "all the way"?
+a. To the Quad?
+b. Not until we're married.
+c. Not unless you pay me.
+d. Sure, after a few shots.
+e. Let's go!
+
+DE:CYNICISM: -4 -3 3 5 0
+DE:VALUES: 0 6 -4 -5 -5
+DE:ROMANTIC: 0 6 -6 -4 1
+
+
+(20) I read Maxim for:
+a. Sex advice
+b. The pictures in the middle
+c. Trenchant social critique
+d. Scoping out the competition
+e. My thesis on socialist realism
+
+DE:CYNICISM: 2 0 3 6 0
+DE:NERDINESS: -2 -4 4 -1 5
+DE:SATIRE: 0 0 3 0 0
+DE:ATHLETIC: 5 3 0 3 -2
+DE:AMBITION: 0 0 0 2 3
+
+
+(21) You're stuck in an elevator.  What do you do?
+a. Regret ever going to Quincy House in the first place.
+b. Wait to get unstuck in due time.
+c. Leer suggestively at the person next to me.
+d. Shout "OH MY GOD we're all going to DIE!!!"
+e. Start humming the <A href='http://www.homestarrunner.com/sbemail45.html'>Strong Bad</A> techno song.
+
+DE:NERDINESS: 0 2 -1 0 8
+DE:TRADITIONAL: 1 5 0 2 -5
+DE:HUMOR: 3 0 0 2 5
+
+
+(22) Do people accuse you of being drunk?
+a. No, I don't drink.
+b. No, but I usually am.
+c. Yes, but I don't drink.
+d. Yes, and I am right now.
+e. Yes, but in the morning I will be sober, and you will still be ugly. 
+
+DE:NERDINESS: 4 -3 2 -4 -2
+DE:CYNICISM: -2 2 0 2 5
+DE:TRADITIONAL: 5 -2 2 -5 -5  
+DE:SOCIAL: -2 3 2 5 1
+
+(23) Favorite file-sharing program?
+a. Kazaa
+b. Gnutella
+c. IRC
+d. Metal cabinet
+e. Dean Lewis told me not to do that anymore.
+
+DE:NERDINESS: 2 4 8 -2 -4
+DE:VALUES: -2 -2 -2 4 6
+
+
+(24) Who's your role-model?
+a. GWB
+b. JFK
+c. HRM 
+b. JTT 
+e. ESR
+DE:TRADITIONAL:4 3 5 -2 -4
+DE:AMBITION:5 6 2 2 -1
+DE:ROMANTIC:-2 6 5 4 -4
+DE:NERDINESS:-2 1 03 -3 6
+DE:SOCIAL:2 5 32 5 -4
+
+(25) You've been challenged to a duel. Weapon of choice?
+a. swords
+b. sawed-off shotguns
+c. incisive witticisms
+d. shots of tequila
+e. SYN flood DoS attacks
+
+DE:TRADITIONAL: 5 2 6 0 0
+DE:ROMANTIC: 4 0 2 -2 -5
+
+(26) Favorite number:
+
+(A) 42
+(B) \pi
+(C) Yours, baby!
+(D) The Final Four
+(E) 36-24-36
+
+DE:NERDINESS: 4 8 -2 -5 -1
+DE:KINKINESS: 0 -2 4 0 6
+DE:ATHLETIC: 0 0 0 7 0
+DE:SOCIAL: 0 -1 4 3 0
+
+# Kept from '02
+(27) By the third date I'm:
+(A) looking through the facebook for someone new
+(B) thinking about baby names
+(C) I'll let you know when I find out
+(D) thankful for my single  
+(E) thinking about a fourth
+DE:ROMANTIC::-6 3 -3 2 6
+DE:VALUES::-6 5 3 2 6
+
+(28) Favorite Animal:
+(A) The Penguin
+(B) The Elephant
+(C) The Donkey
+(D) The Party Animal
+(E) The Snake
+
+(29) Where will you take your date?
+
+(A) Frog Pond, so you can fall for each other
+(B) Cabot Library, doing "problem sets" by candlelight
+(C) 7-11. for some low-priced lovin'
+(D) Sandrine's, for some bourgeois lovin'
+(E) Back to the dorm, roommates be damned!
+
+DE:ROMANTIC: 5 -2 -5 4 -1
+DE:KINKINESS: 0 0 2 -1 3
+DE:CHEAP: 0 1 5 -2 0
+DE:ATHLETIC: 2 0 0 0 1
+DE:NERDINESS: 0 4 0 0 0
+
+DE:TRADITIONAL:0 6 2 -1 -4
+DE:KINKINESS: 4 -5 0 2 5
+DE:SOCIAL: -2 -4 2 5 7
+DE:CYNICISM:1 -2 0 -2 3
+
+# Bryan's "traditional" closing questions
+(30) How serious of a relationship are you looking for?
+(A) relationship?
+(B) a partner to share the many hours in Cabot Library 
+(C) a date to the formal
+(D) one night of wild kinky sex
+(E) a ring
+DE:ROMANTIC:0 0 1 0 4
+DE:TRADITIONAL:0 0 0 0 3
+DE:KINKINESS:0 0 0 3 0
+DE:HUMOR:1 2 0 0 0
+DE:NERDINESS:1 2 0 0 0
+

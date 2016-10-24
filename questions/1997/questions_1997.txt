@@ -1,0 +1,452 @@
+<!-- headers already printed via cgi1.pl -->
+
+<input type=hidden name=number_qs value=42>
+<ol>
+<li><ol>Which statement best applies to you?
+	<li type=A><input type="radio" name=1 value="A"> I always get the
+same
+grades, no matter how hard I work.
+	<li type=A><input type="radio" name=1 value="B"> My grades are
+good
+enough with minimal effort -- why bother? 
+	<li type=A><input type="radio" name=1 value="C"> I have to get
+perfect grades! Sleep is for the weak!
+	<li type=A><input type="radio" name=1 value="D"> I put in lots of
+work, but only some of the time, so I get all
+sorts of grades.
+
+</ol><p>
+
+<li> <ol>You're driving alone, in an unfamiliar place, and flipping
+through the 
+radio channels.  You come to the following types of music.  Which are you 
+most likely to leave on:  
+<li type=A><input type="radio" name=2 value="A"> Jazz
+<li type=A><input type="radio" name=2 value="B"> Classical
+<li type=A><input type="radio" name=2 value="C"> Country
+<li type=A><input type="radio" name=2 value="D"> Classic rock
+<li type=A><input type="radio" name=2 value="E"> Mainstream contemporary (e.g., "alternative")
+<li type=A><input type="radio" name=2 value="F"> Indy-type music (i.e., really alternative)
+<li type=A><input type="radio" name=2 value="G"> Rap, or modern R&B  
+</ol>
+<p>
+
+<li><ol>Your friend and you are in the same concentration-related class.
+He/she does much better than you on one of the tests.  
+
+<li type=A>
+<input type="radio" name=3 value="A"> Even though you know he/she
+studied more than you, you are secretly jealous, and a little angry.
+<li type=A><input type="radio" name=3 value="B"> Because you studied more than him/her, you are jealous of his/her innate talent.
+<li type=A><input type="radio" name=3 value="C"> You are happy for him/her since he/she deserves it.
+<li type=A><input type="radio" name=3 value="D"> Try to be happy for him/her, but confess your jealousy.
+<li type=A><input type="radio" name=3 value="E"> This would never happen.  I try to hang out with people out of 
+	my concentration for this reason.
+</ol>
+<p>
+
+
+<li><ol>When you see an attractive woman in the dining hall, you:
+<li type=A><input type="radio" name=4 value="A"> Plan your approach.
+<li type=A><input type="radio" name=4 value="B"> Walk over and say hi.
+<li type=A><input type="radio" name=4 value="C"> Just look and fantasize.
+<li type=A><input type="radio" name=4 value="D"> Banish these sinful thoughts.
+</ol><p>
+
+
+<li><ol>"Prepared for sex" = 
+<li type=A><input type="radio" name=5 value="A"> Married.
+<li type=A><input type="radio" name=5 value="B"> Dating seriously.
+<li type=A><input type="radio" name=5 value="C"> Having birth control.
+<li type=A><input type="radio" name=5 value="D"> Feeling frisky.
+<li type=A><input type="radio" name=5 value="E"> Having a pulse.
+</ol><p>
+
+<li><ol>If your girlfriend had an intellectual epiphany during an intimate
+moment, you would:
+<li type=A><input type="radio" name=6 value="A"> Find it understandable.  You experience "aha" moments at
+	inopportune times as well.  
+<li type=A><input type="radio" name=6 value="B"> Be offended.  After all, there is a time 
+	for schoolwork, and this is definitely not one of them!  
+<li type=A><input type="radio" name=6 value="C"> Understand how important ideas are to him/her and that they
+	are beyond your SO's control, but would feel hurt that he/she
+	was so easily distracted from you.
+<li type=A><input type="radio" name=6 value="D"> Think it's cool that you're dating someone who is so
+	inspired and creative.
+</ol><p>
+
+
+
+
+
+
+<li><ol>You are on an airplane.  
+Which statement best describes your interactions with your seatmates?
+<li type=A><input type="radio" name=6 value="A"> I can never get up enough
+nerve to initiate a conversation
+	with strangers, but I'm glad to talk with them.
+<li type=A><input type="radio" name=6 value="B"> I strike up conversation
+with friendly-looking strangers
+	when I'm bored.  If personal topics are raised, I don't mind 
+	revealing much about myself --- I'll probably never see them again, 
+	anyhow.
+<li type=A><input type="radio" name=6 value="C"> I enjoy the solitude and
+anonymity of a plane ride;  I
+	dislike having my thoughts interrupted by conversation.  
+<li type=A><input type="radio" name=6 value="D"> I sometimes converse with
+seatmates, when I get enough nerve
+	to, anyhow.  If a conversation happens, I'm relieved to have
+	someone to talk with, since long plane rides can get boring.  
+<li type=A><input type="radio" name=6 value="E"> I strike up conversation
+with seatmates.  I enjoy using this
+	chance to try-out new personae --- it's exhilarating to pretend
+	to be someone I'm not.
+<li type=A><input type="radio" name=6 value="F"> I never talk with
+strangers.  It seems risky.
+</ol><p>
+
+<li><ol>Which of the following comic strips do you most relate to?
+<li type=A><input type="radio" name=7 value="A"> Dilbert.
+<li type=A><input type="radio" name=7 value="B"> Sylvia.
+<li type=A><input type="radio" name=7 value="C"> Cathy.
+<li type=A><input type="radio" name=7 value="D"> For Better or For Worse.
+<li type=A><input type="radio" name=7 value="E"> Doonesbury.
+<li type=A><input type="radio" name=7 value="F"> The Far Side.
+<li type=A><input type="radio" name=7 value="G"> Calvin and Hobbes.
+</ol><p>
+
+
+<li><ol>Favorite same-sex lover pair:
+<li type=A><input type="radio" name=8 value="A"> The Tick and Arthur.
+<li type=A><input type="radio" name=8 value="B"> Batman and Robin.
+<li type=A><input type="radio" name=8 value="C"> Marcy and Peppermint Patty from "Peanuts."
+<li type=A><input type="radio" name=8 value="D"> George Stephanopoulos and Ralph Reed.
+<li type=A><input type="radio" name=8 value="E"> Wooster and Jeeves.
+<li type=A><input type="radio" name=8 value="F"> Ernie and Bert.
+</ol><p>
+
+
+<li><ol>Where would you want your date to take you?
+<li type=A><input type="radio" name=9 value="A"> Dinner.
+<li type=A><input type="radio" name=9 value="B"> the Crimson Sports 
+Grille.
+<li type=A><input type="radio" name=9 value="C"> A play or a movie.
+<li type=A><input type="radio" name=9 value="D"> New heights of ecstasy.
+</ol><p>
+
+
+<li><ol>You are in high school, and you get one of those Presidential Scholars
+applications, an honor which awards no money, but you get to fly out
+and meet the president if you win.  There is also a lengthy application
+which requires at least one specially written essay.  You:
+<li type=A><input type="radio" name=10 value="A"> Fill it out right away, honored to have been picked.
+<li type=A><input type="radio" name=10 value="B"> Are disappointed that there is no money involved and think
+	    the prize sort of dubious, but fill it out and send it in at
+	    the last minute.
+<li type=A><input type="radio" name=10 value="C">  Set it aside, and never get around to filling it out.
+<li type=A><input type="radio" name=10 value="D">  Throw it away.
+</ol><p>
+
+
+<li><ol>When you were a kid you played:
+<li type=A><input type="radio" name=11 value="A"> On the swings.
+<li type=A><input type="radio" name=11 value="B"> On the slide.
+<li type=A><input type="radio" name=11 value="C"> In the sandbox.
+<li type=A><input type="radio" name=11 value="D"> On the jungle gym.
+<li type=A><input type="radio" name=11 value="E"> In the bushes.
+</ol><p>
+
+<li><ol>Favorite authoritarian:
+<li type=A><input type="radio" name=12 value="A"> Henry Ford.
+<li type=A><input type="radio" name=12 value="B"> Walt Disney.
+<li type=A><input type="radio" name=12 value="C"> Richard Nixon.
+<li type=A><input type="radio" name=12 value="D"> Harry Lewis.
+<li type=A><input type="radio" name=12 value="E"> Draco.
+</ol><p>
+
+<li><ol>You buy a package of cookies.  What do you think?
+<li type=A><input type="radio" name=13 value="A"> "156 calories per cookie."
+<li type=A><input type="radio" name=13 value="B"> "No real girl scouts?"
+<li type=A><input type="radio" name=13 value="C"> "It's been too long since my last chocolate hit."
+<li type=A><input type="radio" name=13 value="D">
+ "Num num.  Cookies."
+</ol><p>
+
+<li><ol>Favorite Harvard superhero:
+<li type=A><input type="radio" name=14 value="A"> Harry Lewis.
+<li type=A><input type="radio" name=14 value="B"> Menu Man.
+<li type=A><input type="radio" name=14 value="C"> Domna.
+<li type=A><input type="radio" name=14 value="D"> Action Man.
+<li type=A><input type="radio" name=14 value="E"> Rudd Coffey.
+</ol><p>
+
+<li><ol>You've had a hectic week.  It's finally Friday afternoon and you have
+nothing scheduled.  You are more likely to:
+<li type=A><input type="radio" name=15 value="A"> Go lie down and rest, letting your adrenaline and stress
+levels
+	subside a bit before you proceed with your weekend.
+<li type=A><input type="radio" name=15 value="B"> Go for a walk by yourself.  it's been awhile since you've
+	had time to enjoy the fresh air and the privacy of your
+	thoughts.
+<li type=A><input type="radio" name=15 value="C"> Go for a run or long bikeride to work off your stress.
+<li type=A><input type="radio" name=15 value="D"> Go to the MAC or your house weight room to work off the stress.
+<li type=A><input type="radio" name=15 value="E"> Go to the office of your extracurricular club to check up on
+	things, and hang out.
+<li type=A><input type="radio" name=15 value="F"> Find some friends and hang out with them.
+<li type=A><input type="radio" name=15 value="G"> Play videogames or watch TV.
+</ol><p>
+
+
+<li><ol>You live in a single off a common room shared by three other roommates.
+Your door is usually:
+<li type=A><input type="radio" name=16 value="A"> Ajar.
+<li type=A><input type="radio" name=16 value="B"> Wide open.
+<li type=A><input type="radio" name=16 value="C"> Closed.
+<li type=A><input type="radio" name=16 value="D"> Closed and locked.
+</ol><p>
+
+
+<li><ol>Why would you wear black clothing?
+<li type=A><input type="radio" name=17 value="A"> Someone died.
+<li type=A><input type="radio" name=17 value="B"> When it's on top in my drawer.
+<li type=A><input type="radio" name=17 value="C">  "I wear black on the outside because black is how I feel on
+	the inside."
+<li type=A><input type="radio" name=17 value="D"> It doesn't show stains.
+</ol><p>
+
+<li><ol>You are invited to a national conference about one of your interests.
+You go, but to your disappointment, it is unbelievably dull.  You:
+<li type=A><input type="radio" name=18 value="A"> Stay to be polite to the speakers/organizers.
+<li type=A><input type="radio" name=18 value="B"> Stay, hoping it improves, and not wanting to miss anything.
+<li type=A><input type="radio" name=18 value="C"> Strike up conversation with other bored-looking people in
+	    the back of the room.
+<li type=A><input type="radio" name=18 value="D"> Read a book or go
+to sleep.
+<li type=A><input type="radio" name=18 value="E"> Strip naked, jump up on
+stage, and start singing Michael Jackson's "Billie Jean."
+</ol><p>
+
+
+
+<li><ol>What is your overriding concern in shopping for classes?  
+<li type=A><input type="radio" name=19 value="A"> Classes  withgood chairs
+to sleep in.
+<li type=A><input type="radio" name=19 value="B"> I don't -- 
+my classes are planned out years in advance.
+<li type=A><input type="radio" name=19 value="C"> An intellectual challenge.
+<li type=A><input type="radio" name=19 value="D"> Fun subject matter.
+<li type=A><input type="radio" name=19 value="E"> All my friends say it's a gut.
+<li type=A><input type="radio" name=19 value="F"> All my friends are taking it.
+</ol><p>
+
+
+<li><ol>How much work do you have?
+<li type=A><input type="radio" name=20 value="A"> A lot.
+<li type=A><input type="radio" name=20 value="B"> A whole hell of a lot.
+<li type=A><input type="radio" name=20 value="C"> Oh, I'm screwed.
+<li type=A><input type="radio" name=20 value="D"> The Ad Board is stalking me.
+</ol><p>
+
+<li><ol>Do you ever clean up after your roommate?
+<li type=A><input type="radio" name=21 value="A"> Yes.
+<li type=A><input type="radio" name=21 value="B"> I would if it were necessary, but it isn't.
+<li type=A><input type="radio" name=21 value="D"> No, I don't.
+<li type=A><input type="radio" name=21 value="E"> No, I couldn't live with anyone messy.
+</ol><p>
+
+<li><ol>Favorite pick-up line:
+<li type=A><input type="radio" name=22 value="A"> Vi or emacs?
+<li type=A><input type="radio" name=22 value="B"> There's a Wal-mart in my pocket but it's closing soon.
+<li type=A><input type="radio" name=22 value="C"> Is that <insert name of textbook here> you're reading?
+<li type=A><input type="radio" name=22 value="D"> I have thesis, you have antithesis, and together we can make
+	synthesis.
+<li type=A><input type="radio" name=22 value="E"> The word of the day is "marsupial".  Let's go back to my
+	place and spread the word.  </ol><p>
+
+
+<li><ol>You are eating dinner at a professor's house, and find a
+cockroach in the salad.  You:
+<li type=A><input type="radio" name=23 value="A"> Tell him/her in private .
+<li type=A><input type="radio" name=23 value="B"> Start a conversation about it at the table.
+<li type=A><input type="radio" name=23 value="C"> Take it out of your salad and hide it in your napkin so his/her
+	feelings won't be hurt, but don't eat any of your salad.
+<li type=A><input type="radio" name=23 value="D"> Extract it, and eat the minimum amount of salad necessary to
+	be polite .
+<li type=A><input type="radio" name=23 value="E"> Do not touch your salad.
+<li type=A><input type="radio" name=23 value="F"> Eat all of your salad, leaving the roach behind.
+<li type=A><input type="radio" name=23 value="G"> Eat *all* of your salad.
+</ol><p>
+
+
+<li><ol>Your roommate comes out to you.  What do you do?
+<li type=A><input type="radio" name=24 value="A"> Tell him/her that you are uncomfortable with homosexuality
+because  of your moral convictions and switch out.
+<li type=A><input type="radio" name=24 value="B"> Switch out without notification due to discomfort with the idea.
+<li type=A><input type="radio" name=24 value="C"> You find yourself unconsciously distancing self from him/her,
+	   but you try not to let it show because you value your friendship 
+	   more than that.
+<li type=A><input type="radio" name=24 value="D"> No biggie.  Though I don't know many gays/lesbians, I'm already 
+	   comfortable with my roommate, regardless of his/her sexuality.
+<li type=A><input type="radio" name=24 value="E"> No biggie.  A large chunk of my friends are gay/lesbian.
+</ol><p>
+
+<li><ol>What shape is your personality most like:
+<li type=A><input type="radio" name=25 value="A"> Circle.
+<li type=A><input type="radio" name=25 value="B"> Rectangle.
+<li type=A><input type="radio" name=25 value="C"> Triangle.
+<li type=A><input type="radio" name=25 value="D"> Square.
+<li type=A><input type="radio" name=25 value="E"> Squiggly line.
+</ol><p>
+
+
+<li><ol>When I find out something bad/good, I:
+<li type=A><input type="radio" name=26 value="A"> Think about it.
+<li type=A><input type="radio" name=26 value="B"> Tell a close friend.
+<li type=A><input type="radio" name=26 value="C"> Tell everyone *all* the details.
+<li type=A><input type="radio" name=26 value="D"> Tell everyone the condensed version.
+</ol><p>
+
+<li><ol>Where would your Dream Date go clothes shopping?
+<li type=A><input type="radio" name=27 value="A"> Brooks Brothers.
+<li type=A><input type="radio" name=27 value="B"> The Gap.
+<li type=A><input type="radio" name=27 value="C"> Salvation Army thrift
+shop.
+<li type=A><input type="radio" name=27 value="D"> I'm not sure I'd notice --
+ I don't see a huge difference
+	between the above choices.
+<li type=A><input type="radio" name=27 value="E"> I understand the difference, but I don't care --- it's
+	what's underneath the clothes that matters.
+</ol><p>
+
+
+<li><ol>When you go on a date you want to:
+<li type=A><input type="radio" name=28 value="A"> Walk on the wild side.
+<li type=A><input type="radio" name=28 value="B"> Find the Yin for your Yang.
+<li type=A><input type="radio" name=28 value="C"> Find someone just like me. 
+<li type=A><input type="radio" name=28 value="D"> Lead innocent sheep astray.
+</ol><p>
+
+
+<li><ol>Sex in Widener:
+<li type=A><input type="radio" name=29 value="A">  Would be horribly romantic -- all those books from floor to
+	ceiling.  
+<li type=A><input type="radio" name=29 value="B"> Repulses me; it's too stuffy and dusty.
+<li type=A><input type="radio" name=29 value="C"> Is something I plan to do because it's one of those three
+things.
+</ol><p>
+
+
+<li><ol>You take a year off.  Which of the following describes your most likely reason?
+<li type=A><input type="radio" name=30 value="A"> I wanted to wander the mountains and find myself.
+<li type=A><input type="radio" name=30 value="B"> I got a wonderful internship at the Smithsonian.  
+<li type=A><input type="radio" name=30 value="C"> I wanted to see the Andes.
+<li type=A><input type="radio" name=30 value="D"> The Ad Board made me.
+</ol><p>
+
+
+<li><ol>Which Peanuts character do you most identify with?  
+<li type=A><input type="radio" name=31 value="A"> Linus.
+<li type=A><input type="radio" name=31 value="B"> Charlie Brown.
+<li type=A><input type="radio" name=31 value="C"> Sally.
+<li type=A><input type="radio" name=31 value="D"> Lucy.
+<li type=A><input type="radio" name=31 value="E"> Marcy.
+<li type=A><input type="radio" name=31 value="F"> Schroeder.
+<li type=A><input type="radio" name=31 value="G"> Peppermint Patty.
+<li type=A><input type="radio" name=31 value="H"> Snoopy.
+</ol><p>
+
+
+<li><ol>What do you think of the "Ban Boredom:  Get Married in Store 24!"
+campaign?
+<li type=A><input type="radio" name=32 value="A"> Stupid.  Why would anyone get married in store 24?
+<li type=A><input type="radio" name=32 value="B"> Brilliant in its tackiness!  Store 24 took its campiness and
+	ran with it.  
+</ol><p>
+
+<li><ol>Beyond which point does your sexual comfort level stop?  
+<li type=A><input type="radio" name=33 value="A"> Physical contact.
+<li type=A><input type="radio" name=33 value="B"> Nudity.
+<li type=A><input type="radio" name=33 value="C"> Sex.
+<li type=A><input type="radio" name=33 value="D"> Bondage.
+<li type=A><input type="radio" name=33 value="E"> Limits?
+</ol><p>
+
+
+<li><ol>Which dead president do you most identify with?
+<li type=A><input type="radio" name=34 value="A"> Thomas Jefferson.
+<li type=A><input type="radio" name=34 value="B"> Millard Fillmore.
+<li type=A><input type="radio" name=34 value="C"> James K. Polk.
+<li type=A><input type="radio" name=34 value="D"> Andrew Jackson.
+<li type=A><input type="radio" name=34 value="E"> Richard Nixon.
+</ol><p>
+
+
+<li><ol>Which Scooby-Doo character do you most identify with?
+<li type=A><input type="radio" name=35 value="A"> Scooby.
+<li type=A><input type="radio" name=35 value="B"> Shaggy.
+<li type=A><input type="radio" name=35 value="C"> Velma.
+<li type=A><input type="radio" name=35 value="D"> Daphne.
+<li type=A><input type="radio" name=35 value="E"> Fred.
+<li type=A><input type="radio" name=35 value="F"> The Mystery Machine.
+</ol><p>
+
+
+<li><ol>The HUPD:
+<li type=A><input type="radio" name=37 value="A"> Stop us from occupying University Hall.
+<li type=A><input type="radio" name=37 value="B"> Stop us from riding bikes in the Yard.
+<li type=A><input type="radio" name=37 value="C"> Get me into my room when I'm locked out.
+<li type=A><input type="radio" name=37 value="D"> Protect us from the Pit People.
+<li type=A><input type="radio" name=37 value="E"> Break up parties just when things start to get fun.
+<li type=A><input type="radio" name=37 value="F"> Bail us out of jail.
+</ol><p>
+
+
+<li><ol>Your favorite procrastination method:
+<li type=A><input type="radio" name=38 value="A"> E-mail or Usenet.
+<li type=A><input type="radio" name=38 value="B"> Basketball.
+<li type=A><input type="radio" name=38 value="C"> Sex.
+<li type=A><input type="radio" name=38 value="D"> Pretending to work.
+<li type=A><input type="radio" name=38 value="E"> Reading.
+<li type=A><input type="radio" name=38 value="F"> Distracting your friends.
+<li type=A><input type="radio" name=38 value="G"> Videogames or foosball.
+</ol><p>
+
+<li><ol>Which of these poets (living or dead) would you most like to date?
+<li type=A><input type="radio" name=39 value="A"> Gertrude Stein.
+<li type=A><input type="radio" name=39 value="B"> Sylvia Plath.
+<li type=A><input type="radio" name=39 value="C"> Lord Byron.
+<li type=A><input type="radio" name=39 value="D"> Langston Hughes.
+<li type=A><input type="radio" name=39 value="F"> Nikki Giovanni.
+<li type=A><input type="radio" name=39 value="G"> Edgar Allan Poe.
+</ol><p>
+
+
+<li><ol>You're up three hours later than normal.  Why?  
+<li type=A><input type="radio" name=40 value="A"> Schoolwork.
+<li type=A><input type="radio" name=40 value="B"> You've gotten into a conversation with your roommates.
+<li type=A><input type="radio" name=40 value="C"> You're at Tommy's or a similar hang-out.
+<li type=A><input type="radio" name=40 value="D"> You had a lot to do for your extracurricular activities.
+</ol><p>
+
+<li><ol>My favourite drink is:
+<li type=A><input type="radio" name=41 value="A"> Beer.
+<li type=A><input type="radio" name=41 value="B"> Wine.
+<li type=A><input type="radio" name=41 value="C"> Gin & Tonic.
+<li type=A><input type="radio" name=41 value="C"> "Anything.  Make it a double--no, a triple."
+<li type=A><input type="radio" name=41 value="D"> Root beer.
+<li type=A><input type="radio" name=41 value="E"> Coffee.
+<li type=A><input type="radio" name=41 value="F"> Water.
+</ol><p>
+	
+<li><ol>You're in a room with many other sweaty people at night.  Pick the
+answer which best describes where you are, or what you are doing:  
+<li type=A><input type="radio" name=42 value="A"> MAC.
+<li type=A><input type="radio" name=42 value="B"> Review session.
+<li type=A><input type="radio" name=42 value="C"> Drinking.
+<li type=A><input type="radio" name=42 value="D"> Sex.
+<li type=A><input type="radio" name=42 value="E"> Dancing.
+
+
+</form>
+
+

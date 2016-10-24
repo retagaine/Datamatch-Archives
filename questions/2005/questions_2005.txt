@@ -1,0 +1,349 @@
+(1) In your bathroom, you have:
+(A) A rubber ducky 
+(B) Rose petals and massage oil
+(C) The Wall Street Journal
+(D) A computer
+(E) Really, I read those magazines for the articles
+DE:KINKINESS:1 5 -3 -4 8
+DE:NERDINESS:1 -2 1 5 0
+DE:AMBITION:0 3 4 0 -2
+DE:ROMANTIC:-1 5 -2 -3 -5
+DE:TRADITIONAL:3 1 0 -1 -2  
+
+(2) What should Harvard call its new dorm complex in Allston?
+(A) The Triangle
+(B) The Quadrangle
+(C) The Quintangle
+(D) The Sextangle
+(E) He said sex. Heh heh...
+DE:NERDINESS:1 0 2 3 4
+DE:KINKINESS:0 0 0 4 1
+DE:TRADITIONAL:0 3 0 0 1
+DE:CHEAP:2 1 0 -1 0
+DE:ATHLETICS:0 0 0 0 5
+
+(3) Men are inherently better than women at:
+(A) Science and Math
+(B) Sex
+(C) Peeing while standing up
+(D) Nothing useful
+(E) All of the above
+DE:CYNICISM:4 2 0 3 0 
+DE:HUMOR:0 2 1 -1 3
+DE:ATHLETIC:-2 1 2 -1 2 
+DE:SOCIAL:-4 -2 0 -2 4
+DE:DESPERATE:2 3 0 1 -1
+
+(4) Women are inherently better than men at:
+(A) Science and Math
+(B) Literature and Music
+(C) Playing with Baby Truck and Daddy Truck 
+(D) Walking out on Larry Summers
+(E) Everything
+DE:AMBITION:3 -2 0 2 3 
+DE:CYNICISM:0 0 2 3 4
+DE:HUMOR:2 0 3 3 2 
+DE:TRADITIONAL:1 3 5 -2 -3
+
+(5) What do you sleep with?
+(A) A blanket
+(B) A teddy bear
+(C) The Norton Shakespeare
+(D) My eyes closed
+(E) Anything that moves
+DE:TRADITION:3 2 -1 1 0 
+DE:DESPERATE:0 0 1 0 5 
+DE:NERDINESS:0 1 3 1 -2  
+DE:ROMANTIC:0 1 3 0 -2 
+
+(6) You would wake up at 9AM to get tickets for:
+(A) The Dalai Lama 
+(B) The Dolly Llama
+(B) Seamus Heaney 
+(C) Ann Coulter
+(E) Parking in a handicapped space
+DE:CYNICISM:-2 2 0 1 3
+DE:ATHLETIC:-2 -1 -2 0 2
+DE:CHEAP:1 3 0 3 2 
+DE:HUMOR:0 2 0 -3 4 
+DE:SOCIAL:-1 1 0 2 2 
+DE:AMBITIOUS:5 2 0 0 0 
+DE:ATHLETICS:0 5 0 0 0
+
+(7) What's your ideal first date? 
+(A) 7-course meal and a trip to the symphony
+(B) Dinner and a movie
+(C) Chinese takeout and a DVD
+(D) lol a/s/l?
+(E) Sunday, October 23, 4004 BC
+DE:NERDINESS:-2 -1 1 6 3
+DE:CHEAP:-4 0 3 4 0
+DE:HUMOR:0 0 0 2 5
+DE:ROMANTIC:4 2 0 -2 -3
+DE:AMBITIOUS:0 0 5 0 0 
+
+(8) Profile of your ideal life partner:
+(A) Large number of friends
+(B) Fast poking response
+(C) Looking For: "Whatever I can get"
+(D) Year: 2008
+(E) Member Since: January 15th, 2004
+DE:SOCIAL:5 1 3 3 -4
+DE:DESPERATE:1 0 4 6 10
+DE:KINKINESS:3 2 2 3 -1 
+DE:ATHLETIC:0 4 1 2 0
+DE:NERDINESS:-2 3 -2 1 3 
+
+(9) Ceci N'est Pas un Question
+(A) I don't speak French
+(B) It's Pipe...
+(C) I hate surrealism
+(D) Ich spreche nicht Franzoesisch 
+(E) That's a long word for "French"
+DE:ATHLETICS:0 0 0 0 5
+DE:NERDINESS:-2 3 4 5 1
+DE:CYNICISM:2 0 2 0 -1
+
+(10) Transnational Feminism
+(A) Indeed
+(B) Your Mom
+(C) Chinese Imaginary Space
+(D) Hey, what happened to question 9?
+(E) Math and Science
+DE:AMBITIOUS:0 0 5 0 0
+DE:CHEAP:2 -1 0 4 1
+DE:DESPERATE:0 3 2 4 -1
+DE:HUMOR:1 -1 3 4 0
+
+(11) Describe your ideal mate:
+(A) Tall, dark, and handsome
+(B) Short, light, and unattractive
+(C) Set for life
+(D) Isn't that your job?
+(E) Rook takes Queen, Knight to F7
+DE:DESPERATE:1 3 0 -2 2   
+DE:NERDINESS:-3 1 0 1 5 
+DE:CHEAP:0 0 3 0 0 
+DE:CYNICISM:-1 0 2 4 1  
+DE:HUMOR:-2 1 -2 2 3
+DE:KINKINESS:3 1 0 2 4
+
+(12) A train is barreling towards your very cute pet puppy. You:
+(A) sacrifice the fat man
+(B) sacrifice Professor Sandel
+(C) sacrifice a goat
+(D) calculate the perfect energy and launch angle to knock the puppy off
+the tracks with your spare bowling ball, then sacrifice the bowling ball.
+(E) sacrifice the puppy
+DE:AMBITION:0 2 -1 3 0
+DE:CYNICISM:1 2 3 4 5 
+DE:ATHLETIC:4 -1 2 3 -5
+DE:NERDINESS:2 0 0 4 0 
+
+(13) What are you wearing?
+(A) Jeans and a T-shirt 
+(B) Khakis and a Polo
+(B) A business suit, for my interview this afternoon. 
+(C) A Harvard sweatshirt, for my interview this afternoon
+(E) A smile
+DE:TRADITIONAL:-3 2 4 1 0
+DE:AMBITION:0 1 4 3 0 
+DE:ROMANTIC:-1 4 1 3 3
+DE:CHEAP:2 -3 -4 0 3 
+DE:KINKINESS:0 0 0 0 4
+DE:AMBITIOUS:0 0 0 0 5
+
+(14) Who do you most admire?
+(A) It's "whom," you ignorant clod.
+(B) Donald Trump
+(C) Gandhi
+(D) Tom Brady 
+(E) Ken Lay
+DE:AMBITIOUS:0 0 5 0 0 
+DE:AMBITION:-2 4 5 4 -3 
+DE:DESPERATE:4 -3 -3 -3 3 
+DE:NERDINESS:5 -2 -3 -4 1
+DE:CYNICISM:4 0 -3 0 2
+
+(15) You take a trip to New York for a few days.  You are:
+(A) Interviewing at 2 med schools and 3 investment banks
+(B) Seeing the Yankees play the Red Sox
+(C) Lost
+(D) Maxing out Daddy's credit card
+(E) 21, I swear
+DE:AMBITION:5 0 -3 0 -2
+DE:ATHLETIC:3 4 0 2 2
+DE:ATHLETICS:0 0 0 0 5
+DE:CHEAP:-2 -1 0 -3 0
+DE:DESPERATE:3 0 2 -2 3 
+
+(16) What's your favorite store in the square?
+(A) Newbury Comics
+(B) The Coop
+(C) Starbucks
+(D) The smoke shop (that store with the Hookah in the window)
+(E) UHS
+DE:HUMOR:4 0 0 2 0
+DE:ATHLETIC:0 0 0 0 4
+DE:TRADITIONAL:0 2 1 -1 0
+DE:ATHLETICS:1 0 0 4 1
+
+(17) What's your favorite holiday?
+(A) Halloween
+(B) Valentine's Day
+(C) Chrismukkah
+(D) Guy Fawkes Day
+(E) Spring Break
+DE:AMBITION:0 0 0 3 0
+DE:TRADITIONAL:0 0 4 0 -1
+DE:ROMANTIC:-1 4 0 0 0
+DE:CYNICISM:3 -2 0 0 4
+
+(18) What do you do when you're drunk?
+(A) Party like it's 1999
+(B) Speak French
+(C) I don't remember
+(D) I'm not as think as you drunk I am...
+(E) I don't drink.
+DE:SOCIAL:7 0 3 4 -2
+DE:NERDINESS:4 6 -1 0 2
+DE:HUMOR:0 0 0 4 0
+DE:ROMANTIC:0 5 -2 0 -1
+DE:ATHLETICS:0 0 2 0 -2
+
+(19) See a penny...
+(A) Pick it up (all the day you'll have good luck)
+(B) Pick it up (I take what I can get)
+(C) Give it to someone in need
+(D) Invest it in the equities market
+(E) Ooooooh shiny
+DE:CHEAP:3 5 0 0 0
+DE:TRADITIONAL:2 0 1 3 -1
+DE:AMBITION:2 0 0 4 -1
+DE:CYNICISM:-3 1 -2 0 -1
+DE:ATHLETICS:0 0 0 0 1
+
+(20) Your life at Harvard is full of:
+(A) Sex in the City
+(B) Desperate Housewives
+(C) Law and Order
+(D) Cops
+(E) All My Children
+DE:SOCIAL:4 0 0 0 2
+DE:TRADITIONAL:-3 -2 6 0 0
+DE:NERDINESS:-2 2 3 0 0
+DE:KINKINESS:3 5 0 2 1
+
+(21) If you had a superpower, it would be:
+(A) Super Speed 
+(B) Super Strength  
+(C) Super X-Ray Vision (wink wink)
+(D) Supercalifragilisticexpialidocious
+(E) China
+DE:AMBITIOUS:0 0 0 0 10
+DE:KINKINESS:0 0 6 0 0
+DE:NERDINESS:0 -1 3 5 0
+DE:ATHLETIC:4 4 0 0 0
+DE:ATHLETICS:3 0 0 0 0
+
+(22) How did you celebrate the Red Sox victory in the World Series? 
+(A) I went out and got drunk
+(B) Riot and arson
+(C) I burned them in effigy.  Go Yankees!
+(D) I updated my away message
+(E) I don't have any red socks
+DE:ATHLETIC:1 3 1 -3 -4
+DE:SOCIAL:3 1 0 -3 0
+DE:NERDINESS:-1 -2 0 3 5
+DE:TRADITIONAL:2 -1 1 -1 0
+
+(23) What is the sound of one hand clapping?
+(A)
+(B) 
+(C) 
+(D) 
+(E)
+DE:AMBITIOUS:2 0 0 0 0
+DE:NERDINESS:0 2 0 0 0
+DE:ATHLETIC:0 0 2 0 0
+DE:ROMANTIC:0 0 0 2 0
+DE:HUMOR:0 0 0 0 2
+
+
+(24) What did you do over intersession?
+(A) Finished my homework for next term
+(B) Went back home to visit the parents
+(C) Visited Paris, Rome, Madrid, and Amsterdam
+(D) Built houses for small children in Sri Lanka
+(E) My TF (hey, the term was over...)
+DE:AMBITIOUS:3 1 0 2 0
+DE:CYNICISM:-1 0 0 -3 3
+DE:SOCIAL:-2 0 2 0 3
+DE:KINKINESS:0 0 0 0 5
+DE:ATHLETICS:0 0 1 0 0
+
+(25) Extracurriculars?
+(A) Sleep
+(B) Ultimate FootBallRoomDancing
+(C) BacHRO
+(D) Comp the Crimpoon!
+(E) My 7th class
+DE:AMBITIOUS:-1 0 3 1 3
+DE:AMBITION:-2 0 1 3 5
+DE:ATHLETIC:0 4 0 0 0
+DE:HUMOR:0 0 0 3 0
+
+(26) Favorite wine?
+(A) Doisy Daene 2001 L'Extravagant.
+(B) Manischewitz.
+(C) Whatever comes with the communion wafers.
+(D) I'll check the name on the next box I get.
+(E) "But... but... but... but... pleeeease??"
+DE:CHEAP:-8 -1 1 3 0
+DE:TRADITIONAL:2 4 4 0 -1
+DE:HUMOR:0 0 0 1 2
+DE:SOCIAL:1 1 0 3 -1
+DE:ATHLETICS:0 0 0 4 0
+
+(27) You are:
+(A) Premed
+(B) Prelaw
+(C) Prebusiness
+(D) Prenuptial
+(E) Prepubescent
+DE:AMBITIOUS:4 2 0 0 0
+DE:KINKINESS:0 0 0 2 4
+DE:ROMANTIC:0 0 0 -3 0
+DE:AMBITION:3 5 5 2 -1
+
+(28) In 20 years you want to be:
+(A) Rich
+(B) Tenured
+(C) Alive
+(D) Flipping burgers
+(E) King of Jordan
+DE:AMBITION:6 3 -3 -4 10
+DE:CYNICISM:0 0 3 2 0
+DE:NERDINESS:0 4 0 -2 0
+DE:ATHLETIC:0 0 0 4 0
+
+(29) Best love song?
+(A) Let Me Love You -- Mario
+(B) Lovers and Friends -- Lil Jon 
+(C) Love Me Do -- The Beatles
+(D) Wanna Be -- Spice Girls
+(E) Song of Solomon -- Anonymous
+DE:TRADITIONAL:0 0 1 0 3
+DE:ROMANTIC:2 1 2 -2 0
+DE:SOCIAL:3 3 0 0 0
+
+(30) Why are you participating in Datamatch?
+(A) I saw a link on my house open list.
+(B) I hope to meet the love of my life.
+(C) I'm procrastinating on a problem set.
+(D) I want to see what happens if you answer "C" for every question
+(E) I was spammed with "FR,EE IP0D IF YOU TAKE THIS $URVEY halo arbitrage gazelle".
+DE:DESPERATE:0 2 3 -2 1
+DE:HUMOR:1 0 0 3 4
+DE:AMBITION:0 4 -1 -1 1
+DE:CYNICISM:1 -2 2 4 -2

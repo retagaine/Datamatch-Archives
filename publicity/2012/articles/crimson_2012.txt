@@ -1,0 +1,52 @@
+Virtual Valentines? Some Say Yes
+By KEVIN T. WITTENBERG, CONTRIBUTING WRITER February 14, 2012
+ Datamatch 2012 SARAH P REID
+Over 2,000 Harvard students completed the Harvard Computer Society’s 2012 Datamatch questionnaire and received their top compatible matches just in time for Valentine’s Day.
+On the morning of Valentine’s Day, more than 2,000 Harvard students checked their email with the hope of finding true love.
+
+During the night, they had received a list of students who could potentially be their destined romantic partners—at least according to a computerized survey known as Datamatch that they had filled out earlier in February.
+
+The survey, written and programmed annually by members of the Harvard Computer Society since 1994, promises to send participants the names and contact information of up to ten of their fellow Harvard students in time for the boldest of survey-takers to arrange lunch or dinner dates—or even both—on Valentine’s Day.
+
+Salvatore R. Rinchiera ’14, a member of the Computer Society who helped create this year’s Datamatch survey, described the questions on the website as “funny and geeky.”
+
+Students searching for love were asked to tell the computer program tidbits like their favorite day (All of the answer choices were “Friday” and linked to a YouTube video of Rebecca Black’s eponymous song.) and the place they do their best work (Options included “In your room. Naked,” and “In someone else’s room. Naked.”).
+
+MULTIMEDIA
+IMAGE
+Put Valentines Here
+Put Valentines Here
+IMAGE
+Datamatched
+Datamatched
+IMAGE
+The Stranger's Rose
+The Stranger's Rose
+IMAGE
+Happy Valentine's Day
+Happy Valentine's Day
+“We spend most of our time coming up with the questions,” Rinchiera said. “After we narrow it down to the questions for the survey, we match it to personality traits and create a ranking system for the algorithm.”
+
+That mathematical matchmaking formula, much touted in the Computer Society’s emails to the student body advertising Datamatch, is a secret that its programmers keep close to the vest.
+
+“I’m not sure how much I can say about the algorithm,” Rinchiera said. “It has been handed down from year to year and is modified in small ways to keep up with changes in love standards.”
+
+The Computer Society encourages students to fill out the questionnaire even if they are currently in romantic relationships and to provide the names of their significant others on the survey. That way, the programmers can use the information to test how well their match-ups correlate with real pairs.
+
+“It helps us to give the questions different weights in order to reflect those relationships in the final results,” Rinchiera said.
+
+More than 2,000 students received Datamatch results Tuesday, according to Rinchiera, but whether they take action based on the emails they receive is harder to measure.
+
+Jimmy L. Wu ’13 said he “might look them up on Facebook.”
+
+Adam Lee Purvis ’12 said he looked up the women on his list, but he did not plan on asking any of them out. “Most girls would see this as a sketchy avenue to take,” Purvis said. “I’m more old-fashioned and I believe in walking up to a girl I know and asking her out to dinner.”
+
+But at least one Harvard man did seek out dates with the women on his list, sight unseen. Stella F. Chen ’15 said that she received an email from a man on her Datamatch list, addressed to all of his matches.
+
+“Do any of you want to go on a date with me? I cc’d my girlfriend, and she’s all right with it,” the email said, according to Chen.
+
+Chen said she does not plan to take him up on the offer.
+
+But according to Rinchiera, students every year do agree to meet up with their virtual matches. After each Valentine’s Day, Rinchiera said, the Computer Society receives emails from grateful couples who started dating only after learning each other’s names from the amorous algorithm.
+
+“I encourage everyone to contact their Datamatches,” Rinchiera said. “Every year, people come back to us with positive results. There are happy endings.”

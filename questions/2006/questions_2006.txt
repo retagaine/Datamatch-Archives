@@ -1,0 +1,343 @@
+(1) When you went to Harvard/Yale this year, you...
+(A) hit the tailgate so hard you didn't make it inside the stadium.
+(B) and your buddies painted "GO CRIMSON" on your stomachs.
+(C) saw more action in the stands than on the field.
+(D) didn't go at all; empty campus = more party for you.
+(E) brought your orgo testbook, so you wouldn't fall behind.
+DE:JOCK:3 5 0 0 -1
+DE:NERDY:-2 -5 0 0 4
+DE:SEX:0 0 2 2 0
+DE:ARTSY:0 1 0 0 0
+
+(2) When shopping for your elective this semester, you looked at...
+(A) VES	80 - Loitering
+(B) Science B-29 - Sex (I can't get enough)
+(C) Computer Science 51 - Programming (Even if I don't get a date, at least I'll have a job.)
+(D) Psych 1504  - Positve Psychology (I love feeling good about myself.)
+(E) Science B-62 - The Human Mind (Steven Pinker is the hottest prof at Harvard.)
+DE:ARTSY:4 0 0 1 1
+DE:SEX:0 5 0 0 4
+DE:NERDY:0 0 5 0 0
+DE:SADISTIC:0 0 1 -4 0
+
+(3) During reading period, you...
+(A) move into Cabot permanently.
+(B) party hard; you can always study next week.
+(C) catch up on all the sleep you missed during the semester.
+(D) buy your books from the COOP; it's time to get cracking before finals.
+(E) stayed up all night fixing your group's office after it flooded.
+DE:NERDY:5 -2 0 -2 4
+DE:JOCK:-2 5 0 3 -2
+DE:AMBITOUS:2 0 5 0 0
+
+(4) Primal Scream:
+(A) You've run in it every time.
+(B) Two! Three! Five! Seven! ...
+(C) You bring your camera to take pictures.
+(D) You wore a costume to disguise yourself.
+(E) You wore a costume to try to get into the Crimson.
+DE:JOCK:5 -4 0 0 2
+DE:NERDY:-2 5 0 0 0
+DE:AMBITOUS:0 0 0 -4 4
+DE:GOSSIP:1 0 5 -2 3
+
+(5) On your wall is a map of:
+(A) the world
+(B) the United States
+(C) Massachusetts
+(D) Harvard
+(E) Middle Earth
+DE:AMBITOUS:5 0 0 0 0 
+DE:ELITIST:0 0 0 5 0
+DE:NERDY:0 0 0 1 5
+DE:BIZZARE:0 0 1 2 5
+
+(6) The first line of your poem would be:
+(A) Shall I compare thee to a summer's day
+(B) There once was a man from Nantucket
+(C) Once upon a midnight dreary, while I pondered weak and weary
+(D) It was I who chose the dark paths I now tread, as it is I who must walk them alone
+(E) I am the Lorax, I speak for the trees
+DE:NERDY:0 0 0 3 4
+DE:ROMANTIC:4 0 0 0 0
+DE:SADISTIC:0 0 4 4 0
+DE:BIZZARE:0 0 0 4 1
+DE:SEX:0 3 0 0 0
+
+(7) Roses are red, violets are blue:
+(A) Sugar is sweet, and so are you
+(B) All my base are belong to you
+(C) I'm schitzophrenic, and so am I
+(D) Some poems rhyme, but this one doesn't
+(E) The hell with this poem, let's go and screw
+DE:ROMANTIC:4 0 0 0 0
+DE:SEX:1 0 0 0 5
+DE:BIZZARE:0 0 4 4 0
+DE:NERDY:0 4 0 0 0 
+
+(8) Your idea of a romantic dinner is:
+(A) a home cooked meal
+(B) Upstairs on the Square
+(C) Beer and Pizza
+(D) ...wait, who needs pizza?
+(E) Annenberg
+DE:ROMANTIC:3 4 0 0 -2
+DE:SADISTIC:0 0 0 1 2
+DE:SEX:0 0 1 4 0
+DE:NERDY:0 0 -1 -2 2
+DE:JOCK:0 0 2 3 0
+DE:ELITIST:0 4 -4 -4 -2
+
+(9) When you're bored, you:
+(A) play badminton
+(B) play Magic: the Gathering 
+(C) read Consolation of Philosophy
+(D) read Pacific Passions
+(E) sniff keyboard duster
+DE:ELITIST:5 0 0 0 0
+DE:NERDY:0 5 3 0 1
+DE:BIZZARE:0 1 2 0 5
+DE:AMBITOUS:0 0 4 -3 0
+DE:SEX:0 -2 2 0 0
+DE:GOSSIP:0 0 0 4 0
+
+
+(10) If you had a million dollars, you would:
+(A) invest it
+(B) spend it all on a trip to Paris
+(C) buy ten million gum balls
+(D) buy a mail order bride
+(E) be rich!
+DE:AMBITOUS:5 0 0 0 3
+DE:BIZZARE:-2 0 5 0 0
+DE:SEX:0 0 0 4 0
+DE:ROMANTIC:0 4 0 0 0
+
+(11) You are a member of:
+(A) I Went To A Public School... Bitch
+(B) I Just Tried To Ford the River and My Fuckin Oxen Died
+(C) Students for the Relocation of Harvard to California
+(D) The Category of Facebook Groups
+(E) A Group Composed of 38 People Named Emily and 1 Person Named Bryan Haut
+DE:ELITIST:-5 0 0 0 0
+DE:BIZZARE:0 2 0 0 5
+DE:JOCK:2 0 0 -22 0
+DE:NERDY:0 3 0 5 0
+DE:AMBITOUS:0 0 3 0 0
+
+(12) There are innate differences between:
+(A) males and females
+(B) Macs and PCs
+(C) pirates and ninjas
+(D) Quincy and other houses
+(E) Larry Summers and William Kirby
+DE:NERDY:0 4 2 0 0
+DE:ELITIST:0 0 0 3 1
+DE:GOSSIP:0 0 0 0 4
+DE:BIZZARE:0 0 5 2 0
+DE:AMBITOUS:0 0 0 0 1
+
+(13) You reach into your back pocket and pull out:
+(A) a swiss army knife
+(B) a pocket universe
+(C) your wallet
+(D) Hey, where's my wallet?
+(E) Hey, where's my pants?
+DE:SADISTIC:3 0 0 0 0
+DE:NERDY:2 3 0 0 0
+DE:SEX:0 0 0 0 3
+
+(14) Who dunnit?
+(A) Mrs. White in the Billiard Room with the lead pipe
+(B) Prof. Plum in the Classroom with the slide rule
+(C) Ms. Peacock in the Petting Zoo with a banana
+(D) Col. Mustard in the Kitchen with the blender
+(E) Ms. Scarlet in the Bedroom with Mr. Green
+DE:SEX:0 0 0 0 5
+DE:BIZZARE:0 0 2 2 0
+DE:SADISTIC:4 0 0 0 0
+DE:NERDY:0 3 0 0 0 
+DE:ARTSY:0 0 1 2 0
+
+(15) You dream about:
+(A) bunnies and sunshine
+(B) problem sets and grad school applications
+(C) forgetting to wear pants to class
+(D) your hot TF forgetting to wear pants to class
+(E) a purple flying hippo in a tutu
+DE:NERDY:0 4 0 0 0
+DE:BIZZARE:0 0 0 0 5
+DE:AMBITOUS:0 3 0 0 0
+DE:SEX:0 0 1 3 0
+
+(16) River:Quad ::
+(A) Apples:Oranges
+(B) Peanut butter:Jelly
+(C) AWESOME:SUCK
+(D) SUCK:AWESOME
+(E) Newton:Timbuktu
+DE:BIZZARE:0 0 0 0 4
+DE:ELITIST:0 0 3 3 0
+
+(17) Which came first, the chicken or the egg?
+(A)
+(B)
+(C)
+(D)
+(E)
+DE:AMBITOUS:1 0 1 0 0
+DE:SEX:0 0 0 1 0
+DE:BIZZARE:1 0 -1 0 0
+DE:ROMANTIC:0 1 0 0 1
+DE:ARTSY:1 0 0 0 0
+
+(18) At the Kong, you order:
+(A) Crab Rangoon
+(B) a Scorpian bowl
+(C) a burrito
+(D) in Chinese
+(E) an enema
+DE:NERDY:0 0 0 3 0
+DE:ELITIST:0 0 0 3 0
+DE:JOCK:0 2 0 0 0
+DE:BIZZARE:0 0 4 0 2
+
+(19) What would you dress up as for Halloween?
+(A) Skanky nurse
+(B) Serial Killer
+(C) Beer Bottle
+(D) Pikachu
+(E) Calculator (TI-89)
+DE:SEX:3 0 0 0 0
+DE:SADISTIC:0 4 0 0 0
+DE:JOCK:1 0 4 0 0
+DE:NERDY:0 0 -1 1 5
+DE:BIZZARE:0 0 0 2 4
+
+(20) What is your ideal Valentines Day Activity?
+(A) Candlelit Dinner
+(B) Drunken Bacchanal
+(C) Studying for Knot Theory Exam
+(D) Sleeping (Alone)
+(E) Playing DDR
+DE:ROMANTIC:5 0 0 0 0
+DE:JOCK:0 3 -1 0 2
+DE:NERDY:0 0 4 0 2
+DE:ELITIST:2 0 1 0 0
+DE:SEX:0 1 0 0 0
+DE:AMBITOUS:0 0 2 0 0
+
+(21) What was your favorite childhood TV show?
+(A) Power Rangers
+(B) Star Trek: The Next Generation
+(C) Pinky and the Brain
+(D) Lambchop's Play-Along
+(E) Sailor Moon
+DE:NERDY:1 5 1 0 1
+DE:JOCK:2 0 0 0 0
+DE:ARTSY:0 0 0 1 3
+DE:BIZZARE:0 0 4 0 0
+
+(22) If you could curl up with a book, what would it be?
+(A) Silence of the Lambs
+(B) Moby Dick
+(C) People Magazine (That is like so totally a book!)
+(D) Catch-22
+(E) That cute junior in section... wait... a book...
+DE:SADISTIC:5 1 0 1 0
+DE:NERDY:1 4 -2 0 0
+DE:GOSSIP:0 0 5 0 1
+DE:ELITIST:1 1 -1 0 0
+DE:SEX:0 0 0 0 3
+DE:AMBITOUS:1 3 0 1 0
+
+(23) The glass is...
+(A) Half-empty
+(B) Half-full
+(C) Twice as big as it needs to be
+(D) Pink
+(E) Full of blood of the innocents
+DE:SADISTIC:0 0 0 0 5
+DE:AMBITOUS:0 0 2 0 0
+DE:ROMANTIC:0 0 0 1 0
+DE:ARTSY:0 0 0 3 0
+DE:BIZZARE:0 0 0 2 0
+
+(24) I spend most of my time...
+(A) Doing homework
+(B) Facebooking
+(C) Sleeping
+(D) Watching football
+(E) Wondering why my life is useless
+DE:NERDY:3 1 0 0 0
+DE:JOCK:0 0 0 4 0
+DE:AMBITOUS:1 0 -3 0 -5
+DE:GOSSIP:0 4 0 0 0
+
+(25) I am most afraid of...
+(A) Fear itself
+(B) Breaking a nail
+(C) Failing my core
+(D) Forgetting to put on clothes
+(E) Oprah
+DE:NERDY:1 -1 3 0 0
+DE:ARTSY:1 3 0 1 1
+DE:GOSSIP:0 0 0 0 3
+
+(26) My favorite dwarf is...
+(A) Sleepy
+(B) Grumpy
+(C) Bashful
+(D) Gimli
+(E) Doc
+DE:NERDY:0 0 0 3 3
+DE:AMBITOUS:-3 0 -1 0 0
+DE:ROMANTIC:0 -3 0 0 0
+DE:BIZZARE:0 0 0 1 0
+
+(27) My guiltiest pleasure is...
+(A) 80s music
+(B) The OC
+(C) Massive promiscuity
+(D) Speaking Klingon
+(E) Arson
+DE:ARTSY:4 0 0 0 1
+DE:GOSSIP:0 5 1 0 0
+DE:SEX:0 3 4 0 0
+DE:SADISTIC:0 1 0 0 5
+DE:NERDY:0 0 0 3 0
+DE:ELITIST:0 5 0 0 0
+DE:BIZZARE:0 0 0 4 1
+
+(28) My favorite website is...
+(A) Google 
+(B) Facebook
+(C) Slashdot
+(D) NYTimes.com
+(E) Nature's Harmonic Simultaneous 4-Day Time Cube 
+DE:BIZZARE:0 0 0 0 5
+DE:NERDY:1 0 4 1 0
+DE:GOSSIP:0 3 0 1 0
+DE:AMBITOUS:1 0 0 1 0
+
+(29) When I was little, I wanted to be ...
+(A) The President
+(B) A Lawyer
+(C) A Fire Truck
+(D) A Trophy Wife/Husband
+(E) Oprah
+DE:AMBITOUS:5 4 0 -1 1
+DE:GOSSIP:0 0 0 0 3
+DE:BIZZARE:0 0 4 2 0
+
+(30) I would like to be stuck in an elevator with...
+(A) Stephen Hawking
+(B) Brad Pitt/Angelina Jolie
+(C) An elevator repairman
+(D) A Monkey
+(E) Oprah
+DE:NERDY:5 0 2 0  0
+DE:BIZZARE:0 0 0 4 0
+DE:GOSSIP:0 1 0 0 3
+DE:SEX:-2 3 0 0 0
+

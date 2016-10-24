@@ -1,0 +1,216 @@
+﻿# TODO: magic pronouns
+(1) How do you demonstrate your affection for someone?
+(A) Send a thoughtful handwritten letter.
+(B) Send completed problem sets for all of his or her courses.
+(C) Like all of his or her Facebook activities.
+(D) Invade Troy.
+(E) Vuvuzela.
+ 
+(2) Which Harvard department best describes your love life?
+(A) Computer Science: At it all night long.
+(B) Economics: The more people the better.
+(C) Special Concentrations: I make the rules.
+(D) Classics: Nothing new in the last thousand years.
+(E) East Asian Studies.
+ 
+(3) What would be a deal-breaker in a prospective relationship?
+(A) Pre-med.
+(B) Lives in the quad.
+(C) Sings along to Lady Gaga.
+(D) Swindled investors out of $20 billion.
+(E) Failed the Turing Test.
+ 
+(4) You : your ideal significant other ::
+(A) Brad Pitt : Angelina Jolie
+(B) William Shatner : Leonard Nimoy
+(C) Glenn Beck : Glenn Beck
+(D) CIA : Julian Assange
+(E) Richard Feynman : your sister
+ 
+(5) You : your exes ::
+(A) Bill Clinton : Hillary Clinton
+(B) Joe Biden : Sarah Palin
+(C) Conan O'Brien : Jay Leno
+(D) Larry Page : Eric Schmidt
+(E) Dave : HAL 9000
+ 
+(6) Where are you on a Thursday night?
+(A) In my bed.
+(B) In someone else's bed.
+(C) Doing a problem set.
+(D) Doing a problem set in someone else's bed.
+(E) UHS.
+ 
+# Modified from 2005
+(7) What did you do during OWAW?
+(A) Stayed at home where it's warm.
+(B) Cured cancer for my thesis.
+(C) Filled out a survey about what I did during OWAW.
+(D) My TF. (Hey, the term was over...)
+(E) OWAW. I don't even remember.
+ 
+(8) You discover that the Maya were right: the world is going to end in 2012. You:
+(A) Make out with anything that moves.
+(B) Set your computer's clock back. That usually works, right?
+(C) Start selling derivatives.
+(D) Dress your infant son in spandex and send him to a strange, distant world in a spaceship made of icicles.
+(E) Hit snooze. Several thousand times.
+ 
+(9) What poetic line would you share with your date, to demonstrate both your sensitivity and your Harvard-caliber erudition?
+(A) Let me not to the Harvard-marriage of true minds / Admit impediments.
+(B) And this maiden she lived with no other thought / Than to love and be loved by me / And also to get an A in orgo.
+(C) Who ever loved, that loved not at first sight / At Primal Scream?
+(D) Therefore, send not to know / For whom the bell tolls; / It tolls for / Section in seven minutes.
+(E) Roses are red, / Violets are blue, / Actually I'm kind of just looking for a quick hookup tonight, / How about you?
+ 
+(10) What is your most likely secondary concentration?
+(A) Sleep Deprivation Studies.
+(B) Hangover and Ethanol Biology.
+(C) Reality Distortion Field Theory.
+(D) Comparative Study of Free Foods.
+(E) Defense Against the Dark Arts.
+ 
+(11) Your last relationship ended:
+(A) With a bang.
+(B) With a tragic Facebook-marriage misunderstanding.
+(C) With an SEC investigation.
+(D) When you met in person.
+(E) The answer cannot be determined from the information given.
+ 
+(12) When you take your date out to dinner, what do you wear?
+(A) Jeans and T-shirt.
+(B) Suit and tie.
+(C) Birthday suit and tie.
+(D) Scrubs and stethoscope.
+(E) Robe and wizard hat.
+ 
+#TODO: \omega image (steal from "\hbar\omega of solace")
+(13) What hot new release would you take your date to see?
+(A) Star Trek XIV: To Boldly Remake Movies Gone Before.
+(B) The Social Network Begins: The MySpace Chronicles.
+(C) Harry Potter and the Lucrative Franchise: Part 5.
+(D) Ocean's Forty-Seven.
+(E) Rocky \omega.
+ 
+(14) There's going to be another snowstorm. Your reaction:
+(A) Build an igloo.
+(B) The more inches the better.
+(C) Eh. No snow in the Science Center.
+(D) Good thing my room has a fireplace.
+(E) OWAW.
+ 
+(15) What's the best animal to use for parenting?
+(A) Tiger.
+(B) Dolphin.
+(C) Ostrich.
+(D) Crimson.
+(E) Firesheep.
+ 
+(16) Your love life in 2010:
+(A) Need You Now.
+(B) Your Love is My Drug.
+(C) Just the Way You Are.
+(D) I Just Had Sex.
+(E) Telephone.
+ 
+# TODO: strikeouts
+(17) Advertising slogan you would least like to see in 2011:
+(A) BP: --British Petroleum-- --Beyond Petroleum-- Blackened Pelicans
+(B) TSA: It's our business to touch yours.
+(C) Google: Introducing SkyNet Cloud Services (Beta).
+(D) Apple: We'll make "1984" look like 1984.
+(E) Facebook: "They trust us. Dumb f—ks."
+ 
+# TODO: hover:underline
+# Modified from 2005
+(18) If you had a superpower, it would be:
+(A) Flying.
+(B) Invisibility.
+(C) [link:http://xkcd.com/353/] Python scripting.
+(D) Everything on Adam Wheeler's resume.
+(E) China.
+ 
+(19) You would be most embarrassed if Wikileaks released your:
+(A) Diary.
+(B) Gmail archive.
+(C) Transcript.
+(D) Facebook profile.
+(E) Inhibitions.
+ 
+(20) Your email signature:
+(A) Jonathan Q. Harvard, Degree Candidate in Pretension
+(B) jh
+(C) j0|-||\| |-|4r\/4rD
+(D) Sent from my iPhone
+(E)  
+ 
+(21) Which character from the Social Network can you best relate to?
+(A) Mark Zuckerburg: I'm CEO, bitch.
+(B) Eduardo Saverin: I meet girls in bathroom stalls.
+(C) The Winklevii: The harder you grunt, the faster you go.
+(D) Sean Parker: I'm not unemployed; I'm an entrepreneur.
+(E) Christy: I love fire!
+ 
+(22) What punctuation mark best represents your past relationships?
+(A) Oxford comma: hot, steamy, and erudite.
+(B) Em dash: intermittent—breaking up—yet holding together.
+(C) Ellipsis: no end in sight...
+(D) Semicolon: exotic; misunderstood.
+(E) Interrobang: ended suddenly‽
+ 
+(23) What do you drink on your first date?
+(A) Wine.
+(B) Four Loko.
+(C) Dining Hall Powerade.
+(D) Potion of +10 charisma.
+(E) Blood.
+ 
+(24) Most enticing proposition:
+(A) Hey, baby, did you know the endowment is on the rise again?
+(B) Hey, baby, want to conduct an organic chemistry practicum?
+(C) Hey, baby, how about you and I explore some arbitrage opportunities?
+(D) Hey, baby, want to come back to my place and opt out of the X-ray scanner?
+(E) [rickroll:kffacxfA7G4] Like, baby, baby, baby, ohh.
+ 
+(25) Your desired relationship is most like:
+(A) Toy Story 3: Playful yet maturing.
+(B) Inception: You can't tell whether you're dreaming.
+(C) The Social Network: It's complicated.
+(D) Tron: Lots of flair, no substance.
+(E) No Strings Attached.
+ 
+# TODO: magic pronouns.
+(26) You find that you really like two different people at once. How do you solve this problem?
+(A) Go out with both of them casually until you get to know them better.
+(B) Flip a coin and just go with it.
+(C) Wait, since when is a threesome a problem?
+(D) Ignore the situation until they both lose interest, thus reducing the problem to a previously considered case.
+(E) Wolfram|Alpha.
+ 
+(27) What does it mean?
+(A) [rickroll:OQSNhk5ICTI] Double Rainbow.
+(B) Triple Rainbow. 
+(C) A million dollars.
+(D) A billion dollars.
+(E) Lawrence H. Summers.
+ 
+(28) When the bed intruder comes, you:
+(A) Hide your kids.
+(B) Hide your wife.
+(C) Hide your iPhone.
+(D) Hide your browser history.
+(E) Hide.
+ 
+(29) How will you check up on your datamatches before contacting them?
+(A) Facebook.
+(B) Wikileaks.
+(C) HUPD reports.
+(D) Google Street View.
+(E) [link:http://xkcd.com/327/] '); SHOW TABLE Responses --
+ 
+(30) Why is this question?
+(A) Metameta.
+(B) Ceci n'est pas une question.
+(C) Irrelevant. Death of the Author.
+(D) See answer (D).
+(E) Chuck Norris.

@@ -1,0 +1,250 @@
+﻿Updated 2002 by Bryan J. Parno
+
+Here's the Indy article that ran on 2/14/02:
+
+Cyberlove, Harvard style
+By Susan Ashley 
+
+Happy Valentine's Day! Love is in the air, but because many of us find that it doesn't often waft our way, the Harvard Computer Society (HCS) and the Undergraduate Council (UC) helped us out by bringing us Datamatch again this year. Participants of the online survey received a list of names of the students determined to be most compatible with them based on their responses.
+
+Or not. Bryan Parno '03, the Projects Coordinator for HCS and overseer of the Datamatch project, indicated that the process may have no rationale at all.
+
+"The matching algorithm employs advanced statistical modeling and years of psychological studies to reduce the art of match making to an exact science. Or maybe it's just a random number generator. We really can't say." 
+
+The results, e-mailed this balmy Valentine's Morning, wait slyly in students' inboxes as matchees debate what to do about them. Parno claimed that he has "heard of a few dates, blind dates, and even relationships that developed as a direct result of Datamatch." After consulting the facebook and the recommendations of friends, some may decide the thrill of the survey was quite enough, but others may send out tentative emails or even phone calls in hopes of connecting with their suspiciously selected soul mates. 
+
+Last year's survey received over 2,200 responses and as of Sunday night, 1,400 people had answered this year's call. Though a possibly fishy survey may seem an unorthodox method for catching a date, Parno reported that "Feedback regarding the survey is overwhelmingly positivewho doesn't enjoy an amusing outlet for procrastination?" 
+
+But there may be a deeper emotion revealed in the survey's popularity. Last year's results found that at this school of hopeless romantics, the plurality of students (830 men and 938 women) defined love as choice D: "special and rare, but real." Students' belief in true love seems to drive them to desperate measures, and at Harvard, where the dating scene is notoriously frigid, Datamatch may be the perfect low risk entre into a more promising love life. 
+
+At the same time, students responding to Datamatch keep their hopes realistic. The most common answer to the last question, "How serious of a relationship are you looking for?" was C: "A date to the formal," drawing 441 men and 602 women, while only one third that number of males and one fourth that number of females admitted to wanting choice E: "a ring." 
+
+The survey also exposes a useful preference for topping off that date with the Datamatch special friend: last year both men and women overwhelmingly selected chocolate body paint as their favorite sex toy. Sounds like a job for Fare Harvard. 
+
+So come on. How do they really match up respondents? Can one's true love really be discovered by an inscrutable but equally indisputable computer algorithm, or is love such a mystery that a random assignment is as likely to unite two people as any careful correlation? Parno claimed that "The questions are highly tuned to reach deep within each person's soul and draw out the hidden factors that truly characterize their unique personality." Beyond that, the cagey Project Coordinator refused to venture. His final answer: "I wouldn't want to influence the way people respond to the questions. You just have to accept Datamatch on faith; after all, the course of true love never did run smooth." 
+
+*******************************************************************8
+
+
+
+Here's a transcript of email between myself and an Indy reporter.  It contains answers to some of the common questions about datamatch and might be helpful in providing publicity in future years.
+
+
+Dear Bryan,
+
+Thank you so much for all your help. This has been a really amusing article
+to research and write thanks to your responses. Look for the final product
+in this Thursday's issue of the Indy.
+
+Susan
+
+----- Original Message -----
+From: "Bryan Parno" <parno@fas.harvard.edu>
+To: "Susan" <sashley@fas.harvard.edu>
+Sent: Monday, February 11, 2002 10:11 PM
+Subject: RE: Indy article (fwd)
+
+
+>   I believe it's been around for seven years, though it may have been on
+> hiatus during one or two of those years.  Perhaps the idea was inspired by
+> HCS's commitment to providing quality services to the undergraduate
+> community, perhaps by a message from Cupid, or perhaps inspiration
+resulted
+> from an excess of techies sitting around bemoaning their lack of dates for
+> Valentine's Day.  It's hard to say.
+>   Its purpose?  Take your pick:
+>
+> A) amusment
+> B) procrastination
+> C) service to the community
+> D) mockery of various campus publications
+> E) giving Cupid a helping hand during the holiday season
+>
+> Hope this helps with the article.
+>
+>                  Bryan
+>
+> -----Original Message-----
+> From: Susan [mailto:sashley@fas.harvard.edu]
+> Sent: Monday, February 11, 2002 4:21 PM
+> To: Bryan Parno
+> Subject: Re: Indy article (fwd)
+>
+>
+> I'm sorry to keep pestering. Two more quick things and then I'm really
+done:
+> When did Datamatch begin and where did the idea for it come from; what is
+> it's purpose? That might be three things, but I'll write it in a confusing
+> way to leave it an ambiguous two. Thank you for your patience as I pull
+> together my scattered thoughts.
+>
+> susan
+> ----- Original Message -----
+> From: "Bryan Parno" <parno@fas.harvard.edu>
+> To: "Susan" <sashley@fas.harvard.edu>
+> Sent: Monday, February 11, 2002 1:05 AM
+> Subject: RE: Indy article (fwd)
+>
+>
+> >   Again, I'm afraid I really can't comment on the algorithm (or lack
+> > thereof) - I wouldn't want to influence the way people respond to the
+> > questions.  You just have to accept Datamatch on faith; after all, the
+> > course of true love never did run smooth.
+> >   As far as names, of the people I personally know, I'm afraid one
+> graduated
+> > last year, and the other is somewhat shy, and would rather not be
+> > interviewed.  Sorry.  If you bring it up in conversation, it's
+surprising
+> > the number of people who have some story to relate, whether about
+> > themselves, their roommate, or their blockingmate's girlfriend's
+> prefrosh's
+> > sister.  I'm sure you'll be able to find someone.  Good luck with the
+> story.
+> >
+> >
+> >
+> >                  Bryan
+> >
+> > PS - Just passed 1400 people in the database!
+> >
+> > -----Original Message-----
+> > From: Susan [mailto:sashley@fas.harvard.edu]
+> > Sent: Sunday, February 10, 2002 11:55 PM
+> > To: Bryan Parno
+> > Subject: Re: Indy article (fwd)
+> >
+> >
+> > Dear Bryan,
+> >
+> > Thank you for getting back to me. About the matching process, not that
+you
+> > didn't give a perfectly clear picture of it in your response : )....but,
+> do
+> > you think that people are matched based on how similarly they respond to
+> the
+> > questions or are the responses correlated for each question; for
+instance
+> do
+> > girls who would take a guy to the North End on a date get matched with
+> guys
+> > who would give flowers on Valentine's Day. Or is it just an inscrutable
+> > computer program into which responses are plugged and out of which a
+list
+> of
+> > compatibles shoots?
+> >
+> > I have one more request for you: Do you think you could forward me the
+> names
+> > of any of the people who dated as a result of Datamatch? Their stories
+> would
+> > be good anecdotes for the article. It's okay if they don't want to be
+> > interviewed, but if they don't mind, I'd really like to talk to a few of
+> > them.
+> >
+> > thanks,
+> > susan
+> > ----- Original Message -----
+> > From: "Bryan Parno" <parno@hcs.harvard.edu>
+> > To: "HCS Datamatch Project" <datamtch@hcs.harvard.edu>
+> > Sent: Sunday, February 10, 2002 8:59 PM
+> > Subject: RE: Indy article (fwd)
+> >
+> >
+> > > Hi Susan,
+> > >
+> > > I'm the Projects Coordinator for HCS, and I'm currently overseeing the
+> > > Datamatch project.  I'll try to answer your questions, but if I leave
+> > > anything out, feel free to call me at 3-3038.
+> > > The matching algorithm employs advanced statistical modeling and years
+> of
+> > > psychological studies to reduce the art of match making to an exact
+> > science.
+> > > Or maybe it's just a random number generator.  We really can't say.
+The
+> > > questions are written collectively by the team of HCS members working
+on
+> > the
+> > > project, though we certainly welcome all suggestions.  The questions
+are
+> > > highly tuned to reach deep within each person's soul and draw out the
+> > hidden
+> > > factors that truly characterize their unique personality.
+> > > Feedback regarding the survey is overwhelmingly positive - who doesn't
+> > > enjoy an amusing outlet for procrastination?  I have heard of a few
+> dates,
+> > > blind dates, and even relationships that developed as a direct result
+of
+> > > Datamatch.  Just this evening, an acquaintance of mine related how
+> > Datamatch
+> > > lead to an invitation for an evening of Latin dancing.  I'm not really
+> at
+> > > liberty to say what happened afterwards...
+> > > Last year, over 2200 people filled out the survey.  You can see the
+> > > statistical breakdown at
+> http://www.hcs.harvard.edu/~datamatch/stats.html
+> > > We won't compile statistics for this year's survey until after the
+> survey
+> > > closes on the night of the 13th.  I can send you the results then, if
+> > you're
+> > > interested.  Currently, we have over 1300 people in the database, with
+> > three
+> > > days yet to go.
+> > > I hope this helps with the story.
+> > >
+> > >
+> > >
+> > >                  Bryan
+> > >
+> > >
+> > > -----Original Message-----
+> > > From: HCS Datamatch Project [mailto:datamtch@hcs.harvard.edu]
+> > > Sent: Saturday, February 09, 2002 6:16 PM
+> > > To: Bryan Parno
+> > > Subject: Indy article (fwd)
+> > >
+> > >
+> > >
+> > >
+> > > --
+> > > HCS Datamatch <http://hcs.harvard.edu/datamatch/>
+> > >
+> > > ---------- Forwarded message ----------
+> > > Date: Sat, 9 Feb 2002 15:41:52 -0500 (EST)
+> > > From: Susan Joan Ashley <sashley@fas.harvard.edu>
+> > > To: datamatch@hcs.harvard.edu
+> > > Subject: Indy article
+> > >
+> > > Dear HCS,
+> > >
+> > > I'm a reporter for the Independent working on a Valentine's Day story
+> for
+> > > the next issue. I was wondering if you could answer a few questions
+> > > regarding Datamatch.
+> > >
+> > > First, I'd like to know: how is it really done? What factors make two
+> > > people show up on each other's lists? Who writes the questions and
+where
+> > > did that person come up with the ideas? What are the questions testing
+> > > for?
+> > >
+> > > Next, what sort of feedback do you get about the survey? Do you know
+of
+> > > any couples who met through datamatch? Do you know of any people who
+> > > actually contacted their matches?
+> > >
+> > > My other questions are more statistical. Do you know how many people
+> have
+> > > filled out the survey this year? Is that more or less than last year?
+> Are
+> > > there any interesting statistics regarding the questions, like what
+> > > percentage of us kick puppies after all?
+> > >
+> > > Finally, is there any other juicy information regarding datamatch a
+> > > reporter would wish she knew?
+> > >
+> > > Thank you for your time. I look forward to hearing from you.
+> > >
+> > > Sincerely,
+> > > susan
+> > >
+> >

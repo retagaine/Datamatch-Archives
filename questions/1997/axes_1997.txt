@@ -1,0 +1,14 @@
+prudishness 4e 5ed 10d 34ed 38d 42d
+freakishness 10d 12e 18e 26e 36e
+anality 14e 16e 19e 20e 22de 38d 40d 42d
+ambition 1e 3d 11e 20e 31e 40d
+introversion 4e 7e 12e 16e 17e 19e 20e 27e 38d 40d
+music taste 2ed   /* low weight */
+intellectualism 6de 20e 30e
+comics 8de
+formality/system 10d 18e 19e 24e 28d 30e 31e 33e 37e 41d
+liberalism 25e
+personality shape 26de
+plays well with others 25e 26e 27d
+scooby doo 36ed
+poets 39d

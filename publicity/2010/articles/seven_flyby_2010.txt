@@ -1,0 +1,41 @@
+Seven Questions About Datamatch
+By Xi Yu
+Share
+
+FEB
+12
+2010
+
+Datamatch may be the hottest thing at Harvard (except maybe your significant other) around this time of year. Using an algorithm that's now over a decade old, the service, which attracted over 600 newly registered users within less than a day of its release on Wednesday, helps matchless folk at Harvard find true love. Or so it claims.
+
+But how do you know what love is by just answering 30 simple questions? Has it ever worked? We asked James W. Danz '12, communications manager of the Harvard Computer Society—the student organization that provides the service every year—for the inside scoop.
+
+FlyBy: What is the goal of Datamatch?
+
+Danz: It's not like we're actually trying to pair people up with the love of their lives—clearly we are, right? [He chuckles.] It's to create something fun for the Harvard student body, at least for a week.
+
+FlyBy: Who writes the questions?
+
+Danz: We [the Harvard Computer Society] rewrite them from scratch every year. Last Saturday, we got 10 of us together to try to think of funny stuff. We try to have a good balance of geeky humor, general Harvard humor, and some things that mostly relate to real relationships. We make sure the questions are funny because we want the experience of completing Datamatch to be funny.
+
+FlyBy: Has a match ever worked?
+
+Danz: I have one personal anecdote... [He proceeds to tell us about one girl he got matched with, and how awkward that was.] It at least has been used to generate real life hilarious awkwardness, but I don't know about real love.
+
+FlyBy: What can you tell us about the algorithm and its ability to find love?
+
+Danz: The algorithm is over 10 years old. It's got 10 years of experience with the Harvard student body under its belt. We have made some modifications to it throughout the years; this year we actually did decide to write something new from scratch. We're still deciding whether to use it. The old algorithm in the past has not ensured bidirectional matching. We don't want it to be unfortunate like that, so we're exploring the possibility of building pairs.
+
+FlyBy: What are some of your favorite questions and answers?
+
+Danz: "What part of the Harvard experience best symbolizes your love life?... Pset night: I know I'm just setting myself up to be hurt, but I still can't stop." "Your first date is going poorly. You... Get a stronger pair of binoculars." "You walk in on your significant other cheating. You... Invade Troy."
+
+FlyBy: Do you think this questionnaire is representative of love life at Harvard?
+
+Danz: Yes. Everybody at Harvard is rushed. The fact that we need to build it [for students] to flip through when they know they're supposed to be paying attention in lecture shows the average amount of time that the average student is willing to devote to their love life.
+
+FlyBy: Do you have a Valentine?
+
+Danz: Yes. She already took [the quiz] for that reason.
+
+To find your true love, go to datamatch.hcs.harvard.edu and register. Answer the 30-question survey, and hit "Lead me to my true love." The program will work its top-secret magic and return up to 10 names of your true love matches to your e-mail inbox on Valentine's Day.
