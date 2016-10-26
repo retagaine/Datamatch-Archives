@@ -1,0 +1,33 @@
+Assignments created after meeting on 10/7/15 and assigned for 10/14/15
+
+===
+
+Hi all,
+
+Fred, Jason, Roger: read the part about "Separating the Client-Side." It's important and it's why I cc-ed y'all.
+
+Logistics: It's pretty clear 1.5 hours wasn't enough to have discussion that I wasn't rushing along needfully. We're going to meet at 6:45 PM, and try and stretch that as much as we can to 8:45. Those who have to leave or arrive later can, but these are new expected times. Also, didn't like how noisy Ticknor was--let's do Lamont basement from now on. I'll let you know if Lamont gets reserved and we have to do something else.
+
+Separating the Client-Side: Alex, Promit, and I talked about some technical stuff after tonight's meeting, and he made a great point that we can just separate the API--the part of Rails handling the database, the controller, getting/posting info--from the actual client-side details.
+
+I think this is a great idea. It will simplify our Rails code, which I've been meaning to do for forever, and it will give us a lot of liberty to implement the cool looking stuff Alex was showing off at the meeting.
+
+Our website basically won't look like 2008 anymore.
+
+So tonight I reorganized the folder structure. I'm going to be building the actual Rails part from the ground up into a sparse API, and Alex will start work on the JS in the client folder.
+
+This is important, and it could take some time--or no time at all--so I'll bring this up again at the next meeting.
+
+ASSIGNMENTS
+
+Alex: Basically all the stuff we talked about tonight. Also, see the last part of Jessica's assignments.
+
+Jessica: Throw together a lot of options for color scheme pairings, along with hex values of all colors involved (includes background, foreground, border, etc.). Throw together sample splash, static, and banner logos. These don't have to look great, but you should emphasize things like the specific text, the text's spatial placement, and the "theme" of the logo (what it would look like when perfect). See the minutes about our ideas if you need to. Follow up with Harnek about other restaurant sponsors beside Zinnekin's, focusing on the "prize dates" that Annie talked about. Ask Alex what he needs help in the client-side with--JS, design, etc. Learn his code flow if you need to.
+
+Jay: Write python functions that take in user info and classify/sub-classify them on undergrad/grad/alumni and no-dating/maybe/yes-dating (and return as a format Promit can use). We have the results for people who gave the emails of people they were actually dating, so--come up with a way of modifying k-nearest neighbors--or another ML alg.--based on the knowledge of previous "perfect" matches. Write as much code for that new method as you can. I might also have some website stuff for you to work on.
+
+Promit: Start cleaning up the old python code ("datamatch") and streamlining the code; start cleaning up the original C++ file ("match.cc" and "match.h") and converting them to python. Make liberal use of modern packages (i.e. numpy and SKL). If you can't actually write the internal code, prepare lots of method headers and comments explaining what should be calling what. Meet with Jay if you need to figure out how to make this work with the user info he's giving you. Don't be lazy--we're not using masks and C code anymore, so there's def stuff you can cut out.
+
+Annie: Get ready for the meeting with Pinker, and organize the details of time and who else will be there. Follow up with Satire V based on what we agreed to tell them (see minutes). Prepare a semi-long survey addressing the major issues we discussed (see minutes; primarily, things like "what makes you want to match with someone"; "blind dates?"; "serious or non-serious questions"); and come up with a realistic plan for releasing this survey. Expect another web assignment after I get this API set up.
+
+I'll be in touch on Slack to clarify all of these.

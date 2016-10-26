@@ -1,0 +1,17 @@
+Hi all,
+
+I liked the coding session we did today, and business matters seem to be settled for now, so we'll do another one next week. After that we'll probably pivot toward pubbing, since we should start talking about that.
+
+Assignments
+
+Alex: Finish middleware. Spec the JSON schema for the endpoints that I've already created; I'll give you a list of all the data we have later this week. Add a progress bar and auto-scrolling to the survey page (and w/e you think you can do to make the survey page look nicer)>
+
+Jessica: Add a font/logo to the assets for the frontend. Mock-up a user info page as well as you can; it doesn't have to be perfect, just want you to start getting a good idea of how to build views in React. Finish contacting UC and Harnek.
+
+Annie: Satire V. Rewrite all existing JSON to fit w/e schemas Alex says he'd prefer. I can help you with testing to make sure your JSON are correct, but you should figure out the other details for yourself. Finish that survey--includes wording and distribution method (i.e. what the email says!) as well as the questions.
+
+Promit: Finish JSON parsing of Users by tomorrow night. Finish code to convert users to weights and "score" vectors (like we did last year). This should be ready to run and print from main by next week. This should reuse a lot of old code, so if it's not done by then we have to talk.
+
+Jay: Finish output of User matches as both JSON and line-by-line text files (the latter basically being the same as last year). Reformat the main() code from last year--the options parser--so that it works with everything we have this year, just leaving comments/blanks for calls we don't have yet. Get Playlist section working well enough that given the User data structure you'll output a simple list of matches per user (i.e. they can be dummy matches, but start outputting something!)
+
+Promit and Jay: Refactoring old algorithm code is taking longer than I'd expected, so I'm going to try and get another meeting this weekend/Monday so we can see what we actually have working.

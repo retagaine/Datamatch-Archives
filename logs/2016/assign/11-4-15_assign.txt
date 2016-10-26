@@ -1,0 +1,31 @@
+Hi all,
+
+Sorry for the late assignments. Like I mentioned in the meeting, these two coming weeks are unfortunately pretty bad for me. I'm going to try and be diligent and keep things moving, but things might slow down, and that's directly my fault.
+
+Everyone: Next week will be focused on pubbing, so everyone will have a minor assignment based on that. Everyone present at the coming meeting needs to bring: one poster idea, which means both a graphic design you can explain and a sentence/phrase that would go verbatim on the poster; and a Datamatch slogan that we can use on all pubbing items. 
+
+These seem a little silly, but it is necessary for brainstorming and shouldn't take long. As a reminder of the "theme," in the last meeting we discussed two main goals of pubbing:
+1. Reinforce the message that meeting up with people is by default casual.
+2. Getting people to sign up and complete the Datamatch process from beginning to end.
+
+Here are also individual assignments:
+
+Alex: Completed middleware. Have the frontend and backend running simultaneously; as proof, be capable of printing the details of the default user on any page you'd like (the JSON endpoint should be set up for you soon.) Have a working user form page that when submitted goes the survey page (you can use a mock form format and not actually have the API request do anything).
+
+Jessica: Any follow up with Harnek and UC. Have a scrolling survey page, with a scroll bar. Design a referral page--in raw HTML if you need to. (Be ready to show that referral page; use previous years for examples). Ask Alex if you need help.
+
+Annie: Finish updating the user info GET and the survey info GET endpoints. If you manage those, get started on the POST endpoints; if you manage those, talk to me. (Talk to me either way if you have trouble).
+
+Promit: What we discussed.
+
+Jay: Refactor the python code so that user weighting is done with our version of the code (i.e. converting users into vectors, or some other datatype). This should be easy--most of the code is done for use. Finish defining the data structure for matches and finish output to a file (both JSON and line-by-line) of the matches--again, can reuse old code (you can use filler code to create the matches). As hard proof that it works, you should be able to run a scratch file using these methods that: prints the weighted users; and outputs the matches files.
+
+I'm also going to be refactoring the algorithm file structure, and doing minor work on the file input and the C++ code conversion.
+
+Jason: Nothing is required of you, but if you'd like to bring pubbing ideas, they would be appreciated. You'll also find it beneficial to read through the old algorithm files: datamatch and match.cc in algo:algorithm/old_algorithm in the repo are the relevant files. (Ask if you're having trouble finding the files, the folder structure is pretty wonky at the moment).
+
+And that's it! In light of the holiday, here's some Rails-ese to finish the assignments:
+
+<%= content_tag(:h1, "Happy Halloween") %>
+<%= Holiday.find_by(name: "halloween").greeting.titeize %>
+<%= image_tag "boooooo", src: "https://media.giphy.com/media/Z8pzh8afGbZle/giphy.gif %>

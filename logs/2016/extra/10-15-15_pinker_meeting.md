@@ -1,0 +1,50 @@
+# PINKER Notes:
+- right now the algorithm is based on similarity:
+  - promit:
+    - assuming that similarity
+    - assorted of meeting : likes attract
+  - promit: bucket system
+    - taking it for fun?
+    - short term hook up vs. long term relationships
+    - short term -> looks/ especially for men; 
+    - dating sites
+    - helen fisher
+    - dataclism, by chris rudder: okay cupid
+    - looks matter a lot for gay male meeting market; gay women -> not necessarily looks
+  - desirability: what you want and who wants you is different
+    - how to solve that problem: 
+    - research medical internship /interns matches
+  - blind date
+    - chris rudder
+  - helen fisher : 
+  - david bus
+    - love sex and attraction
+- HOW DO WE GET PEOPLE TO SIGN UP?
+  - more serious? less serious?
+  - untinder
+  - the reasons we are doing “untinder”
+    - this is not hook-up; interested in personal connection
+  - robert chaldinee? 
+    - how to persuade people??
+    - giving information of what other people do;
+- how to convince people go on dates
+- can we use your name
+  - *DESIGNED WITH FEEDBACK FROM STEVEN PINKER!*
+
+- we are the UNTINDER
+  - beyond tinder, not just tinder
+- what are the chances that you like best is in your class? in your dining hall? in your math 55 class?
+- why settle for the tiny random sample to bump into?
+- google scholar -> attraction, romantic compatibility, mating, 
+  - recent meta analysis
+  - literature; recent books by fisher and rudder
+  - read on that!
+  - similarities vs. opposites attract
+  - liberal/ personality/ high strong
+  - laid back/ vs. laid back
+  - what should we weight more heavily?
+- best thing: making it data driven; for people who went on the dates: 
+- database of questions: who responded to their match; which questions -> predict who went on matches?
+- what pattern of question similarities -> cause them to actually go on the dates?
+- blind data match
+  - dating sites show that blind dates are more successful

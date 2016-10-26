@@ -1,0 +1,21 @@
+Hi all,
+
+Logistics: another reminder: our meetings are in Lamont at 6:45.
+
+ASSIGNMENTS:
+
+Everybody: 
+
+Get the API server working. This is almost the exact same as getting the original Rails server working: there's just some slight changes in the files you need, and I'll update the instructions file to reflect that. (It's applications.yml instead of secrets.yml).
+
+Get the Client server working. You're all added to the repo, and Alex added great instructions on how to do it.
+
+Alex: Figure out how to get the API and client both working locally so that they can talk to each other and we can do tests. And basically you have the freedom to implement the other features of the website however you want (I'd start with successfully getting users to be able to submit their personal info. Refer to previous site pics for the form design). See Jessica's assignments.
+
+Jessica: Mock up a picture of the logo and color scheme we decided upon in the meeting. (See minutes; ask if I left something out or was unclear). Contact Harnek about those prize restaurants about HCS funding; same with UC funding. Get a concrete list of agreed upon restaurants. Get a job from Alex with the website; I'm leaving it to you to talk to each other and sub-delegate.
+
+Annie: Take notes at our meeting with Pinker. Create a Google form with potential survey questions and a pub email (key words being "unlock your matches"); don't actually release the survey! (Share us on the form.) Based on how I described APIs and controllers, create a skeleton for an ArchiveController with endpoints that will let users see past questions. You have some design freedom, but key points include: an "index" that gets you a list of all the events; a "search" that lets you get a list of all the questions for a specific year. You don't have to actually define anything in the methods; just construct the API like I've been doing in UsersController. Ask if you have questions.
+
+Promit: We talked about this.
+
+Jay: Promit should be in touch. To recap: read the minutes and Promit's notes. You're in charge of the Bucket code and helping Promit fill out the Euclidean distance code. I'll potentially be in touch with the website as well. Ask if you have questions. (Feel better :D )

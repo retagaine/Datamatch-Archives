@@ -1,0 +1,209 @@
+﻿(1) Which World Cup team describes your sex life?
+(A) Germany: ruthless and efficient
+(B) Brazil: absolutely destroyed
+(C) Costa Rica: tiny but formiddable
+(D) America: a lot of bravado for a little bit of show
+(E) North Korea: not even playing, but you lie about all your wins
+
+(2) What highly infectious disease describes your sex life?
+(A) Ebola: hot, messy, and causing worldwide panic.
+(B) Black Plague: I've been inside of everybody in Europe
+(C) Influenza: spend all of my time in bed leaking fluids
+(D) Chicken pox: I got that out of my system when I was a kid.
+(E) Yellow fever.
+
+(3) What's your favorite number?
+(A) 3.1415926535....
+(B) 69
+(C) CS50
+(D) $1.16 billion and counting
+(E) I don't know. Why don't you give me your number, and we can figure something out?
+
+(4) My beliefs hew toward those of the ______ party.
+(A) Democratic
+(B) Republican
+(C) Sigma Chi
+(D) pizza
+(E) pset
+
+(5) What's your mobile app of choice?
+(A) Tinder: Constantly having sex.
+(B) Yik Yak: Bragging about constantly having sex.
+(C) Uber: Getting home from constantly having sex.
+(D) Vine: Videos of you constantly having sex--full length.
+(E) Clash of Clans: This is why you're never having sex.
+
+(6) What poem would you recite to your love to prove your ardor and Harvard erudition?
+(A) How do I love thee? Let me count the ways. / I love thee to the depth and breadth and GPA
+(B) Had we but world enough and time / This coyness surely were no crime / But at my back I always hear / Section's winged chariot hurring near
+(C) I carry your netflix password with me(i carry it in / my laptop)i am never without it
+(D) Come live with me and be my lab partner / And we will all the theorems prove
+(E) Rose are red / violets are blue / I don't know how to rhyme / Wanna hook up?
+
+(7) Who is your ideal celebrity SO?
+(A) Chris Pratt: he can guard my galaxy any day
+(B) Amy Poehler: check out those Golden Globes
+(C) Kim Jong Un: Glorious Leader is Number One SO.
+(D) Dean Khurana: holistically synergize a dynamic relationship-centered infrastructure.
+(E) Palmela Handerson: the cousin of Jill.
+
+(8) Who is your ideal fictional SO?
+(A) Cersei Lannister: I love her like a sister.
+(B) Walter White: I'm absolutely addicted to him.
+(C) Smaug the dragon: mature, wealthy, and smolderingly hot.
+(D) Olaf the snowman: cool as ice and you'll melt his heart.
+(E) All my SOs are fictional.
+
+(9) Your favorite sport is...
+(A) Football
+(B) Fantasy football
+(C) Beating Yale
+(D) Beer pong
+(E) Super Smash Bros.
+
+(10) What was responsible for your last sleepless night?
+(A) Debugging code :/
+(B) The party next door >:|
+(C) Netflix adding every season of Friends :D
+(D) My professor :(
+(E) My professor ;)
+
+(11) The John Harvard statue is also called the "statue of three lies." Among those lies is...
+(A) "Teaching staff will be available to answer all questions."
+(B) "Of couse I love you."
+(C) "Living in the Quad isn't so bad."
+(D) "We have your resume, and we'll contact you as soon as we can."
+(E) "I'm premed because I want to save lives."
+
+(12) You meet the love of your life. You...
+(A) Ask them out!
+(B) Thank Datamatch.
+(C) Swipe right.
+(D) Increase the video quality.
+(E) Wake up.
+
+(13) Datamatch is considering a corporate partnership. Would you prefer it to be...
+(A) OK Cupid: we promise we won't run (m)any experiments on you.
+(B) Heinz: use condiments
+(C) Felipe's: love is like a burrito
+(D) Comcast: a guarantee you'll get screwed.
+(E) Harvard DAPA: free water bottle!
+
+(14) Who was the MVP of Super Bowl 49?
+(A) Tom Brady.
+(B) Tom Brady's balls.
+(C) Malcolm Butler.
+(D) The guy who called a throw instead of a run.
+(E) Katy Perry's left shark.
+
+(15) What is the most desirable trait in an SO?
+(A) High GPA.
+(B) Caring, warm, kind...just kidding, ca$h money
+(C) Knows how to traverse a red-black tree in O(log n) time.
+(D) Knows how to traverse a pair of pants in O(my god) time.
+(E) Exists.
+
+(16) Conversely, what's a dealbreaker in an SO?
+(A) Thinks the Kama Sutra is a Harvard dance troupe.
+(B) When a long list of ex-lovers say s/he's insane. 
+(C) Doesn't comment code.
+(D) Watches Keeping up with the Kardashians.
+(E) Lives in the quad.
+
+(17) How did your last relationship end?
+(A) Unfriended on Facebook.
+(B) Deportation.
+(C) Apparently naked selfies are "not what I was looking for in a relationship" and "creepy" and "who are you."
+(D) Dawn.
+(E) Tripped and broke my hand.
+
+(18) Best way to get a six-pack?
+(A) Crunches.
+(B) Kale burgers.
+(C) Zumba
+(D) Sharpie.
+(E) Fake ID.
+
+(19) Because you know I'm all about that...
+(A) Bass.
+(B) Electron pair donor.
+(C) Means of production by which the superstructure is shaped.
+(D) I'll show you a base we can get to.
+(E) Premed life.
+
+(20) What do you HAVE to do before graduating?
+(A) Pee on the statue.
+(B) Pee off of Weeks Bridge.
+(C) Pee on the stacks.
+(D) Pee on Primal Scream.
+(E) Pee while having sex during Primal Scream near Weeks Bridge
+
+(21) What would you do with $350 million?
+(A) Rename the School of Public Health.
+(B) Buy a private island for me and my Datamatch.
+(C) Invest it in bitcoin.
+(D) PBR swimming pool.
+(E) Pay off my student debt. Well, most of it. 
+
+(22) How do you tell them "I love you?"
+(A) Ted Mosby. 
+(B) Drunk text.
+(C) Full page advertisement in the Crimson.
+(D) Prolonged twerking.
+(E) 0x49 0x3c 0x33 0x75
+
+(23) What is love?
+(A) Baby don't hurt me, don't hurt me.
+(B) Spontaneous secretion of nonregular quantities of oxytocin by the posterior pituitary gland.
+(C) When you finish each other's--sandwiches!
+(D) When s/he wakes you up from the hangover in time for class.
+(E) Kanye's relationship with Kanye.
+
+(24) Crimson headline you expect to see in the near future:
+(A) "Professor Donald Pfister Arrested for Underground Mushroom Narcotics Trade."
+(B) "Eldo Kim Demands Trial By Combat"
+(C) "Drew Faust Announces New Capital Campaign, Says 'Suck It Stanford'"
+(D) "Ec10 Revealed As Not A Real Class: 'Lectures Were Just Reruns of Wheel of Fortune'"
+(E) "Entire College Enrolls In CS50"
+
+(25) First thing to do when you graduate?
+(A) Sell my soul for money.
+(B) Hahaha, "graduate."
+(C) Ask my parents if the basement is still empty.
+(D) Volunteer for charity--then give up and sell my soul for money.
+(E) My TFs.
+
+(26) How would you show off for your potential Valentine?
+(A) Ice bucket challenge.
+(B) Invade Crimea.
+(C) Take a flight out of Malaysia.
+(D) Assassinate the leader of North Korea.
+(E) Break the Internet.
+
+(27) Sexiest pickup line:
+(A) Did it hurt when you fell from heaven? 'Cause your face is pretty messed up.
+(B) I want to do to you what the midterms do to the Democrats.
+(C) Are you Eldo Kim? Because you're the bomb.
+(D) I'm an endoplasmic reticulum. Would you like me rough or smooth?
+(E) Hey baby, I'm a level 76 Paladin with dragon armor.
+
+(28) What did you do during the blizzard?
+(A) Hit snooze.
+(B) Do you want to build a snowman?
+(C) Warm up with lots of hot chocolate!
+(D) Smuggle in all my cocaine.
+(E) Snuggle in all my cocaine.
+
+(29) Best place to get a date is...
+(A) Datamatch.
+(B) The "D"-hall.
+(C) The facuty lounge.
+(D) The liquor store.
+(E) A calendar.
+
+(30) The answer to this question is...
+(A) C.
+(B) 42
+(C) Bae.
+(D) Section kid knows.
+(E) The end.

@@ -1,0 +1,33 @@
+Email dump sent on 10/2/15
+
+======
+
+Hi all,
+
+I've invited you all to join the Datamatch slack channel. Please accept and familiarize yourself with the various channels.
+
+Minutes of meetings will be in the Archives folder of the repo (Alex, in particular, should take a brief look at that file). In contrast, Backend contains the algorithm, and Frontend contains the Rails site.
+
+We'll be having meetings at Wednesday from 7 to 8:30 in the upstairs to Ticknor lounge. You're free to arrive earlier and leave later. Jay, I'll be getting food from the Kong for the first meeting; getting gluten-free might be a bit difficult, so let me know if you really want something. You should all still eat dinner, though.
+
+Your assignment for Wednesday is to get Rails installed and successfully load the splash page of Datamatch. I'll be pushing detailed instructions to the repo, and will be available on Slack all the time for help. Be prepare to show me it works on Wednesday.
+
+I've changed my mind about how roles are supposed to work. Everyone will be responsible for everything. The roles will be nominal, in that they'll help me keep track of who's better at what, and you're free to put "[Algorithms/Website/etc.] Lead" on your resume, but that's it.
+
+That said, here are individual assignments. Expect to have to make short reports on your progress at the beginning of our next meeting.
+
+Jay: write a simple version of that ML algorithm that you mentioned at the meeting. It should take a file of about 500 lines where each line is two numbers: the user ID and the user score; and should return a file with a line for every user with two numbers: the user ID and the ID of the match. Be ready to show it working.
+
+Promit: thoroughly comment the python and c++ files that make up the algorithm backend. Be ready to explain the files and what they do.
+
+Annie: list at least 5 Harvard professor/alumni celebs who might be able to help with Datamatch in some way. Contact at least one of them. Contact Satire V about writing some questions for Datamatch and CC me on the email. Flesh out your instagram idea, apply it to other forms of media like twitter and fb, and be ready to explain it clearly.
+
+Alex: mock up the SPA based on the current website and the conversation in the minutes about "function vs. form" and the criticism that the current site looks "like a google form" (either as a sketch, picture, or in another framework). I also want to add an "Archives" section that will contain previous questions, members, descriptions, and pictures of old sites--in essence a public "interface" for the archives folder in the repo. Propose a design and create as good a mockup as you can.
+
+Jessica: Mock up a new color scheme, font, and logo based on the current website. Have pictures ready for Wednesday. Contact Harnek about partnerships with local businesses, especially "the special date prizes" we came up with. He can be slow to respond; be insistent and make sure he replies (and CC me on the messages).
+
+I'll contact each of you individually with more details and to give help.
+
+Finally, HCS is hosting a party in Eliot B-43 starting at 10 on Saturday. If you'd like to get drunk with like-minded coders, feel free to attend. Invite your friends if they code, too (or if they don't :P).
+
+-Raynor
